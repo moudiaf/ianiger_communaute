@@ -1,0 +1,762 @@
+[
+  {
+    "word": "Découvrez",
+    "start": 0.1,
+    "end": 0.694,
+    "startMs": 100,
+    "endMs": 694,
+    "start_ms": 100,
+    "end_ms": 694,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 0.694,
+    "end": 0.826,
+    "startMs": 694,
+    "endMs": 826,
+    "start_ms": 694,
+    "end_ms": 826,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "compteur",
+    "start": 0.826,
+    "end": 1.353,
+    "startMs": 826,
+    "endMs": 1353,
+    "start_ms": 826,
+    "end_ms": 1353,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "intelligent",
+    "start": 1.353,
+    "end": 2.079,
+    "startMs": 1353,
+    "endMs": 2079,
+    "start_ms": 1353,
+    "end_ms": 2079,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "prépayé",
+    "start": 2.079,
+    "end": 2.541,
+    "startMs": 2079,
+    "endMs": 2541,
+    "start_ms": 2079,
+    "end_ms": 2541,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "RT100",
+    "start": 2.541,
+    "end": 2.87,
+    "startMs": 2541,
+    "endMs": 2870,
+    "start_ms": 2541,
+    "end_ms": 2870,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "d'e-EnergieTEC",
+    "start": 2.87,
+    "end": 3.794,
+    "startMs": 2870,
+    "endMs": 3794,
+    "start_ms": 2870,
+    "end_ms": 3794,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 3.794,
+    "end": 3.86,
+    "startMs": 3794,
+    "endMs": 3860,
+    "start_ms": 3794,
+    "end_ms": 3860,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "contrôlez",
+    "start": 3.86,
+    "end": 4.453,
+    "startMs": 3860,
+    "endMs": 4453,
+    "start_ms": 3860,
+    "end_ms": 4453,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "votre",
+    "start": 4.453,
+    "end": 4.783,
+    "startMs": 4453,
+    "endMs": 4783,
+    "start_ms": 4453,
+    "end_ms": 4783,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "énergie",
+    "start": 4.783,
+    "end": 5.245,
+    "startMs": 4783,
+    "endMs": 5245,
+    "start_ms": 4783,
+    "end_ms": 5245,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "en",
+    "start": 5.245,
+    "end": 5.377,
+    "startMs": 5245,
+    "endMs": 5377,
+    "start_ms": 5245,
+    "end_ms": 5377,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "toute",
+    "start": 5.377,
+    "end": 5.707,
+    "startMs": 5377,
+    "endMs": 5707,
+    "start_ms": 5377,
+    "end_ms": 5707,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "simplicité",
+    "start": 5.707,
+    "end": 6.366,
+    "startMs": 5707,
+    "endMs": 6366,
+    "start_ms": 5707,
+    "end_ms": 6366,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "!",
+    "start": 6.366,
+    "end": 6.432,
+    "startMs": 6366,
+    "endMs": 6432,
+    "start_ms": 6366,
+    "end_ms": 6432,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Profitez",
+    "start": 6.382,
+    "end": 6.931,
+    "startMs": 6382,
+    "endMs": 6931,
+    "start_ms": 6382,
+    "end_ms": 6931,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "d'une",
+    "start": 6.931,
+    "end": 7.274,
+    "startMs": 6931,
+    "endMs": 7274,
+    "start_ms": 6931,
+    "end_ms": 7274,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "mesure",
+    "start": 7.274,
+    "end": 7.686,
+    "startMs": 7274,
+    "endMs": 7686,
+    "start_ms": 7274,
+    "end_ms": 7686,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "précise,",
+    "start": 7.686,
+    "end": 8.234,
+    "startMs": 7686,
+    "endMs": 8234,
+    "start_ms": 7686,
+    "end_ms": 8234,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "d'une",
+    "start": 8.234,
+    "end": 8.577,
+    "startMs": 8234,
+    "endMs": 8577,
+    "start_ms": 8234,
+    "end_ms": 8577,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "recharge",
+    "start": 8.577,
+    "end": 9.126,
+    "startMs": 8577,
+    "endMs": 9126,
+    "start_ms": 8577,
+    "end_ms": 9126,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "sécurisée",
+    "start": 9.126,
+    "end": 9.743,
+    "startMs": 9126,
+    "endMs": 9743,
+    "start_ms": 9126,
+    "end_ms": 9743,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "STS,",
+    "start": 9.743,
+    "end": 10.018,
+    "startMs": 9743,
+    "endMs": 10018,
+    "start_ms": 9743,
+    "end_ms": 10018,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "d'un",
+    "start": 10.018,
+    "end": 10.292,
+    "startMs": 10018,
+    "endMs": 10292,
+    "start_ms": 10018,
+    "end_ms": 10292,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "suivi",
+    "start": 10.292,
+    "end": 10.635,
+    "startMs": 10292,
+    "endMs": 10635,
+    "start_ms": 10292,
+    "end_ms": 10635,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "en",
+    "start": 10.635,
+    "end": 10.772,
+    "startMs": 10635,
+    "endMs": 10772,
+    "start_ms": 10635,
+    "end_ms": 10772,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "temps",
+    "start": 10.772,
+    "end": 11.115,
+    "startMs": 10772,
+    "endMs": 11115,
+    "start_ms": 10772,
+    "end_ms": 11115,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "réel",
+    "start": 11.115,
+    "end": 11.39,
+    "startMs": 11115,
+    "endMs": 11390,
+    "start_ms": 11115,
+    "end_ms": 11390,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 11.39,
+    "end": 11.527,
+    "startMs": 11390,
+    "endMs": 11527,
+    "start_ms": 11390,
+    "end_ms": 11527,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "d'une",
+    "start": 11.527,
+    "end": 11.87,
+    "startMs": 11527,
+    "endMs": 11870,
+    "start_ms": 11527,
+    "end_ms": 11870,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "installation",
+    "start": 11.87,
+    "end": 12.693,
+    "startMs": 11870,
+    "endMs": 12693,
+    "start_ms": 11870,
+    "end_ms": 12693,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "facile.",
+    "start": 12.693,
+    "end": 13.173,
+    "startMs": 12693,
+    "endMs": 13173,
+    "start_ms": 12693,
+    "end_ms": 13173,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Avec",
+    "start": 13.173,
+    "end": 13.439,
+    "startMs": 13173,
+    "endMs": 13439,
+    "start_ms": 13173,
+    "end_ms": 13439,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "l'application",
+    "start": 13.439,
+    "end": 14.301,
+    "startMs": 13439,
+    "endMs": 14301,
+    "start_ms": 13439,
+    "end_ms": 14301,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "RENTecPay,",
+    "start": 14.301,
+    "end": 14.965,
+    "startMs": 14301,
+    "endMs": 14965,
+    "start_ms": 14301,
+    "end_ms": 14965,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "votre",
+    "start": 14.965,
+    "end": 15.297,
+    "startMs": 14965,
+    "endMs": 15297,
+    "start_ms": 14965,
+    "end_ms": 15297,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "compteur",
+    "start": 15.297,
+    "end": 15.828,
+    "startMs": 15297,
+    "endMs": 15828,
+    "start_ms": 15297,
+    "end_ms": 15828,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "est",
+    "start": 15.828,
+    "end": 16.027,
+    "startMs": 15828,
+    "endMs": 16027,
+    "start_ms": 15828,
+    "end_ms": 16027,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "à",
+    "start": 16.027,
+    "end": 16.093,
+    "startMs": 16027,
+    "endMs": 16093,
+    "start_ms": 16027,
+    "end_ms": 16093,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "portée",
+    "start": 16.093,
+    "end": 16.491,
+    "startMs": 16093,
+    "endMs": 16491,
+    "start_ms": 16093,
+    "end_ms": 16491,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 16.491,
+    "end": 16.624,
+    "startMs": 16491,
+    "endMs": 16624,
+    "start_ms": 16491,
+    "end_ms": 16624,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "main",
+    "start": 16.624,
+    "end": 16.89,
+    "startMs": 16624,
+    "endMs": 16890,
+    "start_ms": 16624,
+    "end_ms": 16890,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 16.89,
+    "end": 16.956,
+    "startMs": 16890,
+    "endMs": 16956,
+    "start_ms": 16890,
+    "end_ms": 16956,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "recharge",
+    "start": 16.956,
+    "end": 17.487,
+    "startMs": 16956,
+    "endMs": 17487,
+    "start_ms": 16956,
+    "end_ms": 17487,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "instantanée",
+    "start": 17.487,
+    "end": 18.217,
+    "startMs": 17487,
+    "endMs": 18217,
+    "start_ms": 17487,
+    "end_ms": 18217,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 18.217,
+    "end": 18.35,
+    "startMs": 18217,
+    "endMs": 18350,
+    "start_ms": 18217,
+    "end_ms": 18350,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "alertes",
+    "start": 18.35,
+    "end": 18.814,
+    "startMs": 18350,
+    "endMs": 18814,
+    "start_ms": 18350,
+    "end_ms": 18814,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "utiles.",
+    "start": 18.814,
+    "end": 19.279,
+    "startMs": 18814,
+    "endMs": 19279,
+    "start_ms": 18814,
+    "end_ms": 19279,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Une",
+    "start": 19.279,
+    "end": 19.529,
+    "startMs": 19279,
+    "endMs": 19529,
+    "start_ms": 19279,
+    "end_ms": 19529,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "solution",
+    "start": 19.529,
+    "end": 20.195,
+    "startMs": 19529,
+    "endMs": 20195,
+    "start_ms": 19529,
+    "end_ms": 20195,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "connectée",
+    "start": 20.195,
+    "end": 20.945,
+    "startMs": 20195,
+    "endMs": 20945,
+    "start_ms": 20195,
+    "end_ms": 20945,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "PLC,",
+    "start": 20.945,
+    "end": 21.278,
+    "startMs": 20945,
+    "endMs": 21278,
+    "start_ms": 20945,
+    "end_ms": 21278,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "RF",
+    "start": 21.278,
+    "end": 21.445,
+    "startMs": 21278,
+    "endMs": 21445,
+    "start_ms": 21278,
+    "end_ms": 21445,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 21.445,
+    "end": 21.612,
+    "startMs": 21445,
+    "endMs": 21612,
+    "start_ms": 21445,
+    "end_ms": 21612,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "GPRS,",
+    "start": 21.612,
+    "end": 22.028,
+    "startMs": 21612,
+    "endMs": 22028,
+    "start_ms": 21612,
+    "end_ms": 22028,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "idéale",
+    "start": 22.028,
+    "end": 22.528,
+    "startMs": 22028,
+    "endMs": 22528,
+    "start_ms": 22028,
+    "end_ms": 22528,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "pour",
+    "start": 22.528,
+    "end": 22.861,
+    "startMs": 22528,
+    "endMs": 22861,
+    "start_ms": 22528,
+    "end_ms": 22861,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "les",
+    "start": 22.861,
+    "end": 23.111,
+    "startMs": 22861,
+    "endMs": 23111,
+    "start_ms": 22861,
+    "end_ms": 23111,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "maisons,",
+    "start": 23.111,
+    "end": 23.778,
+    "startMs": 23111,
+    "endMs": 23778,
+    "start_ms": 23111,
+    "end_ms": 23778,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "commerces",
+    "start": 23.778,
+    "end": 24.527,
+    "startMs": 23778,
+    "endMs": 24527,
+    "start_ms": 23778,
+    "end_ms": 24527,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 24.527,
+    "end": 24.694,
+    "startMs": 24527,
+    "endMs": 24694,
+    "start_ms": 24527,
+    "end_ms": 24694,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "bureaux.",
+    "start": 24.694,
+    "end": 25.361,
+    "startMs": 24694,
+    "endMs": 25361,
+    "start_ms": 24694,
+    "end_ms": 25361,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Plus",
+    "start": 25.361,
+    "end": 25.702,
+    "startMs": 25361,
+    "endMs": 25702,
+    "start_ms": 25361,
+    "end_ms": 25702,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 25.702,
+    "end": 25.873,
+    "startMs": 25702,
+    "endMs": 25873,
+    "start_ms": 25702,
+    "end_ms": 25873,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "contrôle,",
+    "start": 25.873,
+    "end": 26.641,
+    "startMs": 25873,
+    "endMs": 26641,
+    "start_ms": 25873,
+    "end_ms": 26641,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "moins",
+    "start": 26.641,
+    "end": 27.067,
+    "startMs": 26641,
+    "endMs": 27067,
+    "start_ms": 26641,
+    "end_ms": 27067,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "d'impayés.",
+    "start": 27.067,
+    "end": 27.921,
+    "startMs": 27067,
+    "endMs": 27921,
+    "start_ms": 27067,
+    "end_ms": 27921,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Passez",
+    "start": 27.921,
+    "end": 28.355,
+    "startMs": 27921,
+    "endMs": 28355,
+    "start_ms": 27921,
+    "end_ms": 28355,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "au",
+    "start": 28.355,
+    "end": 28.5,
+    "startMs": 28355,
+    "endMs": 28500,
+    "start_ms": 28355,
+    "end_ms": 28500,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "comptage",
+    "start": 28.5,
+    "end": 29.079,
+    "startMs": 28500,
+    "endMs": 29079,
+    "start_ms": 28500,
+    "end_ms": 29079,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "intelligent",
+    "start": 29.079,
+    "end": 29.875,
+    "startMs": 29079,
+    "endMs": 29875,
+    "start_ms": 29079,
+    "end_ms": 29875,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "avec",
+    "start": 29.875,
+    "end": 30.165,
+    "startMs": 29875,
+    "endMs": 30165,
+    "start_ms": 29875,
+    "end_ms": 30165,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "e-EnergieTEC",
+    "start": 30.165,
+    "end": 31.033,
+    "startMs": 30165,
+    "endMs": 31033,
+    "start_ms": 30165,
+    "end_ms": 31033,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "!",
+    "start": 31.033,
+    "end": 31.106,
+    "startMs": 31033,
+    "endMs": 31106,
+    "start_ms": 31033,
+    "end_ms": 31106,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Commandez",
+    "start": 31.106,
+    "end": 31.906,
+    "startMs": 31106,
+    "endMs": 31906,
+    "start_ms": 31106,
+    "end_ms": 31906,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "maintenant.",
+    "start": 31.906,
+    "end": 32.885,
+    "startMs": 31906,
+    "endMs": 32885,
+    "start_ms": 31906,
+    "end_ms": 32885,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,892 @@
+[
+  {
+    "word": "Dans",
+    "startMs": 100,
+    "endMs": 348
+  },
+  {
+    "word": "quelques",
+    "startMs": 348,
+    "endMs": 596
+  },
+  {
+    "word": "années,",
+    "startMs": 596,
+    "endMs": 843
+  },
+  {
+    "word": "une",
+    "startMs": 843,
+    "endMs": 1091
+  },
+  {
+    "word": "machine",
+    "startMs": 1091,
+    "endMs": 1339
+  },
+  {
+    "word": "pourrait",
+    "startMs": 1339,
+    "endMs": 1587
+  },
+  {
+    "word": "déchiffrer",
+    "startMs": 1587,
+    "endMs": 1835
+  },
+  {
+    "word": "tous",
+    "startMs": 1835,
+    "endMs": 2083
+  },
+  {
+    "word": "les",
+    "startMs": 2083,
+    "endMs": 2330
+  },
+  {
+    "word": "mots",
+    "startMs": 2330,
+    "endMs": 2578
+  },
+  {
+    "word": "de",
+    "startMs": 2578,
+    "endMs": 2826
+  },
+  {
+    "word": "passe",
+    "startMs": 2826,
+    "endMs": 3074
+  },
+  {
+    "word": "et",
+    "startMs": 3074,
+    "endMs": 3322
+  },
+  {
+    "word": "comptes",
+    "startMs": 3322,
+    "endMs": 3569
+  },
+  {
+    "word": "bancaires",
+    "startMs": 3569,
+    "endMs": 3817
+  },
+  {
+    "word": "du",
+    "startMs": 3817,
+    "endMs": 4065
+  },
+  {
+    "word": "monde",
+    "startMs": 4065,
+    "endMs": 4313
+  },
+  {
+    "word": "en",
+    "startMs": 4313,
+    "endMs": 4561
+  },
+  {
+    "word": "moins",
+    "startMs": 4561,
+    "endMs": 4809
+  },
+  {
+    "word": "de",
+    "startMs": 4809,
+    "endMs": 5056
+  },
+  {
+    "word": "quatre",
+    "startMs": 5056,
+    "endMs": 5304
+  },
+  {
+    "word": "minutes.",
+    "startMs": 5304,
+    "endMs": 5552
+  },
+  {
+    "word": "Aujourd'hui,",
+    "startMs": 5502,
+    "endMs": 5833
+  },
+  {
+    "word": "notre",
+    "startMs": 5833,
+    "endMs": 6163
+  },
+  {
+    "word": "sécurité",
+    "startMs": 6163,
+    "endMs": 6494
+  },
+  {
+    "word": "repose",
+    "startMs": 6494,
+    "endMs": 6825
+  },
+  {
+    "word": "sur",
+    "startMs": 6825,
+    "endMs": 7156
+  },
+  {
+    "word": "le",
+    "startMs": 7156,
+    "endMs": 7487
+  },
+  {
+    "word": "chiffrement",
+    "startMs": 7487,
+    "endMs": 7817
+  },
+  {
+    "word": "RSA",
+    "startMs": 7817,
+    "endMs": 8148
+  },
+  {
+    "word": ":",
+    "startMs": 8148,
+    "endMs": 8479
+  },
+  {
+    "word": "des",
+    "startMs": 8479,
+    "endMs": 8809
+  },
+  {
+    "word": "nombres",
+    "startMs": 8809,
+    "endMs": 9140
+  },
+  {
+    "word": "premiers",
+    "startMs": 9140,
+    "endMs": 9471
+  },
+  {
+    "word": "tellement",
+    "startMs": 9471,
+    "endMs": 9802
+  },
+  {
+    "word": "gigantesques",
+    "startMs": 9802,
+    "endMs": 10133
+  },
+  {
+    "word": "qu'un",
+    "startMs": 10133,
+    "endMs": 10463
+  },
+  {
+    "word": "supercalculateur",
+    "startMs": 10463,
+    "endMs": 10794
+  },
+  {
+    "word": "classique",
+    "startMs": 10794,
+    "endMs": 11125
+  },
+  {
+    "word": "mettrait",
+    "startMs": 11125,
+    "endMs": 11456
+  },
+  {
+    "word": "des",
+    "startMs": 11456,
+    "endMs": 11786
+  },
+  {
+    "word": "milliards",
+    "startMs": 11786,
+    "endMs": 12117
+  },
+  {
+    "word": "d'années",
+    "startMs": 12117,
+    "endMs": 12448
+  },
+  {
+    "word": "à",
+    "startMs": 12448,
+    "endMs": 12779
+  },
+  {
+    "word": "les",
+    "startMs": 12779,
+    "endMs": 13109
+  },
+  {
+    "word": "trouver.",
+    "startMs": 13109,
+    "endMs": 13440
+  },
+  {
+    "word": "Mais",
+    "startMs": 13440,
+    "endMs": 13788
+  },
+  {
+    "word": "l'ordinateur",
+    "startMs": 13788,
+    "endMs": 14137
+  },
+  {
+    "word": "quantique",
+    "startMs": 14137,
+    "endMs": 14485
+  },
+  {
+    "word": "ne",
+    "startMs": 14485,
+    "endMs": 14833
+  },
+  {
+    "word": "calcule",
+    "startMs": 14833,
+    "endMs": 15181
+  },
+  {
+    "word": "pas",
+    "startMs": 15181,
+    "endMs": 15530
+  },
+  {
+    "word": "comme",
+    "startMs": 15530,
+    "endMs": 15878
+  },
+  {
+    "word": "un",
+    "startMs": 15878,
+    "endMs": 16226
+  },
+  {
+    "word": "PC",
+    "startMs": 16226,
+    "endMs": 16575
+  },
+  {
+    "word": "classique.",
+    "startMs": 16575,
+    "endMs": 16923
+  },
+  {
+    "word": "Un",
+    "startMs": 16923,
+    "endMs": 17193
+  },
+  {
+    "word": "ordinateur",
+    "startMs": 17193,
+    "endMs": 17462
+  },
+  {
+    "word": "normal",
+    "startMs": 17462,
+    "endMs": 17732
+  },
+  {
+    "word": "teste",
+    "startMs": 17732,
+    "endMs": 18002
+  },
+  {
+    "word": "les",
+    "startMs": 18002,
+    "endMs": 18272
+  },
+  {
+    "word": "combinaisons",
+    "startMs": 18272,
+    "endMs": 18541
+  },
+  {
+    "word": "une",
+    "startMs": 18541,
+    "endMs": 18811
+  },
+  {
+    "word": "par",
+    "startMs": 18811,
+    "endMs": 19081
+  },
+  {
+    "word": "une,",
+    "startMs": 19081,
+    "endMs": 19351
+  },
+  {
+    "word": "avec",
+    "startMs": 19351,
+    "endMs": 19620
+  },
+  {
+    "word": "des",
+    "startMs": 19620,
+    "endMs": 19890
+  },
+  {
+    "word": "bits",
+    "startMs": 19890,
+    "endMs": 20160
+  },
+  {
+    "word": "à",
+    "startMs": 20160,
+    "endMs": 20430
+  },
+  {
+    "word": "zéro",
+    "startMs": 20430,
+    "endMs": 20699
+  },
+  {
+    "word": "ou",
+    "startMs": 20699,
+    "endMs": 20969
+  },
+  {
+    "word": "un.",
+    "startMs": 20969,
+    "endMs": 21239
+  },
+  {
+    "word": "Le",
+    "startMs": 21239,
+    "endMs": 21685
+  },
+  {
+    "word": "processeur",
+    "startMs": 21685,
+    "endMs": 22132
+  },
+  {
+    "word": "quantique,",
+    "startMs": 22132,
+    "endMs": 22578
+  },
+  {
+    "word": "lui,",
+    "startMs": 22578,
+    "endMs": 23024
+  },
+  {
+    "word": "utilise",
+    "startMs": 23024,
+    "endMs": 23471
+  },
+  {
+    "word": "des",
+    "startMs": 23471,
+    "endMs": 23917
+  },
+  {
+    "word": "Qubits",
+    "startMs": 23917,
+    "endMs": 24363
+  },
+  {
+    "word": "en",
+    "startMs": 24363,
+    "endMs": 24810
+  },
+  {
+    "word": "superposition.",
+    "startMs": 24810,
+    "endMs": 25256
+  },
+  {
+    "word": "Grâce",
+    "startMs": 25256,
+    "endMs": 25563
+  },
+  {
+    "word": "aux",
+    "startMs": 25563,
+    "endMs": 25871
+  },
+  {
+    "word": "lois",
+    "startMs": 25871,
+    "endMs": 26178
+  },
+  {
+    "word": "quantiques,",
+    "startMs": 26178,
+    "endMs": 26486
+  },
+  {
+    "word": "il",
+    "startMs": 26486,
+    "endMs": 26793
+  },
+  {
+    "word": "explore",
+    "startMs": 26793,
+    "endMs": 27100
+  },
+  {
+    "word": "des",
+    "startMs": 27100,
+    "endMs": 27408
+  },
+  {
+    "word": "milliards",
+    "startMs": 27408,
+    "endMs": 27715
+  },
+  {
+    "word": "de",
+    "startMs": 27715,
+    "endMs": 28022
+  },
+  {
+    "word": "possibilités",
+    "startMs": 28022,
+    "endMs": 28330
+  },
+  {
+    "word": "en",
+    "startMs": 28330,
+    "endMs": 28637
+  },
+  {
+    "word": "même",
+    "startMs": 28637,
+    "endMs": 28945
+  },
+  {
+    "word": "temps.",
+    "startMs": 28945,
+    "endMs": 29252
+  },
+  {
+    "word": "En",
+    "startMs": 29252,
+    "endMs": 29684
+  },
+  {
+    "word": "1994,",
+    "startMs": 29684,
+    "endMs": 30116
+  },
+  {
+    "word": "Peter",
+    "startMs": 30116,
+    "endMs": 30548
+  },
+  {
+    "word": "Shor",
+    "startMs": 30548,
+    "endMs": 30980
+  },
+  {
+    "word": "a",
+    "startMs": 30980,
+    "endMs": 31412
+  },
+  {
+    "word": "inventé",
+    "startMs": 31412,
+    "endMs": 31844
+  },
+  {
+    "word": "l'algorithme",
+    "startMs": 31844,
+    "endMs": 32276
+  },
+  {
+    "word": "mathématique",
+    "startMs": 32276,
+    "endMs": 32707
+  },
+  {
+    "word": "parfait",
+    "startMs": 32707,
+    "endMs": 33139
+  },
+  {
+    "word": "pour",
+    "startMs": 33139,
+    "endMs": 33571
+  },
+  {
+    "word": "pulvériser",
+    "startMs": 33571,
+    "endMs": 34003
+  },
+  {
+    "word": "le",
+    "startMs": 34003,
+    "endMs": 34435
+  },
+  {
+    "word": "chiffrement",
+    "startMs": 34435,
+    "endMs": 34867
+  },
+  {
+    "word": "RSA.",
+    "startMs": 34867,
+    "endMs": 35299
+  },
+  {
+    "word": "Dès",
+    "startMs": 35299,
+    "endMs": 35587
+  },
+  {
+    "word": "qu'un",
+    "startMs": 35587,
+    "endMs": 35876
+  },
+  {
+    "word": "ordinateur",
+    "startMs": 35876,
+    "endMs": 36164
+  },
+  {
+    "word": "quantique",
+    "startMs": 36164,
+    "endMs": 36453
+  },
+  {
+    "word": "aura",
+    "startMs": 36453,
+    "endMs": 36741
+  },
+  {
+    "word": "assez",
+    "startMs": 36741,
+    "endMs": 37030
+  },
+  {
+    "word": "de",
+    "startMs": 37030,
+    "endMs": 37318
+  },
+  {
+    "word": "qubits",
+    "startMs": 37318,
+    "endMs": 37607
+  },
+  {
+    "word": "stables,",
+    "startMs": 37607,
+    "endMs": 37895
+  },
+  {
+    "word": "ce",
+    "startMs": 37895,
+    "endMs": 38184
+  },
+  {
+    "word": "qui",
+    "startMs": 38184,
+    "endMs": 38472
+  },
+  {
+    "word": "prenait",
+    "startMs": 38472,
+    "endMs": 38761
+  },
+  {
+    "word": "l'âge",
+    "startMs": 38761,
+    "endMs": 39049
+  },
+  {
+    "word": "de",
+    "startMs": 39049,
+    "endMs": 39338
+  },
+  {
+    "word": "l'univers",
+    "startMs": 39338,
+    "endMs": 39626
+  },
+  {
+    "word": "sera",
+    "startMs": 39626,
+    "endMs": 39915
+  },
+  {
+    "word": "résolu",
+    "startMs": 39915,
+    "endMs": 40203
+  },
+  {
+    "word": "pendant",
+    "startMs": 40203,
+    "endMs": 40492
+  },
+  {
+    "word": "votre",
+    "startMs": 40492,
+    "endMs": 40780
+  },
+  {
+    "word": "pause",
+    "startMs": 40780,
+    "endMs": 41069
+  },
+  {
+    "word": "café.",
+    "startMs": 41069,
+    "endMs": 41357
+  },
+  {
+    "word": "C'est",
+    "startMs": 41357,
+    "endMs": 41683
+  },
+  {
+    "word": "ce",
+    "startMs": 41683,
+    "endMs": 42009
+  },
+  {
+    "word": "qu'on",
+    "startMs": 42009,
+    "endMs": 42335
+  },
+  {
+    "word": "appelle",
+    "startMs": 42335,
+    "endMs": 42660
+  },
+  {
+    "word": "le",
+    "startMs": 42660,
+    "endMs": 42986
+  },
+  {
+    "word": "Q-Day.",
+    "startMs": 42986,
+    "endMs": 43312
+  },
+  {
+    "word": "Alors,",
+    "startMs": 43312,
+    "endMs": 43835
+  },
+  {
+    "word": "faut-il",
+    "startMs": 43835,
+    "endMs": 44359
+  },
+  {
+    "word": "paniquer",
+    "startMs": 44359,
+    "endMs": 44882
+  },
+  {
+    "word": "?",
+    "startMs": 44882,
+    "endMs": 45406
+  },
+  {
+    "word": "Absolument",
+    "startMs": 45406,
+    "endMs": 45901
+  },
+  {
+    "word": "pas",
+    "startMs": 45901,
+    "endMs": 46396
+  },
+  {
+    "word": "!",
+    "startMs": 46396,
+    "endMs": 46891
+  },
+  {
+    "word": "Les",
+    "startMs": 46891,
+    "endMs": 47201
+  },
+  {
+    "word": "scientifiques",
+    "startMs": 47201,
+    "endMs": 47512
+  },
+  {
+    "word": "et",
+    "startMs": 47512,
+    "endMs": 47822
+  },
+  {
+    "word": "le",
+    "startMs": 47822,
+    "endMs": 48132
+  },
+  {
+    "word": "NIST",
+    "startMs": 48132,
+    "endMs": 48442
+  },
+  {
+    "word": "ont",
+    "startMs": 48442,
+    "endMs": 48753
+  },
+  {
+    "word": "déjà",
+    "startMs": 48753,
+    "endMs": 49063
+  },
+  {
+    "word": "finalisé",
+    "startMs": 49063,
+    "endMs": 49373
+  },
+  {
+    "word": "de",
+    "startMs": 49373,
+    "endMs": 49684
+  },
+  {
+    "word": "nouveaux",
+    "startMs": 49684,
+    "endMs": 49994
+  },
+  {
+    "word": "algorithmes",
+    "startMs": 49994,
+    "endMs": 50304
+  },
+  {
+    "word": "post-quantiques",
+    "startMs": 50304,
+    "endMs": 50614
+  },
+  {
+    "word": "basés",
+    "startMs": 50614,
+    "endMs": 50925
+  },
+  {
+    "word": "sur",
+    "startMs": 50925,
+    "endMs": 51235
+  },
+  {
+    "word": "des",
+    "startMs": 51235,
+    "endMs": 51545
+  },
+  {
+    "word": "réseaux",
+    "startMs": 51545,
+    "endMs": 51856
+  },
+  {
+    "word": "géométriques",
+    "startMs": 51856,
+    "endMs": 52166
+  },
+  {
+    "word": "impossibles",
+    "startMs": 52166,
+    "endMs": 52476
+  },
+  {
+    "word": "à",
+    "startMs": 52476,
+    "endMs": 52787
+  },
+  {
+    "word": "pirater,",
+    "startMs": 52787,
+    "endMs": 53097
+  },
+  {
+    "word": "même",
+    "startMs": 53097,
+    "endMs": 53407
+  },
+  {
+    "word": "par",
+    "startMs": 53407,
+    "endMs": 53717
+  },
+  {
+    "word": "le",
+    "startMs": 53717,
+    "endMs": 54028
+  },
+  {
+    "word": "quantique.",
+    "startMs": 54028,
+    "endMs": 54338
+  },
+  {
+    "word": "La",
+    "startMs": 54338,
+    "endMs": 54758
+  },
+  {
+    "word": "nouvelle",
+    "startMs": 54758,
+    "endMs": 55178
+  },
+  {
+    "word": "forteresse",
+    "startMs": 55178,
+    "endMs": 55599
+  },
+  {
+    "word": "numérique",
+    "startMs": 55599,
+    "endMs": 56019
+  },
+  {
+    "word": "est",
+    "startMs": 56019,
+    "endMs": 56439
+  },
+  {
+    "word": "prête.",
+    "startMs": 56439,
+    "endMs": 56859
+  },
+  {
+    "word": "Abonne-toi",
+    "startMs": 56859,
+    "endMs": 57249
+  },
+  {
+    "word": "pour",
+    "startMs": 57249,
+    "endMs": 57639
+  },
+  {
+    "word": "rester",
+    "startMs": 57639,
+    "endMs": 58029
+  },
+  {
+    "word": "en",
+    "startMs": 58029,
+    "endMs": 58419
+  },
+  {
+    "word": "avance",
+    "startMs": 58419,
+    "endMs": 58809
+  },
+  {
+    "word": "!",
+    "startMs": 58809,
+    "endMs": 59199
+  }
+]

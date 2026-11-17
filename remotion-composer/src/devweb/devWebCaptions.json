@@ -1,0 +1,897 @@
+[
+  {
+    "word": "Créer",
+    "start_ms": 300,
+    "end_ms": 639
+  },
+  {
+    "word": "un",
+    "start_ms": 639,
+    "end_ms": 978
+  },
+  {
+    "word": "site",
+    "start_ms": 978,
+    "end_ms": 1317
+  },
+  {
+    "word": "web",
+    "start_ms": 1317,
+    "end_ms": 1656
+  },
+  {
+    "word": "complet",
+    "start_ms": 1656,
+    "end_ms": 1995
+  },
+  {
+    "word": "en",
+    "start_ms": 1995,
+    "end_ms": 2334
+  },
+  {
+    "word": "2026",
+    "start_ms": 2334,
+    "end_ms": 2673
+  },
+  {
+    "word": "sans",
+    "start_ms": 2673,
+    "end_ms": 3012
+  },
+  {
+    "word": "passer",
+    "start_ms": 3012,
+    "end_ms": 3351
+  },
+  {
+    "word": "des",
+    "start_ms": 3351,
+    "end_ms": 3690
+  },
+  {
+    "word": "semaines",
+    "start_ms": 3690,
+    "end_ms": 4029
+  },
+  {
+    "word": "à",
+    "start_ms": 4029,
+    "end_ms": 4368
+  },
+  {
+    "word": "coder",
+    "start_ms": 4368,
+    "end_ms": 4707
+  },
+  {
+    "word": "?",
+    "start_ms": 4707,
+    "end_ms": 5046
+  },
+  {
+    "word": "C'est",
+    "start_ms": 5046,
+    "end_ms": 5385
+  },
+  {
+    "word": "aujourd'hui",
+    "start_ms": 5385,
+    "end_ms": 5724
+  },
+  {
+    "word": "une",
+    "start_ms": 5724,
+    "end_ms": 6063
+  },
+  {
+    "word": "réalité",
+    "start_ms": 6063,
+    "end_ms": 6402
+  },
+  {
+    "word": "grâce",
+    "start_ms": 6402,
+    "end_ms": 6741
+  },
+  {
+    "word": "à",
+    "start_ms": 6741,
+    "end_ms": 7080
+  },
+  {
+    "word": "l'intelligence",
+    "start_ms": 7080,
+    "end_ms": 7419
+  },
+  {
+    "word": "artificielle.",
+    "start_ms": 7419,
+    "end_ms": 7758
+  },
+  {
+    "word": "Plus",
+    "start_ms": 7758,
+    "end_ms": 8097
+  },
+  {
+    "word": "besoin",
+    "start_ms": 8097,
+    "end_ms": 8436
+  },
+  {
+    "word": "de",
+    "start_ms": 8436,
+    "end_ms": 8775
+  },
+  {
+    "word": "partir",
+    "start_ms": 8775,
+    "end_ms": 9114
+  },
+  {
+    "word": "d'une",
+    "start_ms": 9114,
+    "end_ms": 9453
+  },
+  {
+    "word": "page",
+    "start_ms": 9453,
+    "end_ms": 9792
+  },
+  {
+    "word": "blanche",
+    "start_ms": 9792,
+    "end_ms": 10131
+  },
+  {
+    "word": ":",
+    "start_ms": 10131,
+    "end_ms": 10470
+  },
+  {
+    "word": "voici",
+    "start_ms": 10470,
+    "end_ms": 10809
+  },
+  {
+    "word": "le",
+    "start_ms": 10809,
+    "end_ms": 11148
+  },
+  {
+    "word": "workflow",
+    "start_ms": 11148,
+    "end_ms": 11487
+  },
+  {
+    "word": "moderne",
+    "start_ms": 11487,
+    "end_ms": 11826
+  },
+  {
+    "word": "en",
+    "start_ms": 11826,
+    "end_ms": 12165
+  },
+  {
+    "word": "quatre",
+    "start_ms": 12165,
+    "end_ms": 12504
+  },
+  {
+    "word": "étapes.",
+    "start_ms": 12504,
+    "end_ms": 12843
+  },
+  {
+    "word": "Première",
+    "start_ms": 12500,
+    "end_ms": 12870
+  },
+  {
+    "word": "étape",
+    "start_ms": 12870,
+    "end_ms": 13240
+  },
+  {
+    "word": ":",
+    "start_ms": 13240,
+    "end_ms": 13610
+  },
+  {
+    "word": "le",
+    "start_ms": 13610,
+    "end_ms": 13980
+  },
+  {
+    "word": "design",
+    "start_ms": 13980,
+    "end_ms": 14350
+  },
+  {
+    "word": "génératif.",
+    "start_ms": 14350,
+    "end_ms": 14720
+  },
+  {
+    "word": "Un",
+    "start_ms": 14720,
+    "end_ms": 15090
+  },
+  {
+    "word": "simple",
+    "start_ms": 15090,
+    "end_ms": 15460
+  },
+  {
+    "word": "prompt",
+    "start_ms": 15460,
+    "end_ms": 15830
+  },
+  {
+    "word": "textuel",
+    "start_ms": 15830,
+    "end_ms": 16200
+  },
+  {
+    "word": "dans",
+    "start_ms": 16200,
+    "end_ms": 16570
+  },
+  {
+    "word": "des",
+    "start_ms": 16570,
+    "end_ms": 16940
+  },
+  {
+    "word": "outils",
+    "start_ms": 16940,
+    "end_ms": 17310
+  },
+  {
+    "word": "comme",
+    "start_ms": 17310,
+    "end_ms": 17680
+  },
+  {
+    "word": "v0",
+    "start_ms": 17680,
+    "end_ms": 18050
+  },
+  {
+    "word": "ou",
+    "start_ms": 18050,
+    "end_ms": 18420
+  },
+  {
+    "word": "Bolt",
+    "start_ms": 18420,
+    "end_ms": 18790
+  },
+  {
+    "word": "génère",
+    "start_ms": 18790,
+    "end_ms": 19160
+  },
+  {
+    "word": "une",
+    "start_ms": 19160,
+    "end_ms": 19530
+  },
+  {
+    "word": "interface",
+    "start_ms": 19530,
+    "end_ms": 19900
+  },
+  {
+    "word": "moderne",
+    "start_ms": 19900,
+    "end_ms": 20270
+  },
+  {
+    "word": "et",
+    "start_ms": 20270,
+    "end_ms": 20640
+  },
+  {
+    "word": "responsive",
+    "start_ms": 20640,
+    "end_ms": 21010
+  },
+  {
+    "word": "en",
+    "start_ms": 21010,
+    "end_ms": 21380
+  },
+  {
+    "word": "quelques",
+    "start_ms": 21380,
+    "end_ms": 21750
+  },
+  {
+    "word": "secondes.",
+    "start_ms": 21750,
+    "end_ms": 22120
+  },
+  {
+    "word": "Deuxième",
+    "start_ms": 22120,
+    "end_ms": 22490
+  },
+  {
+    "word": "étape",
+    "start_ms": 22490,
+    "end_ms": 22860
+  },
+  {
+    "word": ":",
+    "start_ms": 22860,
+    "end_ms": 23230
+  },
+  {
+    "word": "l'édition",
+    "start_ms": 23230,
+    "end_ms": 23600
+  },
+  {
+    "word": "assistée.",
+    "start_ms": 23600,
+    "end_ms": 23970
+  },
+  {
+    "word": "Avec",
+    "start_ms": 23970,
+    "end_ms": 24340
+  },
+  {
+    "word": "Cursor",
+    "start_ms": 24340,
+    "end_ms": 24710
+  },
+  {
+    "word": "ou",
+    "start_ms": 24710,
+    "end_ms": 25080
+  },
+  {
+    "word": "Claude",
+    "start_ms": 25080,
+    "end_ms": 25450
+  },
+  {
+    "word": "Code,",
+    "start_ms": 25450,
+    "end_ms": 25820
+  },
+  {
+    "word": "l'IA",
+    "start_ms": 25820,
+    "end_ms": 26190
+  },
+  {
+    "word": "écrit",
+    "start_ms": 26190,
+    "end_ms": 26560
+  },
+  {
+    "word": "vos",
+    "start_ms": 26560,
+    "end_ms": 26930
+  },
+  {
+    "word": "composants",
+    "start_ms": 26930,
+    "end_ms": 27300
+  },
+  {
+    "word": "React,",
+    "start_ms": 27300,
+    "end_ms": 27670
+  },
+  {
+    "word": "stylise",
+    "start_ms": 27670,
+    "end_ms": 28040
+  },
+  {
+    "word": "avec",
+    "start_ms": 28040,
+    "end_ms": 28410
+  },
+  {
+    "word": "Tailwind",
+    "start_ms": 28410,
+    "end_ms": 28780
+  },
+  {
+    "word": "et",
+    "start_ms": 28780,
+    "end_ms": 29150
+  },
+  {
+    "word": "corrige",
+    "start_ms": 29150,
+    "end_ms": 29520
+  },
+  {
+    "word": "les",
+    "start_ms": 29520,
+    "end_ms": 29890
+  },
+  {
+    "word": "bugs",
+    "start_ms": 29890,
+    "end_ms": 30260
+  },
+  {
+    "word": "instantanément.",
+    "start_ms": 30260,
+    "end_ms": 30630
+  },
+  {
+    "word": "Troisième",
+    "start_ms": 28500,
+    "end_ms": 28809
+  },
+  {
+    "word": "étape",
+    "start_ms": 28809,
+    "end_ms": 29118
+  },
+  {
+    "word": ":",
+    "start_ms": 29118,
+    "end_ms": 29427
+  },
+  {
+    "word": "la",
+    "start_ms": 29427,
+    "end_ms": 29736
+  },
+  {
+    "word": "logique",
+    "start_ms": 29736,
+    "end_ms": 30045
+  },
+  {
+    "word": "et",
+    "start_ms": 30045,
+    "end_ms": 30354
+  },
+  {
+    "word": "les",
+    "start_ms": 30354,
+    "end_ms": 30663
+  },
+  {
+    "word": "données.",
+    "start_ms": 30663,
+    "end_ms": 30972
+  },
+  {
+    "word": "Vous",
+    "start_ms": 30972,
+    "end_ms": 31281
+  },
+  {
+    "word": "connectez",
+    "start_ms": 31281,
+    "end_ms": 31590
+  },
+  {
+    "word": "en",
+    "start_ms": 31590,
+    "end_ms": 31899
+  },
+  {
+    "word": "un",
+    "start_ms": 31899,
+    "end_ms": 32208
+  },
+  {
+    "word": "éclair",
+    "start_ms": 32208,
+    "end_ms": 32517
+  },
+  {
+    "word": "une",
+    "start_ms": 32517,
+    "end_ms": 32826
+  },
+  {
+    "word": "base",
+    "start_ms": 32826,
+    "end_ms": 33135
+  },
+  {
+    "word": "de",
+    "start_ms": 33135,
+    "end_ms": 33444
+  },
+  {
+    "word": "données",
+    "start_ms": 33444,
+    "end_ms": 33753
+  },
+  {
+    "word": "serverless",
+    "start_ms": 33753,
+    "end_ms": 34062
+  },
+  {
+    "word": "comme",
+    "start_ms": 34062,
+    "end_ms": 34371
+  },
+  {
+    "word": "Supabase",
+    "start_ms": 34371,
+    "end_ms": 34680
+  },
+  {
+    "word": "pour",
+    "start_ms": 34680,
+    "end_ms": 34989
+  },
+  {
+    "word": "gérer",
+    "start_ms": 34989,
+    "end_ms": 35298
+  },
+  {
+    "word": "vos",
+    "start_ms": 35298,
+    "end_ms": 35607
+  },
+  {
+    "word": "utilisateurs",
+    "start_ms": 35607,
+    "end_ms": 35916
+  },
+  {
+    "word": "et",
+    "start_ms": 35916,
+    "end_ms": 36225
+  },
+  {
+    "word": "vos",
+    "start_ms": 36225,
+    "end_ms": 36534
+  },
+  {
+    "word": "contenus.",
+    "start_ms": 36534,
+    "end_ms": 36843
+  },
+  {
+    "word": "Quatrième",
+    "start_ms": 36843,
+    "end_ms": 37152
+  },
+  {
+    "word": "étape",
+    "start_ms": 37152,
+    "end_ms": 37461
+  },
+  {
+    "word": ":",
+    "start_ms": 37461,
+    "end_ms": 37770
+  },
+  {
+    "word": "le",
+    "start_ms": 37770,
+    "end_ms": 38079
+  },
+  {
+    "word": "déploiement.",
+    "start_ms": 38079,
+    "end_ms": 38388
+  },
+  {
+    "word": "Un",
+    "start_ms": 38388,
+    "end_ms": 38697
+  },
+  {
+    "word": "clic",
+    "start_ms": 38697,
+    "end_ms": 39006
+  },
+  {
+    "word": "sur",
+    "start_ms": 39006,
+    "end_ms": 39315
+  },
+  {
+    "word": "Vercel",
+    "start_ms": 39315,
+    "end_ms": 39624
+  },
+  {
+    "word": "ou",
+    "start_ms": 39624,
+    "end_ms": 39933
+  },
+  {
+    "word": "Netlify,",
+    "start_ms": 39933,
+    "end_ms": 40242
+  },
+  {
+    "word": "et",
+    "start_ms": 40242,
+    "end_ms": 40551
+  },
+  {
+    "word": "votre",
+    "start_ms": 40551,
+    "end_ms": 40860
+  },
+  {
+    "word": "site",
+    "start_ms": 40860,
+    "end_ms": 41169
+  },
+  {
+    "word": "est",
+    "start_ms": 41169,
+    "end_ms": 41478
+  },
+  {
+    "word": "en",
+    "start_ms": 41478,
+    "end_ms": 41787
+  },
+  {
+    "word": "ligne",
+    "start_ms": 41787,
+    "end_ms": 42096
+  },
+  {
+    "word": "partout",
+    "start_ms": 42096,
+    "end_ms": 42405
+  },
+  {
+    "word": "dans",
+    "start_ms": 42405,
+    "end_ms": 42714
+  },
+  {
+    "word": "le",
+    "start_ms": 42714,
+    "end_ms": 43023
+  },
+  {
+    "word": "monde",
+    "start_ms": 43023,
+    "end_ms": 43332
+  },
+  {
+    "word": "avec",
+    "start_ms": 43332,
+    "end_ms": 43641
+  },
+  {
+    "word": "un",
+    "start_ms": 43641,
+    "end_ms": 43950
+  },
+  {
+    "word": "nom",
+    "start_ms": 43950,
+    "end_ms": 44259
+  },
+  {
+    "word": "de",
+    "start_ms": 44259,
+    "end_ms": 44568
+  },
+  {
+    "word": "domaine",
+    "start_ms": 44568,
+    "end_ms": 44877
+  },
+  {
+    "word": "sécurisé.",
+    "start_ms": 44877,
+    "end_ms": 45186
+  },
+  {
+    "word": "L'IA",
+    "start_ms": 45500,
+    "end_ms": 45834
+  },
+  {
+    "word": "ne",
+    "start_ms": 45834,
+    "end_ms": 46168
+  },
+  {
+    "word": "remplace",
+    "start_ms": 46168,
+    "end_ms": 46502
+  },
+  {
+    "word": "pas",
+    "start_ms": 46502,
+    "end_ms": 46836
+  },
+  {
+    "word": "votre",
+    "start_ms": 46836,
+    "end_ms": 47170
+  },
+  {
+    "word": "vision",
+    "start_ms": 47170,
+    "end_ms": 47504
+  },
+  {
+    "word": ":",
+    "start_ms": 47504,
+    "end_ms": 47838
+  },
+  {
+    "word": "elle",
+    "start_ms": 47838,
+    "end_ms": 48172
+  },
+  {
+    "word": "transforme",
+    "start_ms": 48172,
+    "end_ms": 48506
+  },
+  {
+    "word": "votre",
+    "start_ms": 48506,
+    "end_ms": 48840
+  },
+  {
+    "word": "idée",
+    "start_ms": 48840,
+    "end_ms": 49174
+  },
+  {
+    "word": "en",
+    "start_ms": 49174,
+    "end_ms": 49508
+  },
+  {
+    "word": "produit",
+    "start_ms": 49508,
+    "end_ms": 49842
+  },
+  {
+    "word": "fini",
+    "start_ms": 49842,
+    "end_ms": 50176
+  },
+  {
+    "word": "dix",
+    "start_ms": 50176,
+    "end_ms": 50510
+  },
+  {
+    "word": "fois",
+    "start_ms": 50510,
+    "end_ms": 50844
+  },
+  {
+    "word": "plus",
+    "start_ms": 50844,
+    "end_ms": 51178
+  },
+  {
+    "word": "vite.",
+    "start_ms": 51178,
+    "end_ms": 51512
+  },
+  {
+    "word": "Que",
+    "start_ms": 51512,
+    "end_ms": 51846
+  },
+  {
+    "word": "vous",
+    "start_ms": 51846,
+    "end_ms": 52180
+  },
+  {
+    "word": "soyez",
+    "start_ms": 52180,
+    "end_ms": 52514
+  },
+  {
+    "word": "développeur,",
+    "start_ms": 52514,
+    "end_ms": 52848
+  },
+  {
+    "word": "créateur",
+    "start_ms": 52848,
+    "end_ms": 53182
+  },
+  {
+    "word": "ou",
+    "start_ms": 53182,
+    "end_ms": 53516
+  },
+  {
+    "word": "entrepreneur,",
+    "start_ms": 53516,
+    "end_ms": 53850
+  },
+  {
+    "word": "le",
+    "start_ms": 53850,
+    "end_ms": 54184
+  },
+  {
+    "word": "web",
+    "start_ms": 54184,
+    "end_ms": 54518
+  },
+  {
+    "word": "moderne",
+    "start_ms": 54518,
+    "end_ms": 54852
+  },
+  {
+    "word": "est",
+    "start_ms": 54852,
+    "end_ms": 55186
+  },
+  {
+    "word": "désormais",
+    "start_ms": 55186,
+    "end_ms": 55520
+  },
+  {
+    "word": "à",
+    "start_ms": 55520,
+    "end_ms": 55854
+  },
+  {
+    "word": "votre",
+    "start_ms": 55854,
+    "end_ms": 56188
+  },
+  {
+    "word": "portée.",
+    "start_ms": 56188,
+    "end_ms": 56522
+  },
+  {
+    "word": "Lancez",
+    "start_ms": 56522,
+    "end_ms": 56856
+  },
+  {
+    "word": "votre",
+    "start_ms": 56856,
+    "end_ms": 57190
+  },
+  {
+    "word": "site",
+    "start_ms": 57190,
+    "end_ms": 57524
+  },
+  {
+    "word": "dès",
+    "start_ms": 57524,
+    "end_ms": 57858
+  },
+  {
+    "word": "aujourd'hui",
+    "start_ms": 57858,
+    "end_ms": 58192
+  },
+  {
+    "word": "!",
+    "start_ms": 58192,
+    "end_ms": 58526
+  }
+]

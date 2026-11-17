@@ -1,0 +1,419 @@
+{
+  "playbook": "flat-motion-graphics",
+  "theme": "flat-motion-graphics",
+  "themeConfig": {
+    "primaryColor": "#7C3AED",
+    "accentColor": "#06B6D4",
+    "backgroundColor": "#0F172A",
+    "surfaceColor": "#1E293B",
+    "textColor": "#F8FAFC",
+    "mutedTextColor": "#94A3B8",
+    "headingFont": "Space Grotesk",
+    "bodyFont": "Space Grotesk",
+    "monoFont": "Fira Code",
+    "chartColors": [
+      "#7C3AED",
+      "#06B6D4",
+      "#EC4899",
+      "#10B981"
+    ],
+    "springConfig": {
+      "damping": 12,
+      "stiffness": 80,
+      "mass": 1
+    },
+    "transitionDuration": 0.3,
+    "captionHighlightColor": "#22D3EE",
+    "captionBackgroundColor": "rgba(15, 23, 42, 0.75)"
+  },
+  "cuts": [
+    {
+      "id": "cut-1",
+      "source": "",
+      "type": "hero_title",
+      "in_seconds": 0.0,
+      "out_seconds": 6.0,
+      "text": "SQL vs NoSQL",
+      "subtitle": "The Architecture Showdown: Scale Up vs Scale Out",
+      "accentColor": "#7C3AED",
+      "backgroundColor": "#0F172A"
+    },
+    {
+      "id": "cut-2",
+      "source": "",
+      "type": "comparison",
+      "in_seconds": 6.0,
+      "out_seconds": 14.0,
+      "title": "Architectural Tradeoffs",
+      "leftLabel": "SQL (Relational)",
+      "leftValue": "Strict Schema\nACID Transactions\nVertical Scaling",
+      "rightLabel": "NoSQL (Document)",
+      "rightValue": "Dynamic JSON\nHorizontal Sharding\nEventual Consistency",
+      "accentColor": "#06B6D4",
+      "backgroundColor": "#0F172A",
+      "cardBackgroundColor": "#1E293B"
+    },
+    {
+      "id": "cut-3",
+      "source": "",
+      "type": "terminal_scene",
+      "in_seconds": 14.0,
+      "out_seconds": 22.0,
+      "terminalTitle": "Database Query Engine",
+      "prompt": "db.cluster",
+      "accentColor": "#7C3AED",
+      "backgroundColor": "#0F172A",
+      "steps": [
+        {
+          "command": "SELECT balance FROM accounts WHERE user_id = 42 FOR UPDATE;",
+          "output": "[SQL] Row 42 locked. ACID transaction guaranteed.",
+          "duration": 4.0
+        },
+        {
+          "command": "db.telemetry.insertMany([ { event: 'click', latency: 4 }, ... ])",
+          "output": "[NoSQL] Distributed write dispatched to 8 shards.",
+          "duration": 4.0
+        }
+      ]
+    },
+    {
+      "id": "cut-4",
+      "source": "",
+      "type": "stat_card",
+      "in_seconds": 22.0,
+      "out_seconds": 30.0,
+      "stat": "55%",
+      "subtitle": "of professional developers default to PostgreSQL today\nRelational safety + JSONB flexibility",
+      "accentColor": "#06B6D4",
+      "backgroundColor": "#0F172A"
+    }
+  ],
+  "captions": [
+    {
+      "word": "SQL",
+      "start_ms": 200,
+      "end_ms": 577
+    },
+    {
+      "word": "ou",
+      "start_ms": 577,
+      "end_ms": 954
+    },
+    {
+      "word": "NoSQL",
+      "start_ms": 954,
+      "end_ms": 1331
+    },
+    {
+      "word": ":",
+      "start_ms": 1331,
+      "end_ms": 1708
+    },
+    {
+      "word": "le",
+      "start_ms": 1708,
+      "end_ms": 2085
+    },
+    {
+      "word": "grand",
+      "start_ms": 2085,
+      "end_ms": 2462
+    },
+    {
+      "word": "duel",
+      "start_ms": 2462,
+      "end_ms": 2839
+    },
+    {
+      "word": "architectural.",
+      "start_ms": 2839,
+      "end_ms": 3216
+    },
+    {
+      "word": "Quelle",
+      "start_ms": 3216,
+      "end_ms": 3593
+    },
+    {
+      "word": "base",
+      "start_ms": 3593,
+      "end_ms": 3970
+    },
+    {
+      "word": "choisir",
+      "start_ms": 3970,
+      "end_ms": 4347
+    },
+    {
+      "word": "pour",
+      "start_ms": 4347,
+      "end_ms": 4724
+    },
+    {
+      "word": "votre",
+      "start_ms": 4724,
+      "end_ms": 5101
+    },
+    {
+      "word": "système",
+      "start_ms": 5101,
+      "end_ms": 5478
+    },
+    {
+      "word": "?",
+      "start_ms": 5478,
+      "end_ms": 5855
+    },
+    {
+      "word": "SQL",
+      "start_ms": 6200,
+      "end_ms": 6580
+    },
+    {
+      "word": "impose",
+      "start_ms": 6580,
+      "end_ms": 6960
+    },
+    {
+      "word": "un",
+      "start_ms": 6960,
+      "end_ms": 7340
+    },
+    {
+      "word": "schéma",
+      "start_ms": 7340,
+      "end_ms": 7720
+    },
+    {
+      "word": "strict",
+      "start_ms": 7720,
+      "end_ms": 8100
+    },
+    {
+      "word": "et",
+      "start_ms": 8100,
+      "end_ms": 8480
+    },
+    {
+      "word": "des",
+      "start_ms": 8480,
+      "end_ms": 8860
+    },
+    {
+      "word": "transactions",
+      "start_ms": 8860,
+      "end_ms": 9240
+    },
+    {
+      "word": "ACID.",
+      "start_ms": 9240,
+      "end_ms": 9620
+    },
+    {
+      "word": "NoSQL",
+      "start_ms": 9620,
+      "end_ms": 10000
+    },
+    {
+      "word": "offre",
+      "start_ms": 10000,
+      "end_ms": 10380
+    },
+    {
+      "word": "des",
+      "start_ms": 10380,
+      "end_ms": 10760
+    },
+    {
+      "word": "documents",
+      "start_ms": 10760,
+      "end_ms": 11140
+    },
+    {
+      "word": "JSON",
+      "start_ms": 11140,
+      "end_ms": 11520
+    },
+    {
+      "word": "et",
+      "start_ms": 11520,
+      "end_ms": 11900
+    },
+    {
+      "word": "une",
+      "start_ms": 11900,
+      "end_ms": 12280
+    },
+    {
+      "word": "écriture",
+      "start_ms": 12280,
+      "end_ms": 12660
+    },
+    {
+      "word": "ultra-rapide.",
+      "start_ms": 12660,
+      "end_ms": 13040
+    },
+    {
+      "word": "Quand",
+      "start_ms": 14200,
+      "end_ms": 14564
+    },
+    {
+      "word": "le",
+      "start_ms": 14564,
+      "end_ms": 14928
+    },
+    {
+      "word": "trafic",
+      "start_ms": 14928,
+      "end_ms": 15292
+    },
+    {
+      "word": "explose,",
+      "start_ms": 15292,
+      "end_ms": 15656
+    },
+    {
+      "word": "SQL",
+      "start_ms": 15656,
+      "end_ms": 16020
+    },
+    {
+      "word": "monte",
+      "start_ms": 16020,
+      "end_ms": 16384
+    },
+    {
+      "word": "verticalement,",
+      "start_ms": 16384,
+      "end_ms": 16748
+    },
+    {
+      "word": "tandis",
+      "start_ms": 16748,
+      "end_ms": 17112
+    },
+    {
+      "word": "que",
+      "start_ms": 17112,
+      "end_ms": 17476
+    },
+    {
+      "word": "NoSQL",
+      "start_ms": 17476,
+      "end_ms": 17840
+    },
+    {
+      "word": "distribue",
+      "start_ms": 17840,
+      "end_ms": 18204
+    },
+    {
+      "word": "vos",
+      "start_ms": 18204,
+      "end_ms": 18568
+    },
+    {
+      "word": "données",
+      "start_ms": 18568,
+      "end_ms": 18932
+    },
+    {
+      "word": "sur",
+      "start_ms": 18932,
+      "end_ms": 19296
+    },
+    {
+      "word": "plusieurs",
+      "start_ms": 19296,
+      "end_ms": 19660
+    },
+    {
+      "word": "nœuds.",
+      "start_ms": 19660,
+      "end_ms": 20024
+    },
+    {
+      "word": "Résultat",
+      "start_ms": 22200,
+      "end_ms": 22635
+    },
+    {
+      "word": ":",
+      "start_ms": 22635,
+      "end_ms": 23070
+    },
+    {
+      "word": "cinquante-cinq",
+      "start_ms": 23070,
+      "end_ms": 23505
+    },
+    {
+      "word": "pour",
+      "start_ms": 23505,
+      "end_ms": 23940
+    },
+    {
+      "word": "cent",
+      "start_ms": 23940,
+      "end_ms": 24375
+    },
+    {
+      "word": "des",
+      "start_ms": 24375,
+      "end_ms": 24810
+    },
+    {
+      "word": "développeurs",
+      "start_ms": 24810,
+      "end_ms": 25245
+    },
+    {
+      "word": "adoptent",
+      "start_ms": 25245,
+      "end_ms": 25680
+    },
+    {
+      "word": "PostgreSQL,",
+      "start_ms": 25680,
+      "end_ms": 26115
+    },
+    {
+      "word": "alliant",
+      "start_ms": 26115,
+      "end_ms": 26550
+    },
+    {
+      "word": "rigueur",
+      "start_ms": 26550,
+      "end_ms": 26985
+    },
+    {
+      "word": "relationnelle",
+      "start_ms": 26985,
+      "end_ms": 27420
+    },
+    {
+      "word": "et",
+      "start_ms": 27420,
+      "end_ms": 27855
+    },
+    {
+      "word": "flexibilité",
+      "start_ms": 27855,
+      "end_ms": 28290
+    },
+    {
+      "word": "JSON.",
+      "start_ms": 28290,
+      "end_ms": 28725
+    }
+  ],
+  "audio": {
+    "narration": {
+      "src": "narration_fr.mp3",
+      "volume": 1.0
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "narrationSrc": "narration_rentecpay_remy.mp3",
+  "soundtrackSrc": "soundtrack_rentecpay_ducked.mp3",
+  "narrationVolume": 1.0,
+  "musicVolume": 0.25,
+  "enableSfx": true,
+  "sfxVolume": 0.30,
+  "showCaptions": true,
+  "captionHighlightColor": "#38bdf8"
+}

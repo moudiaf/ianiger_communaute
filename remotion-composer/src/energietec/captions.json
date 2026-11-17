@@ -1,0 +1,382 @@
+[
+  {
+    "word": "Contrôlez",
+    "start": 0.1,
+    "end": 0.6,
+    "startMs": 100,
+    "endMs": 600,
+    "start_ms": 100,
+    "end_ms": 600,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "votre",
+    "start": 0.62,
+    "end": 0.85,
+    "startMs": 620,
+    "endMs": 850,
+    "start_ms": 620,
+    "end_ms": 850,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "énergie",
+    "start": 0.87,
+    "end": 1.4,
+    "startMs": 870,
+    "endMs": 1400,
+    "start_ms": 870,
+    "end_ms": 1400,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "en",
+    "start": 1.42,
+    "end": 1.6,
+    "startMs": 1420,
+    "endMs": 1600,
+    "start_ms": 1420,
+    "end_ms": 1600,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "toute",
+    "start": 1.62,
+    "end": 1.95,
+    "startMs": 1620,
+    "endMs": 1950,
+    "start_ms": 1620,
+    "end_ms": 1950,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "simplicité",
+    "start": 2.0,
+    "end": 2.7,
+    "startMs": 2000,
+    "endMs": 2700,
+    "start_ms": 2000,
+    "end_ms": 2700,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "!",
+    "start": 2.71,
+    "end": 2.9,
+    "startMs": 2710,
+    "endMs": 2900,
+    "start_ms": 2710,
+    "end_ms": 2900,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Découvrez",
+    "start": 2.97,
+    "end": 3.45,
+    "startMs": 2970,
+    "endMs": 3450,
+    "start_ms": 2970,
+    "end_ms": 3450,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 3.47,
+    "end": 3.6,
+    "startMs": 3470,
+    "endMs": 3600,
+    "start_ms": 3470,
+    "end_ms": 3600,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "RT100",
+    "start": 3.62,
+    "end": 4.2,
+    "startMs": 3620,
+    "endMs": 4200,
+    "start_ms": 3620,
+    "end_ms": 4200,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "d'e-EnergieTEC",
+    "start": 4.25,
+    "end": 4.95,
+    "startMs": 4250,
+    "endMs": 4950,
+    "start_ms": 4250,
+    "end_ms": 4950,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 4.96,
+    "end": 5.05,
+    "startMs": 4960,
+    "endMs": 5050,
+    "start_ms": 4960,
+    "end_ms": 5050,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "compteur",
+    "start": 5.1,
+    "end": 5.55,
+    "startMs": 5100,
+    "endMs": 5550,
+    "start_ms": 5100,
+    "end_ms": 5550,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "prépayé",
+    "start": 5.6,
+    "end": 6.1,
+    "startMs": 5600,
+    "endMs": 6100,
+    "start_ms": 5600,
+    "end_ms": 6100,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "avec",
+    "start": 6.12,
+    "end": 6.35,
+    "startMs": 6120,
+    "endMs": 6350,
+    "start_ms": 6120,
+    "end_ms": 6350,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "recharge",
+    "start": 6.38,
+    "end": 6.85,
+    "startMs": 6380,
+    "endMs": 6850,
+    "start_ms": 6380,
+    "end_ms": 6850,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "sécurisée",
+    "start": 6.9,
+    "end": 7.4,
+    "startMs": 6900,
+    "endMs": 7400,
+    "start_ms": 6900,
+    "end_ms": 7400,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "STS",
+    "start": 7.45,
+    "end": 7.9,
+    "startMs": 7450,
+    "endMs": 7900,
+    "start_ms": 7450,
+    "end_ms": 7900,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 7.92,
+    "end": 8.05,
+    "startMs": 7920,
+    "endMs": 8050,
+    "start_ms": 7920,
+    "end_ms": 8050,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "suivi",
+    "start": 8.1,
+    "end": 8.5,
+    "startMs": 8100,
+    "endMs": 8500,
+    "start_ms": 8100,
+    "end_ms": 8500,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "en",
+    "start": 8.52,
+    "end": 8.68,
+    "startMs": 8520,
+    "endMs": 8680,
+    "start_ms": 8520,
+    "end_ms": 8680,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "direct",
+    "start": 8.7,
+    "end": 9.15,
+    "startMs": 8700,
+    "endMs": 9150,
+    "start_ms": 8700,
+    "end_ms": 9150,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "sur",
+    "start": 9.18,
+    "end": 9.35,
+    "startMs": 9180,
+    "endMs": 9350,
+    "start_ms": 9180,
+    "end_ms": 9350,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "RENTecPay.",
+    "start": 9.38,
+    "end": 9.8,
+    "startMs": 9380,
+    "endMs": 9800,
+    "start_ms": 9380,
+    "end_ms": 9800,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Idéal",
+    "start": 9.85,
+    "end": 10.3,
+    "startMs": 9850,
+    "endMs": 10300,
+    "start_ms": 9850,
+    "end_ms": 10300,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "pour",
+    "start": 10.32,
+    "end": 10.55,
+    "startMs": 10320,
+    "endMs": 10550,
+    "start_ms": 10320,
+    "end_ms": 10550,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "maisons,",
+    "start": 10.6,
+    "end": 11.2,
+    "startMs": 10600,
+    "endMs": 11200,
+    "start_ms": 10600,
+    "end_ms": 11200,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "commerces",
+    "start": 11.25,
+    "end": 11.95,
+    "startMs": 11250,
+    "endMs": 11950,
+    "start_ms": 11250,
+    "end_ms": 11950,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 11.98,
+    "end": 12.1,
+    "startMs": 11980,
+    "endMs": 12100,
+    "start_ms": 11980,
+    "end_ms": 12100,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "bureaux.",
+    "start": 12.15,
+    "end": 12.75,
+    "startMs": 12150,
+    "endMs": 12750,
+    "start_ms": 12150,
+    "end_ms": 12750,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Passez",
+    "start": 12.8,
+    "end": 13.25,
+    "startMs": 12800,
+    "endMs": 13250,
+    "start_ms": 12800,
+    "end_ms": 13250,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "au",
+    "start": 13.27,
+    "end": 13.4,
+    "startMs": 13270,
+    "endMs": 13400,
+    "start_ms": 13270,
+    "end_ms": 13400,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "comptage",
+    "start": 13.42,
+    "end": 13.95,
+    "startMs": 13420,
+    "endMs": 13950,
+    "start_ms": 13420,
+    "end_ms": 13950,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "intelligent",
+    "start": 14.0,
+    "end": 14.65,
+    "startMs": 14000,
+    "endMs": 14650,
+    "start_ms": 14000,
+    "end_ms": 14650,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 14.66,
+    "end": 14.75,
+    "startMs": 14660,
+    "endMs": 14750,
+    "start_ms": 14660,
+    "end_ms": 14750,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "commandez",
+    "start": 14.8,
+    "end": 15.3,
+    "startMs": 14800,
+    "endMs": 15300,
+    "start_ms": 14800,
+    "end_ms": 15300,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "maintenant",
+    "start": 15.35,
+    "end": 15.85,
+    "startMs": 15350,
+    "endMs": 15850,
+    "start_ms": 15350,
+    "end_ms": 15850,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "!",
+    "start": 15.86,
+    "end": 16.0,
+    "startMs": 15860,
+    "endMs": 16000,
+    "start_ms": 15860,
+    "end_ms": 16000,
+    "pageBreakAfter": true
+  }
+]

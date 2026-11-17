@@ -1,0 +1,732 @@
+[
+  {
+    "word": "Accomplissez",
+    "start": 0.1,
+    "end": 0.89,
+    "startMs": 100,
+    "endMs": 890,
+    "start_ms": 100,
+    "end_ms": 890,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "votre",
+    "start": 0.89,
+    "end": 1.397,
+    "startMs": 890,
+    "endMs": 1397,
+    "start_ms": 890,
+    "end_ms": 1397,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Omrah",
+    "start": 1.397,
+    "end": 1.905,
+    "startMs": 1397,
+    "endMs": 1905,
+    "start_ms": 1397,
+    "end_ms": 1905,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "pendant",
+    "start": 1.905,
+    "end": 2.412,
+    "startMs": 1905,
+    "endMs": 2412,
+    "start_ms": 1905,
+    "end_ms": 2412,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 2.412,
+    "end": 2.919,
+    "startMs": 2412,
+    "endMs": 2919,
+    "start_ms": 2412,
+    "end_ms": 2919,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "mois",
+    "start": 2.919,
+    "end": 3.426,
+    "startMs": 2919,
+    "endMs": 3426,
+    "start_ms": 2919,
+    "end_ms": 3426,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "béni",
+    "start": 3.426,
+    "end": 3.933,
+    "startMs": 3426,
+    "endMs": 3933,
+    "start_ms": 3426,
+    "end_ms": 3933,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 3.933,
+    "end": 4.44,
+    "startMs": 3933,
+    "endMs": 4440,
+    "start_ms": 3933,
+    "end_ms": 4440,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Ramadan",
+    "start": 4.44,
+    "end": 4.947,
+    "startMs": 4440,
+    "endMs": 4947,
+    "start_ms": 4440,
+    "end_ms": 4947,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "avec",
+    "start": 4.947,
+    "end": 5.455,
+    "startMs": 4947,
+    "endMs": 5455,
+    "start_ms": 4947,
+    "end_ms": 5455,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ZAM",
+    "start": 5.455,
+    "end": 5.962,
+    "startMs": 5455,
+    "endMs": 5962,
+    "start_ms": 5455,
+    "end_ms": 5962,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Agence",
+    "start": 5.962,
+    "end": 6.469,
+    "startMs": 5962,
+    "endMs": 6469,
+    "start_ms": 5962,
+    "end_ms": 6469,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 6.469,
+    "end": 6.976,
+    "startMs": 6469,
+    "endMs": 6976,
+    "start_ms": 6469,
+    "end_ms": 6976,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Voyage",
+    "start": 6.976,
+    "end": 7.483,
+    "startMs": 6976,
+    "endMs": 7483,
+    "start_ms": 6976,
+    "end_ms": 7483,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "à",
+    "start": 7.483,
+    "end": 7.99,
+    "startMs": 7483,
+    "endMs": 7990,
+    "start_ms": 7483,
+    "end_ms": 7990,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Niamey",
+    "start": 7.99,
+    "end": 8.497,
+    "startMs": 7990,
+    "endMs": 8497,
+    "start_ms": 7990,
+    "end_ms": 8497,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "!",
+    "start": 8.497,
+    "end": 9.005,
+    "startMs": 8497,
+    "endMs": 9005,
+    "start_ms": 8497,
+    "end_ms": 9005,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Un",
+    "start": 5.121,
+    "end": 5.801,
+    "startMs": 5121,
+    "endMs": 5801,
+    "start_ms": 5121,
+    "end_ms": 5801,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "séjour",
+    "start": 5.801,
+    "end": 6.481,
+    "startMs": 5801,
+    "endMs": 6481,
+    "start_ms": 5801,
+    "end_ms": 6481,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 6.481,
+    "end": 7.16,
+    "startMs": 6481,
+    "endMs": 7160,
+    "start_ms": 6481,
+    "end_ms": 7160,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "quinze",
+    "start": 7.16,
+    "end": 7.84,
+    "startMs": 7160,
+    "endMs": 7840,
+    "start_ms": 7160,
+    "end_ms": 7840,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "jours",
+    "start": 7.84,
+    "end": 8.519,
+    "startMs": 7840,
+    "endMs": 8519,
+    "start_ms": 7840,
+    "end_ms": 8519,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "d'exception",
+    "start": 8.519,
+    "end": 9.218,
+    "startMs": 8519,
+    "endMs": 9218,
+    "start_ms": 8519,
+    "end_ms": 9218,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 9.218,
+    "end": 9.898,
+    "startMs": 9218,
+    "endMs": 9898,
+    "start_ms": 9218,
+    "end_ms": 9898,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "vols",
+    "start": 9.898,
+    "end": 10.577,
+    "startMs": 9898,
+    "endMs": 10577,
+    "start_ms": 9898,
+    "end_ms": 10577,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "aller-retour,",
+    "start": 10.577,
+    "end": 11.403,
+    "startMs": 10577,
+    "endMs": 11403,
+    "start_ms": 10577,
+    "end_ms": 11403,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "hôtels",
+    "start": 11.403,
+    "end": 12.083,
+    "startMs": 11403,
+    "endMs": 12083,
+    "start_ms": 11403,
+    "end_ms": 12083,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "pris",
+    "start": 12.083,
+    "end": 12.762,
+    "startMs": 12083,
+    "endMs": 12762,
+    "start_ms": 12083,
+    "end_ms": 12762,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "en",
+    "start": 12.762,
+    "end": 13.442,
+    "startMs": 12762,
+    "endMs": 13442,
+    "start_ms": 12762,
+    "end_ms": 13442,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "charge",
+    "start": 13.442,
+    "end": 14.121,
+    "startMs": 13442,
+    "endMs": 14121,
+    "start_ms": 13442,
+    "end_ms": 14121,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "à",
+    "start": 14.121,
+    "end": 14.801,
+    "startMs": 14121,
+    "endMs": 14801,
+    "start_ms": 14121,
+    "end_ms": 14801,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Médine",
+    "start": 14.801,
+    "end": 15.481,
+    "startMs": 14801,
+    "endMs": 15481,
+    "start_ms": 14801,
+    "end_ms": 15481,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 15.481,
+    "end": 16.16,
+    "startMs": 15481,
+    "endMs": 16160,
+    "start_ms": 15481,
+    "end_ms": 16160,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "La",
+    "start": 16.16,
+    "end": 16.84,
+    "startMs": 16160,
+    "endMs": 16840,
+    "start_ms": 16160,
+    "end_ms": 16840,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Mecque,",
+    "start": 16.84,
+    "end": 17.52,
+    "startMs": 16840,
+    "endMs": 17520,
+    "start_ms": 16840,
+    "end_ms": 17520,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 17.52,
+    "end": 18.199,
+    "startMs": 17520,
+    "endMs": 18199,
+    "start_ms": 17520,
+    "end_ms": 18199,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "encadrement",
+    "start": 18.199,
+    "end": 18.898,
+    "startMs": 18199,
+    "endMs": 18898,
+    "start_ms": 18199,
+    "end_ms": 18898,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "complet.",
+    "start": 18.898,
+    "end": 19.577,
+    "startMs": 18898,
+    "endMs": 19577,
+    "start_ms": 18898,
+    "end_ms": 19577,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Profitez",
+    "start": 11.917,
+    "end": 12.466,
+    "startMs": 11917,
+    "endMs": 12466,
+    "start_ms": 11917,
+    "end_ms": 12466,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "d'un",
+    "start": 12.466,
+    "end": 13.015,
+    "startMs": 12466,
+    "endMs": 13015,
+    "start_ms": 12466,
+    "end_ms": 13015,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "tarif",
+    "start": 13.015,
+    "end": 13.563,
+    "startMs": 13015,
+    "endMs": 13563,
+    "start_ms": 13015,
+    "end_ms": 13563,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "tout",
+    "start": 13.563,
+    "end": 14.112,
+    "startMs": 13563,
+    "endMs": 14112,
+    "start_ms": 13563,
+    "end_ms": 14112,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "compris",
+    "start": 14.112,
+    "end": 14.66,
+    "startMs": 14112,
+    "endMs": 14660,
+    "start_ms": 14112,
+    "end_ms": 14660,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "exceptionnel",
+    "start": 14.66,
+    "end": 15.384,
+    "startMs": 14660,
+    "endMs": 15384,
+    "start_ms": 14660,
+    "end_ms": 15384,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 15.384,
+    "end": 15.932,
+    "startMs": 15384,
+    "endMs": 15932,
+    "start_ms": 15384,
+    "end_ms": 15932,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "un",
+    "start": 15.932,
+    "end": 16.481,
+    "startMs": 15932,
+    "endMs": 16481,
+    "start_ms": 15932,
+    "end_ms": 16481,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "million",
+    "start": 16.481,
+    "end": 17.029,
+    "startMs": 16481,
+    "endMs": 17029,
+    "start_ms": 16481,
+    "end_ms": 17029,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "huit",
+    "start": 17.029,
+    "end": 17.578,
+    "startMs": 17029,
+    "endMs": 17578,
+    "start_ms": 17029,
+    "end_ms": 17578,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "cent",
+    "start": 17.578,
+    "end": 18.126,
+    "startMs": 17578,
+    "endMs": 18126,
+    "start_ms": 17578,
+    "end_ms": 18126,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "cinquante",
+    "start": 18.126,
+    "end": 18.675,
+    "startMs": 18126,
+    "endMs": 18675,
+    "start_ms": 18126,
+    "end_ms": 18675,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "mille",
+    "start": 18.675,
+    "end": 19.223,
+    "startMs": 18675,
+    "endMs": 19223,
+    "start_ms": 18675,
+    "end_ms": 19223,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Francs",
+    "start": 19.223,
+    "end": 19.772,
+    "startMs": 19223,
+    "endMs": 19772,
+    "start_ms": 19223,
+    "end_ms": 19772,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "CFA",
+    "start": 19.772,
+    "end": 20.32,
+    "startMs": 19772,
+    "endMs": 20320,
+    "start_ms": 19772,
+    "end_ms": 20320,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "seulement.",
+    "start": 20.32,
+    "end": 20.923,
+    "startMs": 20320,
+    "endMs": 20923,
+    "start_ms": 20320,
+    "end_ms": 20923,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Places",
+    "start": 17.403,
+    "end": 18.092,
+    "startMs": 17403,
+    "endMs": 18092,
+    "start_ms": 17403,
+    "end_ms": 18092,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "limitées",
+    "start": 18.092,
+    "end": 19.011,
+    "startMs": 18092,
+    "endMs": 19011,
+    "start_ms": 18092,
+    "end_ms": 19011,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "!",
+    "start": 19.011,
+    "end": 19.184,
+    "startMs": 19011,
+    "endMs": 19184,
+    "start_ms": 19011,
+    "end_ms": 19184,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Contactez",
+    "start": 19.126,
+    "end": 20.086,
+    "startMs": 19126,
+    "endMs": 20086,
+    "start_ms": 19126,
+    "end_ms": 20086,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ZAM",
+    "start": 20.086,
+    "end": 20.599,
+    "startMs": 20086,
+    "endMs": 20599,
+    "start_ms": 20086,
+    "end_ms": 20599,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Voyage",
+    "start": 20.599,
+    "end": 21.239,
+    "startMs": 20599,
+    "endMs": 21239,
+    "start_ms": 20599,
+    "end_ms": 21239,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "à",
+    "start": 21.239,
+    "end": 21.751,
+    "startMs": 21239,
+    "endMs": 21751,
+    "start_ms": 21239,
+    "end_ms": 21751,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Yantala",
+    "start": 21.751,
+    "end": 22.498,
+    "startMs": 21751,
+    "endMs": 22498,
+    "start_ms": 21751,
+    "end_ms": 22498,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Tchini",
+    "start": 22.498,
+    "end": 23.138,
+    "startMs": 22498,
+    "endMs": 23138,
+    "start_ms": 22498,
+    "end_ms": 23138,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Habou",
+    "start": 23.138,
+    "end": 23.671,
+    "startMs": 23138,
+    "endMs": 23671,
+    "start_ms": 23138,
+    "end_ms": 23671,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "au",
+    "start": 23.671,
+    "end": 24.184,
+    "startMs": 23671,
+    "endMs": 24184,
+    "start_ms": 23671,
+    "end_ms": 24184,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "91",
+    "start": 24.184,
+    "end": 24.696,
+    "startMs": 24184,
+    "endMs": 24696,
+    "start_ms": 24184,
+    "end_ms": 24696,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "88",
+    "start": 24.696,
+    "end": 25.208,
+    "startMs": 24696,
+    "endMs": 25208,
+    "start_ms": 24696,
+    "end_ms": 25208,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "21",
+    "start": 25.208,
+    "end": 25.72,
+    "startMs": 25208,
+    "endMs": 25720,
+    "start_ms": 25208,
+    "end_ms": 25720,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "21.",
+    "start": 25.72,
+    "end": 26.232,
+    "startMs": 25720,
+    "endMs": 26232,
+    "start_ms": 25720,
+    "end_ms": 26232,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Votre",
+    "start": 24.248,
+    "end": 24.769,
+    "startMs": 24248,
+    "endMs": 24769,
+    "start_ms": 24248,
+    "end_ms": 24769,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "pèlerinage,",
+    "start": 24.769,
+    "end": 25.917,
+    "startMs": 24769,
+    "endMs": 25917,
+    "start_ms": 24769,
+    "end_ms": 25917,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "notre",
+    "start": 25.917,
+    "end": 26.439,
+    "startMs": 25917,
+    "endMs": 26439,
+    "start_ms": 25917,
+    "end_ms": 26439,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "priorité.",
+    "start": 26.439,
+    "end": 27.379,
+    "startMs": 26439,
+    "endMs": 27379,
+    "start_ms": 26439,
+    "end_ms": 27379,
+    "pageBreakAfter": true
+  }
+]

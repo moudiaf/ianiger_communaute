@@ -16,6 +16,28 @@ import { ProductReveal, ProductRevealProps } from "./components/ProductReveal";
 import { CaptionOverlay, WordCaption } from "./components/CaptionOverlay";
 import { CollageBurst, CollageBurstProps } from "./CollageBurst";
 import { LyricOverlay, LyricOverlayProps, calculateLyricOverlayMetadata } from "./LyricOverlay";
+import { CyberPhishing } from "./CyberPhishing";
+import cyberPhishingProps from "./cyberPhishingProps.json";
+import { DevWebIA } from "./DevWebIA";
+import devWebIAProps from "./devWebIAProps.json";
+import { QuantumPasswordsShort } from "./QuantumPasswordsShort";
+import quantumProps from "./quantumProps.json";
+import { DogGuardianHybrid } from "./DogGuardianHybrid";
+import dogGuardianProps from "./dogGuardianProps.json";
+import { ZamVoyageAd } from "./ZamVoyageAd";
+import zamVoyageProps from "./zamVoyageProps.json";
+import { FantaParfumerieAd } from "./FantaParfumerieAd";
+import fantaProps from "./fantaProps.json";
+import { RentecPayRT100Ad, rentecPaySchema } from "./RentecPayRT100Ad";
+import rentecPayProps from "./rentecPayProps.json";
+import {
+  GeometrieCM2,
+  geometrieCM2Schema,
+  calculateGeometrieMetadata,
+} from "./GeometrieCM2";
+import geometrieDurations from "./geometrie_durations.json";
+import { EnergieTecAd } from "./EnergieTecAd";
+import energieTecProps from "./energieTecProps.json";
 
 // ---------------------------------------------------------------------------
 // Theme System — prevents every video from looking like dark fintech
@@ -136,6 +158,95 @@ const calculateMetadata: CalculateMetadataFunction<ExplainerProps> = async ({
 export const Root: React.FC = () => {
   return (
     <>
+      <Composition
+        id="GeometrieCM2"
+        component={GeometrieCM2}
+        schema={geometrieCM2Schema}
+        calculateMetadata={calculateGeometrieMetadata}
+        durationInFrames={30 * 98}
+        fps={30}
+        width={1920}
+        height={1080}
+        defaultProps={{
+          durations: geometrieDurations,
+          musicVolume: 0.14,
+          narrationVolume: 1.0,
+          showCaptions: true,
+        }}
+      />
+      <Composition
+        id="EnergieTecAd"
+        component={EnergieTecAd}
+        durationInFrames={30 * 16}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={energieTecProps as any}
+      />
+      <Composition
+        id="RentecPayRT100Ad"
+        component={RentecPayRT100Ad}
+        schema={rentecPaySchema}
+        durationInFrames={30 * 34}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={rentecPayProps as any}
+      />
+      <Composition
+        id="FantaParfumerieAd"
+        component={FantaParfumerieAd}
+        durationInFrames={30 * 20}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={fantaProps as any}
+      />
+      <Composition
+        id="ZamVoyageAd"
+        component={ZamVoyageAd}
+        durationInFrames={30 * 30}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={zamVoyageProps as any}
+      />
+      <Composition
+        id="DogGuardianHybrid"
+        component={DogGuardianHybrid}
+        durationInFrames={30 * 35}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={dogGuardianProps as any}
+      />
+      <Composition
+        id="QuantumPasswordsShort"
+        component={QuantumPasswordsShort}
+        durationInFrames={30 * 60}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={quantumProps as any}
+      />
+      <Composition
+        id="DevWebIA"
+        component={DevWebIA}
+        durationInFrames={30 * 60}
+        fps={30}
+        width={1920}
+        height={1080}
+        defaultProps={devWebIAProps as any}
+      />
+      <Composition
+        id="CyberPhishing"
+        component={CyberPhishing}
+        durationInFrames={30 * 30}
+        fps={30}
+        width={1920}
+        height={1080}
+        defaultProps={cyberPhishingProps as any}
+      />
       <Composition
         id="Explainer"
         component={Explainer}

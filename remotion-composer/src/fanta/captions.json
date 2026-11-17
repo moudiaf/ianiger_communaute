@@ -1,0 +1,332 @@
+[
+  {
+    "word": "Découvrez",
+    "start": 0.1,
+    "end": 0.7,
+    "startMs": 100,
+    "endMs": 700,
+    "start_ms": 100,
+    "end_ms": 700,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "FANT'A,",
+    "start": 0.75,
+    "end": 1.4,
+    "startMs": 750,
+    "endMs": 1400,
+    "start_ms": 750,
+    "end_ms": 1400,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "parfumerie",
+    "start": 1.45,
+    "end": 2.05,
+    "startMs": 1450,
+    "endMs": 2050,
+    "start_ms": 1450,
+    "end_ms": 2050,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "naturelle",
+    "start": 2.1,
+    "end": 2.7,
+    "startMs": 2100,
+    "endMs": 2700,
+    "start_ms": 2100,
+    "end_ms": 2700,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "d'origine",
+    "start": 2.75,
+    "end": 3.2,
+    "startMs": 2750,
+    "endMs": 3200,
+    "start_ms": 2750,
+    "end_ms": 3200,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Diffa.",
+    "start": 3.25,
+    "end": 3.79,
+    "startMs": 3250,
+    "endMs": 3790,
+    "start_ms": 3250,
+    "end_ms": 3790,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Des",
+    "start": 3.85,
+    "end": 4.05,
+    "startMs": 3850,
+    "endMs": 4050,
+    "start_ms": 3850,
+    "end_ms": 4050,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "créations",
+    "start": 4.08,
+    "end": 4.65,
+    "startMs": 4080,
+    "endMs": 4650,
+    "start_ms": 4080,
+    "end_ms": 4650,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "inspirées",
+    "start": 4.7,
+    "end": 5.25,
+    "startMs": 4700,
+    "endMs": 5250,
+    "start_ms": 4700,
+    "end_ms": 5250,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 5.28,
+    "end": 5.42,
+    "startMs": 5280,
+    "endMs": 5420,
+    "start_ms": 5280,
+    "end_ms": 5420,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "la",
+    "start": 5.45,
+    "end": 5.6,
+    "startMs": 5450,
+    "endMs": 5600,
+    "start_ms": 5450,
+    "end_ms": 5600,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "nature",
+    "start": 5.65,
+    "end": 6.1,
+    "startMs": 5650,
+    "endMs": 6100,
+    "start_ms": 5650,
+    "end_ms": 6100,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 6.15,
+    "end": 6.3,
+    "startMs": 6150,
+    "endMs": 6300,
+    "start_ms": 6150,
+    "end_ms": 6300,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "du",
+    "start": 6.32,
+    "end": 6.5,
+    "startMs": 6320,
+    "endMs": 6500,
+    "start_ms": 6320,
+    "end_ms": 6500,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "savoir-faire",
+    "start": 6.55,
+    "end": 7.15,
+    "startMs": 6550,
+    "endMs": 7150,
+    "start_ms": 6550,
+    "end_ms": 7150,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "traditionnel.",
+    "start": 7.2,
+    "end": 7.768,
+    "startMs": 7200,
+    "endMs": 7768,
+    "start_ms": 7200,
+    "end_ms": 7768,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "FANT'A",
+    "start": 7.85,
+    "end": 8.4,
+    "startMs": 7850,
+    "endMs": 8400,
+    "start_ms": 7850,
+    "end_ms": 8400,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 8.41,
+    "end": 8.5,
+    "startMs": 8410,
+    "endMs": 8500,
+    "start_ms": 8410,
+    "end_ms": 8500,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "l'essence",
+    "start": 8.55,
+    "end": 9.15,
+    "startMs": 8550,
+    "endMs": 9150,
+    "start_ms": 8550,
+    "end_ms": 9150,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 9.18,
+    "end": 9.32,
+    "startMs": 9180,
+    "endMs": 9320,
+    "start_ms": 9180,
+    "end_ms": 9320,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "la",
+    "start": 9.35,
+    "end": 9.5,
+    "startMs": 9350,
+    "endMs": 9500,
+    "start_ms": 9350,
+    "end_ms": 9500,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "nature,",
+    "start": 9.55,
+    "end": 10.05,
+    "startMs": 9550,
+    "endMs": 10050,
+    "start_ms": 9550,
+    "end_ms": 10050,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "l'élégance",
+    "start": 10.1,
+    "end": 10.75,
+    "startMs": 10100,
+    "endMs": 10750,
+    "start_ms": 10100,
+    "end_ms": 10750,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "en",
+    "start": 10.8,
+    "end": 11.0,
+    "startMs": 10800,
+    "endMs": 11000,
+    "start_ms": 10800,
+    "end_ms": 11000,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "plus.",
+    "start": 11.05,
+    "end": 11.551,
+    "startMs": 11050,
+    "endMs": 11551,
+    "start_ms": 11050,
+    "end_ms": 11551,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Contact",
+    "start": 11.65,
+    "end": 12.25,
+    "startMs": 11650,
+    "endMs": 12250,
+    "start_ms": 11650,
+    "end_ms": 12250,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "WhatsApp",
+    "start": 12.3,
+    "end": 13.0,
+    "startMs": 12300,
+    "endMs": 13000,
+    "start_ms": 12300,
+    "end_ms": 13000,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 13.01,
+    "end": 13.15,
+    "startMs": 13010,
+    "endMs": 13150,
+    "start_ms": 13010,
+    "end_ms": 13150,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "+227",
+    "start": 13.2,
+    "end": 14.2,
+    "startMs": 13200,
+    "endMs": 14200,
+    "start_ms": 13200,
+    "end_ms": 14200,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "88",
+    "start": 14.3,
+    "end": 15.15,
+    "startMs": 14300,
+    "endMs": 15150,
+    "start_ms": 14300,
+    "end_ms": 15150,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "46",
+    "start": 15.25,
+    "end": 16.1,
+    "startMs": 15250,
+    "endMs": 16100,
+    "start_ms": 15250,
+    "end_ms": 16100,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "85",
+    "start": 16.2,
+    "end": 17.1,
+    "startMs": 16200,
+    "endMs": 17100,
+    "start_ms": 16200,
+    "end_ms": 17100,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "76.",
+    "start": 17.2,
+    "end": 18.276,
+    "startMs": 17200,
+    "endMs": 18276,
+    "start_ms": 17200,
+    "end_ms": 18276,
+    "pageBreakAfter": true
+  }
+]

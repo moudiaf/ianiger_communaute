@@ -1,0 +1,2292 @@
+[
+  {
+    "word": "Géométrie,",
+    "start": 0.5,
+    "end": 1.509,
+    "startMs": 500,
+    "endMs": 1509,
+    "start_ms": 500,
+    "end_ms": 1509,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "classe",
+    "start": 1.509,
+    "end": 2.114,
+    "startMs": 1509,
+    "endMs": 2114,
+    "start_ms": 1509,
+    "end_ms": 2114,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 2.114,
+    "end": 2.315,
+    "startMs": 2114,
+    "endMs": 2315,
+    "start_ms": 2114,
+    "end_ms": 2315,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "CM2",
+    "start": 2.315,
+    "end": 2.618,
+    "startMs": 2315,
+    "endMs": 2618,
+    "start_ms": 2315,
+    "end_ms": 2618,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 2.618,
+    "end": 2.719,
+    "startMs": 2618,
+    "endMs": 2719,
+    "start_ms": 2618,
+    "end_ms": 2719,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "les",
+    "start": 2.719,
+    "end": 3.021,
+    "startMs": 2719,
+    "endMs": 3021,
+    "start_ms": 2719,
+    "end_ms": 3021,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "figures",
+    "start": 3.021,
+    "end": 3.727,
+    "startMs": 3021,
+    "endMs": 3727,
+    "start_ms": 3021,
+    "end_ms": 3727,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "planes.",
+    "start": 3.727,
+    "end": 4.433,
+    "startMs": 3727,
+    "endMs": 4433,
+    "start_ms": 3727,
+    "end_ms": 4433,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Au",
+    "start": 5.433,
+    "end": 5.598,
+    "startMs": 5433,
+    "endMs": 5598,
+    "start_ms": 5433,
+    "end_ms": 5598,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "programme",
+    "start": 5.598,
+    "end": 6.338,
+    "startMs": 5598,
+    "endMs": 6338,
+    "start_ms": 5598,
+    "end_ms": 6338,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 6.338,
+    "end": 6.421,
+    "startMs": 6338,
+    "endMs": 6421,
+    "start_ms": 6338,
+    "end_ms": 6421,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "reconnaître",
+    "start": 6.421,
+    "end": 7.326,
+    "startMs": 6421,
+    "endMs": 7326,
+    "start_ms": 6421,
+    "end_ms": 7326,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 7.326,
+    "end": 7.49,
+    "startMs": 7326,
+    "endMs": 7490,
+    "start_ms": 7326,
+    "end_ms": 7490,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "triangle,",
+    "start": 7.49,
+    "end": 8.231,
+    "startMs": 7490,
+    "endMs": 8231,
+    "start_ms": 7490,
+    "end_ms": 8231,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 8.231,
+    "end": 8.395,
+    "startMs": 8231,
+    "endMs": 8395,
+    "start_ms": 8231,
+    "end_ms": 8395,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "rectangle,",
+    "start": 8.395,
+    "end": 9.218,
+    "startMs": 8395,
+    "endMs": 9218,
+    "start_ms": 8395,
+    "end_ms": 9218,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 9.218,
+    "end": 9.383,
+    "startMs": 9218,
+    "endMs": 9383,
+    "start_ms": 9218,
+    "end_ms": 9383,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "cercle,",
+    "start": 9.383,
+    "end": 9.959,
+    "startMs": 9383,
+    "endMs": 9959,
+    "start_ms": 9383,
+    "end_ms": 9959,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "puis",
+    "start": 9.959,
+    "end": 10.288,
+    "startMs": 9959,
+    "endMs": 10288,
+    "start_ms": 9959,
+    "end_ms": 10288,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "calculer",
+    "start": 10.288,
+    "end": 10.946,
+    "startMs": 10288,
+    "endMs": 10946,
+    "start_ms": 10288,
+    "end_ms": 10946,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 10.946,
+    "end": 11.111,
+    "startMs": 10946,
+    "endMs": 11111,
+    "start_ms": 10946,
+    "end_ms": 11111,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "périmètre.",
+    "start": 11.111,
+    "end": 11.933,
+    "startMs": 11111,
+    "endMs": 11933,
+    "start_ms": 11111,
+    "end_ms": 11933,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Voici",
+    "start": 12.933,
+    "end": 13.347,
+    "startMs": 12933,
+    "endMs": 13347,
+    "start_ms": 12933,
+    "end_ms": 13347,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 13.347,
+    "end": 13.512,
+    "startMs": 13347,
+    "endMs": 13512,
+    "start_ms": 13347,
+    "end_ms": 13512,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "triangle",
+    "start": 13.512,
+    "end": 14.173,
+    "startMs": 13512,
+    "endMs": 14173,
+    "start_ms": 13512,
+    "end_ms": 14173,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 14.173,
+    "end": 14.256,
+    "startMs": 14173,
+    "endMs": 14256,
+    "start_ms": 14173,
+    "end_ms": 14256,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "trois",
+    "start": 14.256,
+    "end": 14.669,
+    "startMs": 14256,
+    "endMs": 14669,
+    "start_ms": 14256,
+    "end_ms": 14669,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "côtés,",
+    "start": 14.669,
+    "end": 15.165,
+    "startMs": 14669,
+    "endMs": 15165,
+    "start_ms": 14669,
+    "end_ms": 15165,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "trois",
+    "start": 15.165,
+    "end": 15.578,
+    "startMs": 15165,
+    "endMs": 15578,
+    "start_ms": 15165,
+    "end_ms": 15578,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "sommets.",
+    "start": 15.578,
+    "end": 16.239,
+    "startMs": 15578,
+    "endMs": 16239,
+    "start_ms": 15578,
+    "end_ms": 16239,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Un",
+    "start": 16.239,
+    "end": 16.404,
+    "startMs": 16239,
+    "endMs": 16404,
+    "start_ms": 16239,
+    "end_ms": 16404,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "sommet,",
+    "start": 16.404,
+    "end": 16.983,
+    "startMs": 16404,
+    "endMs": 16983,
+    "start_ms": 16404,
+    "end_ms": 16983,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "c'est",
+    "start": 16.983,
+    "end": 17.396,
+    "startMs": 16983,
+    "endMs": 17396,
+    "start_ms": 16983,
+    "end_ms": 17396,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 17.396,
+    "end": 17.561,
+    "startMs": 17396,
+    "endMs": 17561,
+    "start_ms": 17396,
+    "end_ms": 17561,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "point",
+    "start": 17.561,
+    "end": 17.974,
+    "startMs": 17561,
+    "endMs": 17974,
+    "start_ms": 17561,
+    "end_ms": 17974,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "où",
+    "start": 17.974,
+    "end": 18.14,
+    "startMs": 17974,
+    "endMs": 18140,
+    "start_ms": 17974,
+    "end_ms": 18140,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "deux",
+    "start": 18.14,
+    "end": 18.47,
+    "startMs": 18140,
+    "endMs": 18470,
+    "start_ms": 18140,
+    "end_ms": 18470,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "côtés",
+    "start": 18.47,
+    "end": 18.883,
+    "startMs": 18470,
+    "endMs": 18883,
+    "start_ms": 18470,
+    "end_ms": 18883,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "se",
+    "start": 18.883,
+    "end": 19.049,
+    "startMs": 18883,
+    "endMs": 19049,
+    "start_ms": 18883,
+    "end_ms": 19049,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "rencontrent.",
+    "start": 19.049,
+    "end": 20.04,
+    "startMs": 19049,
+    "endMs": 20040,
+    "start_ms": 19049,
+    "end_ms": 20040,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Compte",
+    "start": 20.04,
+    "end": 20.536,
+    "startMs": 20040,
+    "endMs": 20536,
+    "start_ms": 20040,
+    "end_ms": 20536,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "avec",
+    "start": 20.536,
+    "end": 20.867,
+    "startMs": 20536,
+    "endMs": 20867,
+    "start_ms": 20536,
+    "end_ms": 20867,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "moi",
+    "start": 20.867,
+    "end": 21.115,
+    "startMs": 20867,
+    "endMs": 21115,
+    "start_ms": 20867,
+    "end_ms": 21115,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 21.115,
+    "end": 21.197,
+    "startMs": 21115,
+    "endMs": 21197,
+    "start_ms": 21115,
+    "end_ms": 21197,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "un,",
+    "start": 21.197,
+    "end": 21.445,
+    "startMs": 21197,
+    "endMs": 21445,
+    "start_ms": 21197,
+    "end_ms": 21445,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "deux,",
+    "start": 21.445,
+    "end": 21.858,
+    "startMs": 21445,
+    "endMs": 21858,
+    "start_ms": 21445,
+    "end_ms": 21858,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "trois.",
+    "start": 21.858,
+    "end": 22.354,
+    "startMs": 21858,
+    "endMs": 22354,
+    "start_ms": 21858,
+    "end_ms": 22354,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Un",
+    "start": 22.354,
+    "end": 22.519,
+    "startMs": 22354,
+    "endMs": 22519,
+    "start_ms": 22354,
+    "end_ms": 22519,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "triangle",
+    "start": 22.519,
+    "end": 23.181,
+    "startMs": 22519,
+    "endMs": 23181,
+    "start_ms": 22519,
+    "end_ms": 23181,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "a",
+    "start": 23.181,
+    "end": 23.263,
+    "startMs": 23181,
+    "endMs": 23263,
+    "start_ms": 23181,
+    "end_ms": 23263,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "toujours",
+    "start": 23.263,
+    "end": 23.924,
+    "startMs": 23263,
+    "endMs": 23924,
+    "start_ms": 23263,
+    "end_ms": 23924,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "trois",
+    "start": 23.924,
+    "end": 24.338,
+    "startMs": 23924,
+    "endMs": 24338,
+    "start_ms": 23924,
+    "end_ms": 24338,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "côtés.",
+    "start": 24.338,
+    "end": 24.833,
+    "startMs": 24338,
+    "endMs": 24833,
+    "start_ms": 24338,
+    "end_ms": 24833,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Le",
+    "start": 25.833,
+    "end": 25.978,
+    "startMs": 25833,
+    "endMs": 25978,
+    "start_ms": 25833,
+    "end_ms": 25978,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "rectangle",
+    "start": 25.978,
+    "end": 26.627,
+    "startMs": 25978,
+    "endMs": 26627,
+    "start_ms": 25978,
+    "end_ms": 26627,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "a",
+    "start": 26.627,
+    "end": 26.699,
+    "startMs": 26627,
+    "endMs": 26699,
+    "start_ms": 26627,
+    "end_ms": 26699,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "quatre",
+    "start": 26.699,
+    "end": 27.132,
+    "startMs": 26699,
+    "endMs": 27132,
+    "start_ms": 26699,
+    "end_ms": 27132,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "côtés,",
+    "start": 27.132,
+    "end": 27.565,
+    "startMs": 27132,
+    "endMs": 27565,
+    "start_ms": 27132,
+    "end_ms": 27565,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "quatre",
+    "start": 27.565,
+    "end": 27.999,
+    "startMs": 27565,
+    "endMs": 27999,
+    "start_ms": 27565,
+    "end_ms": 27999,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "sommets,",
+    "start": 27.999,
+    "end": 28.576,
+    "startMs": 27999,
+    "endMs": 28576,
+    "start_ms": 27999,
+    "end_ms": 28576,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 28.576,
+    "end": 28.72,
+    "startMs": 28576,
+    "endMs": 28720,
+    "start_ms": 28576,
+    "end_ms": 28720,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "quatre",
+    "start": 28.72,
+    "end": 29.153,
+    "startMs": 28720,
+    "endMs": 29153,
+    "start_ms": 28720,
+    "end_ms": 29153,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "angles",
+    "start": 29.153,
+    "end": 29.586,
+    "startMs": 29153,
+    "endMs": 29586,
+    "start_ms": 29153,
+    "end_ms": 29586,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "droits.",
+    "start": 29.586,
+    "end": 30.092,
+    "startMs": 29586,
+    "endMs": 30092,
+    "start_ms": 29586,
+    "end_ms": 30092,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Ses",
+    "start": 30.092,
+    "end": 30.308,
+    "startMs": 30092,
+    "endMs": 30308,
+    "start_ms": 30092,
+    "end_ms": 30308,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "côtés",
+    "start": 30.308,
+    "end": 30.669,
+    "startMs": 30308,
+    "endMs": 30669,
+    "start_ms": 30308,
+    "end_ms": 30669,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "opposés",
+    "start": 30.669,
+    "end": 31.174,
+    "startMs": 30669,
+    "endMs": 31174,
+    "start_ms": 30669,
+    "end_ms": 31174,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "sont",
+    "start": 31.174,
+    "end": 31.463,
+    "startMs": 31174,
+    "endMs": 31463,
+    "start_ms": 31174,
+    "end_ms": 31463,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "égaux",
+    "start": 31.463,
+    "end": 31.824,
+    "startMs": 31463,
+    "endMs": 31824,
+    "start_ms": 31463,
+    "end_ms": 31824,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 31.824,
+    "end": 31.896,
+    "startMs": 31824,
+    "endMs": 31896,
+    "start_ms": 31824,
+    "end_ms": 31896,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "deux",
+    "start": 31.896,
+    "end": 32.185,
+    "startMs": 31896,
+    "endMs": 32185,
+    "start_ms": 31896,
+    "end_ms": 32185,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "longueurs",
+    "start": 32.185,
+    "end": 32.834,
+    "startMs": 32185,
+    "endMs": 32834,
+    "start_ms": 32185,
+    "end_ms": 32834,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 32.834,
+    "end": 32.978,
+    "startMs": 32834,
+    "endMs": 32978,
+    "start_ms": 32834,
+    "end_ms": 32978,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "deux",
+    "start": 32.978,
+    "end": 33.267,
+    "startMs": 32978,
+    "endMs": 33267,
+    "start_ms": 32978,
+    "end_ms": 33267,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "largeurs.",
+    "start": 33.267,
+    "end": 33.917,
+    "startMs": 33267,
+    "endMs": 33917,
+    "start_ms": 33267,
+    "end_ms": 33917,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Regarde",
+    "start": 33.917,
+    "end": 34.422,
+    "startMs": 33917,
+    "endMs": 34422,
+    "start_ms": 33917,
+    "end_ms": 34422,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "les",
+    "start": 34.422,
+    "end": 34.638,
+    "startMs": 34422,
+    "endMs": 34638,
+    "start_ms": 34422,
+    "end_ms": 34638,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "petits",
+    "start": 34.638,
+    "end": 35.071,
+    "startMs": 34638,
+    "endMs": 35071,
+    "start_ms": 34638,
+    "end_ms": 35071,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "traits",
+    "start": 35.071,
+    "end": 35.504,
+    "startMs": 35071,
+    "endMs": 35504,
+    "start_ms": 35071,
+    "end_ms": 35504,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "qui",
+    "start": 35.504,
+    "end": 35.721,
+    "startMs": 35504,
+    "endMs": 35721,
+    "start_ms": 35504,
+    "end_ms": 35721,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "marquent",
+    "start": 35.721,
+    "end": 36.298,
+    "startMs": 35721,
+    "endMs": 36298,
+    "start_ms": 35721,
+    "end_ms": 36298,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "les",
+    "start": 36.298,
+    "end": 36.515,
+    "startMs": 36298,
+    "endMs": 36515,
+    "start_ms": 36298,
+    "end_ms": 36515,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "côtés",
+    "start": 36.515,
+    "end": 36.876,
+    "startMs": 36515,
+    "endMs": 36876,
+    "start_ms": 36515,
+    "end_ms": 36876,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "égaux.",
+    "start": 36.876,
+    "end": 37.309,
+    "startMs": 36876,
+    "endMs": 37309,
+    "start_ms": 36876,
+    "end_ms": 37309,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Le",
+    "start": 37.309,
+    "end": 37.453,
+    "startMs": 37309,
+    "endMs": 37453,
+    "start_ms": 37309,
+    "end_ms": 37453,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "carré",
+    "start": 37.453,
+    "end": 37.814,
+    "startMs": 37453,
+    "endMs": 37814,
+    "start_ms": 37453,
+    "end_ms": 37814,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "est",
+    "start": 37.814,
+    "end": 38.031,
+    "startMs": 37814,
+    "endMs": 38031,
+    "start_ms": 37814,
+    "end_ms": 38031,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "un",
+    "start": 38.031,
+    "end": 38.175,
+    "startMs": 38031,
+    "endMs": 38175,
+    "start_ms": 38031,
+    "end_ms": 38175,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "rectangle",
+    "start": 38.175,
+    "end": 38.824,
+    "startMs": 38175,
+    "endMs": 38824,
+    "start_ms": 38175,
+    "end_ms": 38824,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "particulier",
+    "start": 38.824,
+    "end": 39.618,
+    "startMs": 38824,
+    "endMs": 39618,
+    "start_ms": 38824,
+    "end_ms": 39618,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 39.618,
+    "end": 39.69,
+    "startMs": 39618,
+    "endMs": 39690,
+    "start_ms": 39618,
+    "end_ms": 39690,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ses",
+    "start": 39.69,
+    "end": 39.907,
+    "startMs": 39690,
+    "endMs": 39907,
+    "start_ms": 39690,
+    "end_ms": 39907,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "quatre",
+    "start": 39.907,
+    "end": 40.34,
+    "startMs": 39907,
+    "endMs": 40340,
+    "start_ms": 39907,
+    "end_ms": 40340,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "côtés",
+    "start": 40.34,
+    "end": 40.701,
+    "startMs": 40340,
+    "endMs": 40701,
+    "start_ms": 40340,
+    "end_ms": 40701,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ont",
+    "start": 40.701,
+    "end": 40.917,
+    "startMs": 40701,
+    "endMs": 40917,
+    "start_ms": 40701,
+    "end_ms": 40917,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "la",
+    "start": 40.917,
+    "end": 41.062,
+    "startMs": 40917,
+    "endMs": 41062,
+    "start_ms": 40917,
+    "end_ms": 41062,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "même",
+    "start": 41.062,
+    "end": 41.35,
+    "startMs": 41062,
+    "endMs": 41350,
+    "start_ms": 41062,
+    "end_ms": 41350,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "longueur.",
+    "start": 41.35,
+    "end": 42.0,
+    "startMs": 41350,
+    "endMs": 42000,
+    "start_ms": 41350,
+    "end_ms": 42000,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Le",
+    "start": 43.0,
+    "end": 43.152,
+    "startMs": 43000,
+    "endMs": 43152,
+    "start_ms": 43000,
+    "end_ms": 43152,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "cercle",
+    "start": 43.152,
+    "end": 43.609,
+    "startMs": 43152,
+    "endMs": 43609,
+    "start_ms": 43152,
+    "end_ms": 43609,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "est",
+    "start": 43.609,
+    "end": 43.838,
+    "startMs": 43609,
+    "endMs": 43838,
+    "start_ms": 43609,
+    "end_ms": 43838,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "une",
+    "start": 43.838,
+    "end": 44.066,
+    "startMs": 43838,
+    "endMs": 44066,
+    "start_ms": 43838,
+    "end_ms": 44066,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ligne",
+    "start": 44.066,
+    "end": 44.447,
+    "startMs": 44066,
+    "endMs": 44447,
+    "start_ms": 44066,
+    "end_ms": 44447,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "courbe",
+    "start": 44.447,
+    "end": 44.904,
+    "startMs": 44447,
+    "endMs": 44904,
+    "start_ms": 44447,
+    "end_ms": 44904,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "fermée.",
+    "start": 44.904,
+    "end": 45.437,
+    "startMs": 44904,
+    "endMs": 45437,
+    "start_ms": 44904,
+    "end_ms": 45437,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Tous",
+    "start": 45.437,
+    "end": 45.742,
+    "startMs": 45437,
+    "endMs": 45742,
+    "start_ms": 45437,
+    "end_ms": 45742,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ses",
+    "start": 45.742,
+    "end": 45.97,
+    "startMs": 45742,
+    "endMs": 45970,
+    "start_ms": 45742,
+    "end_ms": 45970,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "points",
+    "start": 45.97,
+    "end": 46.427,
+    "startMs": 45970,
+    "endMs": 46427,
+    "start_ms": 45970,
+    "end_ms": 46427,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "sont",
+    "start": 46.427,
+    "end": 46.732,
+    "startMs": 46427,
+    "endMs": 46732,
+    "start_ms": 46427,
+    "end_ms": 46732,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "à",
+    "start": 46.732,
+    "end": 46.808,
+    "startMs": 46732,
+    "endMs": 46808,
+    "start_ms": 46732,
+    "end_ms": 46808,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "la",
+    "start": 46.808,
+    "end": 46.96,
+    "startMs": 46808,
+    "endMs": 46960,
+    "start_ms": 46808,
+    "end_ms": 46960,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "même",
+    "start": 46.96,
+    "end": 47.265,
+    "startMs": 46960,
+    "endMs": 47265,
+    "start_ms": 46960,
+    "end_ms": 47265,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "distance",
+    "start": 47.265,
+    "end": 47.874,
+    "startMs": 47265,
+    "endMs": 47874,
+    "start_ms": 47265,
+    "end_ms": 47874,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "du",
+    "start": 47.874,
+    "end": 48.026,
+    "startMs": 47874,
+    "endMs": 48026,
+    "start_ms": 47874,
+    "end_ms": 48026,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "centre",
+    "start": 48.026,
+    "end": 48.483,
+    "startMs": 48026,
+    "endMs": 48483,
+    "start_ms": 48026,
+    "end_ms": 48483,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 48.483,
+    "end": 48.559,
+    "startMs": 48483,
+    "endMs": 48559,
+    "start_ms": 48483,
+    "end_ms": 48559,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "c'est",
+    "start": 48.559,
+    "end": 48.94,
+    "startMs": 48559,
+    "endMs": 48940,
+    "start_ms": 48559,
+    "end_ms": 48940,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 48.94,
+    "end": 49.092,
+    "startMs": 48940,
+    "endMs": 49092,
+    "start_ms": 48940,
+    "end_ms": 49092,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "rayon.",
+    "start": 49.092,
+    "end": 49.549,
+    "startMs": 49092,
+    "endMs": 49549,
+    "start_ms": 49092,
+    "end_ms": 49549,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "On",
+    "start": 49.549,
+    "end": 49.702,
+    "startMs": 49549,
+    "endMs": 49702,
+    "start_ms": 49549,
+    "end_ms": 49702,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 49.702,
+    "end": 49.854,
+    "startMs": 49702,
+    "endMs": 49854,
+    "start_ms": 49702,
+    "end_ms": 49854,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "trace",
+    "start": 49.854,
+    "end": 50.235,
+    "startMs": 49854,
+    "endMs": 50235,
+    "start_ms": 49854,
+    "end_ms": 50235,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "au",
+    "start": 50.235,
+    "end": 50.387,
+    "startMs": 50235,
+    "endMs": 50387,
+    "start_ms": 50235,
+    "end_ms": 50387,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "compas.",
+    "start": 50.387,
+    "end": 50.92,
+    "startMs": 50387,
+    "endMs": 50920,
+    "start_ms": 50387,
+    "end_ms": 50920,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Le",
+    "start": 50.92,
+    "end": 51.072,
+    "startMs": 50920,
+    "endMs": 51072,
+    "start_ms": 50920,
+    "end_ms": 51072,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "cercle",
+    "start": 51.072,
+    "end": 51.529,
+    "startMs": 51072,
+    "endMs": 51529,
+    "start_ms": 51072,
+    "end_ms": 51529,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "n'a",
+    "start": 51.529,
+    "end": 51.758,
+    "startMs": 51529,
+    "endMs": 51758,
+    "start_ms": 51529,
+    "end_ms": 51758,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ni",
+    "start": 51.758,
+    "end": 51.91,
+    "startMs": 51758,
+    "endMs": 51910,
+    "start_ms": 51758,
+    "end_ms": 51910,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "côté",
+    "start": 51.91,
+    "end": 52.215,
+    "startMs": 51910,
+    "endMs": 52215,
+    "start_ms": 51910,
+    "end_ms": 52215,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ni",
+    "start": 52.215,
+    "end": 52.367,
+    "startMs": 52215,
+    "endMs": 52367,
+    "start_ms": 52215,
+    "end_ms": 52367,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "sommet.",
+    "start": 52.367,
+    "end": 52.9,
+    "startMs": 52367,
+    "endMs": 52900,
+    "start_ms": 52367,
+    "end_ms": 52900,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Le",
+    "start": 53.9,
+    "end": 54.05,
+    "startMs": 53900,
+    "endMs": 54050,
+    "start_ms": 53900,
+    "end_ms": 54050,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "périmètre,",
+    "start": 54.05,
+    "end": 54.799,
+    "startMs": 54050,
+    "endMs": 54799,
+    "start_ms": 54050,
+    "end_ms": 54799,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "c'est",
+    "start": 54.799,
+    "end": 55.173,
+    "startMs": 54799,
+    "endMs": 55173,
+    "start_ms": 54799,
+    "end_ms": 55173,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "la",
+    "start": 55.173,
+    "end": 55.323,
+    "startMs": 55173,
+    "endMs": 55323,
+    "start_ms": 55173,
+    "end_ms": 55323,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "longueur",
+    "start": 55.323,
+    "end": 55.922,
+    "startMs": 55323,
+    "endMs": 55922,
+    "start_ms": 55323,
+    "end_ms": 55922,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "du",
+    "start": 55.922,
+    "end": 56.071,
+    "startMs": 55922,
+    "endMs": 56071,
+    "start_ms": 55922,
+    "end_ms": 56071,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "tour",
+    "start": 56.071,
+    "end": 56.371,
+    "startMs": 56071,
+    "endMs": 56371,
+    "start_ms": 56071,
+    "end_ms": 56371,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 56.371,
+    "end": 56.521,
+    "startMs": 56371,
+    "endMs": 56521,
+    "start_ms": 56371,
+    "end_ms": 56521,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "la",
+    "start": 56.521,
+    "end": 56.67,
+    "startMs": 56521,
+    "endMs": 56670,
+    "start_ms": 56521,
+    "end_ms": 56670,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "figure.",
+    "start": 56.67,
+    "end": 57.195,
+    "startMs": 56670,
+    "endMs": 57195,
+    "start_ms": 56670,
+    "end_ms": 57195,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Pour",
+    "start": 57.195,
+    "end": 57.494,
+    "startMs": 57195,
+    "endMs": 57494,
+    "start_ms": 57195,
+    "end_ms": 57494,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "un",
+    "start": 57.494,
+    "end": 57.644,
+    "startMs": 57494,
+    "endMs": 57644,
+    "start_ms": 57494,
+    "end_ms": 57644,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "triangle,",
+    "start": 57.644,
+    "end": 58.318,
+    "startMs": 57644,
+    "endMs": 58318,
+    "start_ms": 57644,
+    "end_ms": 58318,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "on",
+    "start": 58.318,
+    "end": 58.467,
+    "startMs": 58318,
+    "endMs": 58467,
+    "start_ms": 58318,
+    "end_ms": 58467,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "additionne",
+    "start": 58.467,
+    "end": 59.216,
+    "startMs": 58467,
+    "endMs": 59216,
+    "start_ms": 58467,
+    "end_ms": 59216,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ses",
+    "start": 59.216,
+    "end": 59.441,
+    "startMs": 59216,
+    "endMs": 59441,
+    "start_ms": 59216,
+    "end_ms": 59441,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "trois",
+    "start": 59.441,
+    "end": 59.815,
+    "startMs": 59441,
+    "endMs": 59815,
+    "start_ms": 59441,
+    "end_ms": 59815,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "côtés.",
+    "start": 59.815,
+    "end": 60.265,
+    "startMs": 59815,
+    "endMs": 60265,
+    "start_ms": 59815,
+    "end_ms": 60265,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Pour",
+    "start": 60.265,
+    "end": 60.564,
+    "startMs": 60265,
+    "endMs": 60564,
+    "start_ms": 60265,
+    "end_ms": 60564,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "un",
+    "start": 60.564,
+    "end": 60.714,
+    "startMs": 60564,
+    "endMs": 60714,
+    "start_ms": 60564,
+    "end_ms": 60714,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "rectangle",
+    "start": 60.714,
+    "end": 61.388,
+    "startMs": 60714,
+    "endMs": 61388,
+    "start_ms": 60714,
+    "end_ms": 61388,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 61.388,
+    "end": 61.463,
+    "startMs": 61388,
+    "endMs": 61463,
+    "start_ms": 61388,
+    "end_ms": 61463,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "deux",
+    "start": 61.463,
+    "end": 61.762,
+    "startMs": 61463,
+    "endMs": 61762,
+    "start_ms": 61463,
+    "end_ms": 61762,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "fois",
+    "start": 61.762,
+    "end": 62.062,
+    "startMs": 61762,
+    "endMs": 62062,
+    "start_ms": 61762,
+    "end_ms": 62062,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "la",
+    "start": 62.062,
+    "end": 62.211,
+    "startMs": 62062,
+    "endMs": 62211,
+    "start_ms": 62062,
+    "end_ms": 62211,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "longueur,",
+    "start": 62.211,
+    "end": 62.885,
+    "startMs": 62211,
+    "endMs": 62885,
+    "start_ms": 62211,
+    "end_ms": 62885,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "plus",
+    "start": 62.885,
+    "end": 63.185,
+    "startMs": 62885,
+    "endMs": 63185,
+    "start_ms": 62885,
+    "end_ms": 63185,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "deux",
+    "start": 63.185,
+    "end": 63.484,
+    "startMs": 63185,
+    "endMs": 63484,
+    "start_ms": 63185,
+    "end_ms": 63484,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "fois",
+    "start": 63.484,
+    "end": 63.784,
+    "startMs": 63484,
+    "endMs": 63784,
+    "start_ms": 63484,
+    "end_ms": 63784,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "la",
+    "start": 63.784,
+    "end": 63.933,
+    "startMs": 63784,
+    "endMs": 63933,
+    "start_ms": 63784,
+    "end_ms": 63933,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "largeur.",
+    "start": 63.933,
+    "end": 64.533,
+    "startMs": 63933,
+    "endMs": 64533,
+    "start_ms": 63933,
+    "end_ms": 64533,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Exemple",
+    "start": 64.533,
+    "end": 65.057,
+    "startMs": 64533,
+    "endMs": 65057,
+    "start_ms": 64533,
+    "end_ms": 65057,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 65.057,
+    "end": 65.132,
+    "startMs": 65057,
+    "endMs": 65132,
+    "start_ms": 65057,
+    "end_ms": 65132,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "trois,",
+    "start": 65.132,
+    "end": 65.581,
+    "startMs": 65132,
+    "endMs": 65581,
+    "start_ms": 65132,
+    "end_ms": 65581,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "quatre",
+    "start": 65.581,
+    "end": 66.03,
+    "startMs": 65581,
+    "endMs": 66030,
+    "start_ms": 65581,
+    "end_ms": 66030,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 66.03,
+    "end": 66.18,
+    "startMs": 66030,
+    "endMs": 66180,
+    "start_ms": 66030,
+    "end_ms": 66180,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "cinq",
+    "start": 66.18,
+    "end": 66.479,
+    "startMs": 66180,
+    "endMs": 66479,
+    "start_ms": 66180,
+    "end_ms": 66479,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "centimètres",
+    "start": 66.479,
+    "end": 67.303,
+    "startMs": 66479,
+    "endMs": 67303,
+    "start_ms": 66479,
+    "end_ms": 67303,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "donnent",
+    "start": 67.303,
+    "end": 67.827,
+    "startMs": 67303,
+    "endMs": 67827,
+    "start_ms": 67303,
+    "end_ms": 67827,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "douze",
+    "start": 67.827,
+    "end": 68.201,
+    "startMs": 67827,
+    "endMs": 68201,
+    "start_ms": 67827,
+    "end_ms": 68201,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "centimètres.",
+    "start": 68.201,
+    "end": 69.1,
+    "startMs": 68201,
+    "endMs": 69100,
+    "start_ms": 68201,
+    "end_ms": 69100,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "À",
+    "start": 70.1,
+    "end": 70.179,
+    "startMs": 70100,
+    "endMs": 70179,
+    "start_ms": 70100,
+    "end_ms": 70179,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "toi",
+    "start": 70.179,
+    "end": 70.416,
+    "startMs": 70179,
+    "endMs": 70416,
+    "start_ms": 70179,
+    "end_ms": 70416,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "!",
+    "start": 70.416,
+    "end": 70.495,
+    "startMs": 70416,
+    "endMs": 70495,
+    "start_ms": 70416,
+    "end_ms": 70495,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Un",
+    "start": 70.495,
+    "end": 70.654,
+    "startMs": 70495,
+    "endMs": 70654,
+    "start_ms": 70495,
+    "end_ms": 70654,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "rectangle",
+    "start": 70.654,
+    "end": 71.365,
+    "startMs": 70654,
+    "endMs": 71365,
+    "start_ms": 70654,
+    "end_ms": 71365,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "mesure",
+    "start": 71.365,
+    "end": 71.84,
+    "startMs": 71365,
+    "endMs": 71840,
+    "start_ms": 71365,
+    "end_ms": 71840,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "huit",
+    "start": 71.84,
+    "end": 72.156,
+    "startMs": 71840,
+    "endMs": 72156,
+    "start_ms": 71840,
+    "end_ms": 72156,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "centimètres",
+    "start": 72.156,
+    "end": 73.026,
+    "startMs": 72156,
+    "endMs": 73026,
+    "start_ms": 72156,
+    "end_ms": 73026,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 73.026,
+    "end": 73.184,
+    "startMs": 73026,
+    "endMs": 73184,
+    "start_ms": 73026,
+    "end_ms": 73184,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "longueur",
+    "start": 73.184,
+    "end": 73.817,
+    "startMs": 73184,
+    "endMs": 73817,
+    "start_ms": 73184,
+    "end_ms": 73817,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 73.817,
+    "end": 73.975,
+    "startMs": 73817,
+    "endMs": 73975,
+    "start_ms": 73817,
+    "end_ms": 73975,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "cinq",
+    "start": 73.975,
+    "end": 74.291,
+    "startMs": 73975,
+    "endMs": 74291,
+    "start_ms": 73975,
+    "end_ms": 74291,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "centimètres",
+    "start": 74.291,
+    "end": 75.161,
+    "startMs": 74291,
+    "endMs": 75161,
+    "start_ms": 74291,
+    "end_ms": 75161,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 75.161,
+    "end": 75.319,
+    "startMs": 75161,
+    "endMs": 75319,
+    "start_ms": 75161,
+    "end_ms": 75319,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "largeur.",
+    "start": 75.319,
+    "end": 75.952,
+    "startMs": 75319,
+    "endMs": 75952,
+    "start_ms": 75319,
+    "end_ms": 75952,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Quel",
+    "start": 75.952,
+    "end": 76.268,
+    "startMs": 75952,
+    "endMs": 76268,
+    "start_ms": 75952,
+    "end_ms": 76268,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "est",
+    "start": 76.268,
+    "end": 76.505,
+    "startMs": 76268,
+    "endMs": 76505,
+    "start_ms": 76268,
+    "end_ms": 76505,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "son",
+    "start": 76.505,
+    "end": 76.743,
+    "startMs": 76505,
+    "endMs": 76743,
+    "start_ms": 76505,
+    "end_ms": 76743,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "périmètre",
+    "start": 76.743,
+    "end": 77.454,
+    "startMs": 76743,
+    "endMs": 77454,
+    "start_ms": 76743,
+    "end_ms": 77454,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "?",
+    "start": 77.454,
+    "end": 77.533,
+    "startMs": 77454,
+    "endMs": 77533,
+    "start_ms": 77454,
+    "end_ms": 77533,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Huit",
+    "start": 81.533,
+    "end": 81.926,
+    "startMs": 81533,
+    "endMs": 81926,
+    "start_ms": 81533,
+    "end_ms": 81926,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "plus",
+    "start": 81.926,
+    "end": 82.32,
+    "startMs": 81926,
+    "endMs": 82320,
+    "start_ms": 81926,
+    "end_ms": 82320,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "huit",
+    "start": 82.32,
+    "end": 82.713,
+    "startMs": 82320,
+    "endMs": 82713,
+    "start_ms": 82320,
+    "end_ms": 82713,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 82.713,
+    "end": 82.811,
+    "startMs": 82713,
+    "endMs": 82811,
+    "start_ms": 82713,
+    "end_ms": 82811,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "seize.",
+    "start": 82.811,
+    "end": 83.401,
+    "startMs": 82811,
+    "endMs": 83401,
+    "start_ms": 82811,
+    "end_ms": 83401,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Cinq",
+    "start": 83.401,
+    "end": 83.794,
+    "startMs": 83401,
+    "endMs": 83794,
+    "start_ms": 83401,
+    "end_ms": 83794,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "plus",
+    "start": 83.794,
+    "end": 84.187,
+    "startMs": 83794,
+    "endMs": 84187,
+    "start_ms": 83794,
+    "end_ms": 84187,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "cinq",
+    "start": 84.187,
+    "end": 84.58,
+    "startMs": 84187,
+    "endMs": 84580,
+    "start_ms": 84187,
+    "end_ms": 84580,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 84.58,
+    "end": 84.679,
+    "startMs": 84580,
+    "endMs": 84679,
+    "start_ms": 84580,
+    "end_ms": 84679,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "dix.",
+    "start": 84.679,
+    "end": 85.072,
+    "startMs": 84679,
+    "endMs": 85072,
+    "start_ms": 84679,
+    "end_ms": 85072,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Le",
+    "start": 85.072,
+    "end": 85.268,
+    "startMs": 85072,
+    "endMs": 85268,
+    "start_ms": 85072,
+    "end_ms": 85268,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "périmètre",
+    "start": 85.268,
+    "end": 86.153,
+    "startMs": 85268,
+    "endMs": 86153,
+    "start_ms": 85268,
+    "end_ms": 86153,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "total",
+    "start": 86.153,
+    "end": 86.644,
+    "startMs": 86153,
+    "endMs": 86644,
+    "start_ms": 86153,
+    "end_ms": 86644,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "est",
+    "start": 86.644,
+    "end": 86.939,
+    "startMs": 86644,
+    "endMs": 86939,
+    "start_ms": 86644,
+    "end_ms": 86939,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 86.939,
+    "end": 87.136,
+    "startMs": 86939,
+    "endMs": 87136,
+    "start_ms": 86939,
+    "end_ms": 87136,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "vingt-six",
+    "start": 87.136,
+    "end": 88.021,
+    "startMs": 87136,
+    "endMs": 88021,
+    "start_ms": 87136,
+    "end_ms": 88021,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "centimètres.",
+    "start": 88.021,
+    "end": 89.2,
+    "startMs": 88021,
+    "endMs": 89200,
+    "start_ms": 88021,
+    "end_ms": 89200,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Tu",
+    "start": 90.2,
+    "end": 90.353,
+    "startMs": 90200,
+    "endMs": 90353,
+    "start_ms": 90200,
+    "end_ms": 90353,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "sais",
+    "start": 90.353,
+    "end": 90.659,
+    "startMs": 90353,
+    "endMs": 90659,
+    "start_ms": 90353,
+    "end_ms": 90659,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "maintenant",
+    "start": 90.659,
+    "end": 91.423,
+    "startMs": 90659,
+    "endMs": 91423,
+    "start_ms": 90659,
+    "end_ms": 91423,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "reconnaître",
+    "start": 91.423,
+    "end": 92.264,
+    "startMs": 91423,
+    "endMs": 92264,
+    "start_ms": 91423,
+    "end_ms": 92264,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 92.264,
+    "end": 92.416,
+    "startMs": 92264,
+    "endMs": 92416,
+    "start_ms": 92264,
+    "end_ms": 92416,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "triangle,",
+    "start": 92.416,
+    "end": 93.104,
+    "startMs": 92416,
+    "endMs": 93104,
+    "start_ms": 92416,
+    "end_ms": 93104,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 93.104,
+    "end": 93.257,
+    "startMs": 93104,
+    "endMs": 93257,
+    "start_ms": 93104,
+    "end_ms": 93257,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "rectangle",
+    "start": 93.257,
+    "end": 93.945,
+    "startMs": 93257,
+    "endMs": 93945,
+    "start_ms": 93257,
+    "end_ms": 93945,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 93.945,
+    "end": 94.098,
+    "startMs": 93945,
+    "endMs": 94098,
+    "start_ms": 93945,
+    "end_ms": 94098,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 94.098,
+    "end": 94.251,
+    "startMs": 94098,
+    "endMs": 94251,
+    "start_ms": 94098,
+    "end_ms": 94251,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "cercle,",
+    "start": 94.251,
+    "end": 94.786,
+    "startMs": 94251,
+    "endMs": 94786,
+    "start_ms": 94251,
+    "end_ms": 94786,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 94.786,
+    "end": 94.939,
+    "startMs": 94786,
+    "endMs": 94939,
+    "start_ms": 94786,
+    "end_ms": 94939,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "calculer",
+    "start": 94.939,
+    "end": 95.55,
+    "startMs": 94939,
+    "endMs": 95550,
+    "start_ms": 94939,
+    "end_ms": 95550,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "un",
+    "start": 95.55,
+    "end": 95.703,
+    "startMs": 95550,
+    "endMs": 95703,
+    "start_ms": 95550,
+    "end_ms": 95703,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "périmètre.",
+    "start": 95.703,
+    "end": 96.467,
+    "startMs": 95703,
+    "endMs": 96467,
+    "start_ms": 95703,
+    "end_ms": 96467,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Bravo,",
+    "start": 96.467,
+    "end": 96.926,
+    "startMs": 96467,
+    "endMs": 96926,
+    "start_ms": 96467,
+    "end_ms": 96926,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 96.926,
+    "end": 97.079,
+    "startMs": 96926,
+    "endMs": 97079,
+    "start_ms": 96926,
+    "end_ms": 97079,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "à",
+    "start": 97.079,
+    "end": 97.155,
+    "startMs": 97079,
+    "endMs": 97155,
+    "start_ms": 97079,
+    "end_ms": 97155,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "bientôt",
+    "start": 97.155,
+    "end": 97.69,
+    "startMs": 97155,
+    "endMs": 97690,
+    "start_ms": 97155,
+    "end_ms": 97690,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "!",
+    "start": 97.69,
+    "end": 97.767,
+    "startMs": 97690,
+    "endMs": 97767,
+    "start_ms": 97690,
+    "end_ms": 97767,
+    "pageBreakAfter": true
+  }
+]

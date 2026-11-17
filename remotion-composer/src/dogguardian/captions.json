@@ -1,0 +1,812 @@
+[
+  {
+    "word": "Quand",
+    "start": 0.1,
+    "end": 0.606,
+    "startMs": 100,
+    "endMs": 606,
+    "start_ms": 100,
+    "end_ms": 606,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "un",
+    "start": 0.606,
+    "end": 1.111,
+    "startMs": 606,
+    "endMs": 1111,
+    "start_ms": 606,
+    "end_ms": 1111,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "tout-petit",
+    "start": 1.111,
+    "end": 1.777,
+    "startMs": 1111,
+    "endMs": 1777,
+    "start_ms": 1111,
+    "end_ms": 1777,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "fait",
+    "start": 1.777,
+    "end": 2.282,
+    "startMs": 1777,
+    "endMs": 2282,
+    "start_ms": 1777,
+    "end_ms": 2282,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ses",
+    "start": 2.282,
+    "end": 2.788,
+    "startMs": 2282,
+    "endMs": 2788,
+    "start_ms": 2282,
+    "end_ms": 2788,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "premiers",
+    "start": 2.788,
+    "end": 3.32,
+    "startMs": 2788,
+    "endMs": 3320,
+    "start_ms": 2788,
+    "end_ms": 3320,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "pas",
+    "start": 3.32,
+    "end": 3.826,
+    "startMs": 3320,
+    "endMs": 3826,
+    "start_ms": 3320,
+    "end_ms": 3826,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "seul,",
+    "start": 3.826,
+    "end": 4.331,
+    "startMs": 3826,
+    "endMs": 4331,
+    "start_ms": 3826,
+    "end_ms": 4331,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 4.331,
+    "end": 4.837,
+    "startMs": 4331,
+    "endMs": 4837,
+    "start_ms": 4331,
+    "end_ms": 4837,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "monde",
+    "start": 4.837,
+    "end": 5.343,
+    "startMs": 4837,
+    "endMs": 5343,
+    "start_ms": 4837,
+    "end_ms": 5343,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "lui",
+    "start": 5.343,
+    "end": 5.848,
+    "startMs": 5343,
+    "endMs": 5848,
+    "start_ms": 5343,
+    "end_ms": 5848,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "semble",
+    "start": 5.848,
+    "end": 6.354,
+    "startMs": 5848,
+    "endMs": 6354,
+    "start_ms": 5848,
+    "end_ms": 6354,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "immense",
+    "start": 6.354,
+    "end": 6.86,
+    "startMs": 6354,
+    "endMs": 6860,
+    "start_ms": 6354,
+    "end_ms": 6860,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 6.86,
+    "end": 7.365,
+    "startMs": 6860,
+    "endMs": 7365,
+    "start_ms": 6860,
+    "end_ms": 7365,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "sans",
+    "start": 7.365,
+    "end": 7.871,
+    "startMs": 7365,
+    "endMs": 7871,
+    "start_ms": 7365,
+    "end_ms": 7871,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "danger.",
+    "start": 7.871,
+    "end": 8.377,
+    "startMs": 7871,
+    "endMs": 8377,
+    "start_ms": 7871,
+    "end_ms": 8377,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Mais",
+    "start": 5.106,
+    "end": 5.529,
+    "startMs": 5106,
+    "endMs": 5529,
+    "start_ms": 5106,
+    "end_ms": 5529,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "dans",
+    "start": 5.529,
+    "end": 5.952,
+    "startMs": 5529,
+    "endMs": 5952,
+    "start_ms": 5529,
+    "end_ms": 5952,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "la",
+    "start": 5.952,
+    "end": 6.375,
+    "startMs": 5952,
+    "endMs": 6375,
+    "start_ms": 5952,
+    "end_ms": 6375,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "pénombre,",
+    "start": 6.375,
+    "end": 7.009,
+    "startMs": 6375,
+    "endMs": 7009,
+    "start_ms": 6375,
+    "end_ms": 7009,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "deux",
+    "start": 7.009,
+    "end": 7.432,
+    "startMs": 7009,
+    "endMs": 7432,
+    "start_ms": 7009,
+    "end_ms": 7432,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "yeux",
+    "start": 7.432,
+    "end": 7.855,
+    "startMs": 7432,
+    "endMs": 7855,
+    "start_ms": 7432,
+    "end_ms": 7855,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "vigilants",
+    "start": 7.855,
+    "end": 8.489,
+    "startMs": 7855,
+    "endMs": 8489,
+    "start_ms": 7855,
+    "end_ms": 8489,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "scrutent",
+    "start": 8.489,
+    "end": 9.053,
+    "startMs": 8489,
+    "endMs": 9053,
+    "start_ms": 8489,
+    "end_ms": 9053,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 9.053,
+    "end": 9.476,
+    "startMs": 9053,
+    "endMs": 9476,
+    "start_ms": 9053,
+    "end_ms": 9476,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "moindre",
+    "start": 9.476,
+    "end": 9.969,
+    "startMs": 9476,
+    "endMs": 9969,
+    "start_ms": 9476,
+    "end_ms": 9969,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "recoin.",
+    "start": 9.969,
+    "end": 10.463,
+    "startMs": 9969,
+    "endMs": 10463,
+    "start_ms": 9969,
+    "end_ms": 10463,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Couché",
+    "start": 9.335,
+    "end": 9.904,
+    "startMs": 9335,
+    "endMs": 9904,
+    "start_ms": 9335,
+    "end_ms": 9904,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "à",
+    "start": 9.904,
+    "end": 10.274,
+    "startMs": 9904,
+    "endMs": 10274,
+    "start_ms": 9904,
+    "end_ms": 10274,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ses",
+    "start": 10.274,
+    "end": 10.643,
+    "startMs": 10274,
+    "endMs": 10643,
+    "start_ms": 10274,
+    "end_ms": 10643,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "côtés,",
+    "start": 10.643,
+    "end": 11.212,
+    "startMs": 10643,
+    "endMs": 11212,
+    "start_ms": 10643,
+    "end_ms": 11212,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 11.212,
+    "end": 11.582,
+    "startMs": 11212,
+    "endMs": 11582,
+    "start_ms": 11212,
+    "end_ms": 11582,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "chien",
+    "start": 11.582,
+    "end": 12.056,
+    "startMs": 11582,
+    "endMs": 12056,
+    "start_ms": 11582,
+    "end_ms": 12056,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "veille",
+    "start": 12.056,
+    "end": 12.624,
+    "startMs": 12056,
+    "endMs": 12624,
+    "start_ms": 12056,
+    "end_ms": 12624,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "en",
+    "start": 12.624,
+    "end": 12.994,
+    "startMs": 12624,
+    "endMs": 12994,
+    "start_ms": 12624,
+    "end_ms": 12994,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "silence.",
+    "start": 12.994,
+    "end": 13.752,
+    "startMs": 12994,
+    "endMs": 13752,
+    "start_ms": 12994,
+    "end_ms": 13752,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Au",
+    "start": 13.032,
+    "end": 13.532,
+    "startMs": 13032,
+    "endMs": 13532,
+    "start_ms": 13032,
+    "end_ms": 13532,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "premier",
+    "start": 13.532,
+    "end": 14.087,
+    "startMs": 13532,
+    "endMs": 14087,
+    "start_ms": 13532,
+    "end_ms": 14087,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "obstacle,",
+    "start": 14.087,
+    "end": 14.802,
+    "startMs": 14087,
+    "endMs": 14802,
+    "start_ms": 14087,
+    "end_ms": 14802,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "son",
+    "start": 14.802,
+    "end": 15.302,
+    "startMs": 14802,
+    "endMs": 15302,
+    "start_ms": 14802,
+    "end_ms": 15302,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "corps",
+    "start": 15.302,
+    "end": 15.802,
+    "startMs": 15302,
+    "endMs": 15802,
+    "start_ms": 15302,
+    "end_ms": 15802,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "s'interpose",
+    "start": 15.802,
+    "end": 16.675,
+    "startMs": 15802,
+    "endMs": 16675,
+    "start_ms": 15802,
+    "end_ms": 16675,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "avec",
+    "start": 16.675,
+    "end": 17.175,
+    "startMs": 16675,
+    "endMs": 17175,
+    "start_ms": 16675,
+    "end_ms": 17175,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "une",
+    "start": 17.175,
+    "end": 17.675,
+    "startMs": 17175,
+    "endMs": 17675,
+    "start_ms": 17175,
+    "end_ms": 17675,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "infinie",
+    "start": 17.675,
+    "end": 18.23,
+    "startMs": 17675,
+    "endMs": 18230,
+    "start_ms": 17675,
+    "end_ms": 18230,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "délicatesse.",
+    "start": 18.23,
+    "end": 19.183,
+    "startMs": 18230,
+    "endMs": 19183,
+    "start_ms": 18230,
+    "end_ms": 19183,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Rien",
+    "start": 18.032,
+    "end": 18.515,
+    "startMs": 18032,
+    "endMs": 18515,
+    "start_ms": 18032,
+    "end_ms": 18515,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "n'égale",
+    "start": 18.515,
+    "end": 19.012,
+    "startMs": 18515,
+    "endMs": 19012,
+    "start_ms": 18515,
+    "end_ms": 19012,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "cet",
+    "start": 19.012,
+    "end": 19.494,
+    "startMs": 19012,
+    "endMs": 19494,
+    "start_ms": 19012,
+    "end_ms": 19494,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "instinct",
+    "start": 19.494,
+    "end": 20.062,
+    "startMs": 19494,
+    "endMs": 20062,
+    "start_ms": 19494,
+    "end_ms": 20062,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ancestral",
+    "start": 20.062,
+    "end": 20.701,
+    "startMs": 20062,
+    "endMs": 20701,
+    "start_ms": 20062,
+    "end_ms": 20701,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "qui",
+    "start": 20.701,
+    "end": 21.184,
+    "startMs": 20701,
+    "endMs": 21184,
+    "start_ms": 20701,
+    "end_ms": 21184,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "place",
+    "start": 21.184,
+    "end": 21.666,
+    "startMs": 21184,
+    "endMs": 21666,
+    "start_ms": 21184,
+    "end_ms": 21666,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "la",
+    "start": 21.666,
+    "end": 22.149,
+    "startMs": 21666,
+    "endMs": 22149,
+    "start_ms": 21666,
+    "end_ms": 22149,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "vie",
+    "start": 22.149,
+    "end": 22.632,
+    "startMs": 22149,
+    "endMs": 22632,
+    "start_ms": 22149,
+    "end_ms": 22632,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 22.632,
+    "end": 23.115,
+    "startMs": 22632,
+    "endMs": 23115,
+    "start_ms": 22632,
+    "end_ms": 23115,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "l'enfant",
+    "start": 23.115,
+    "end": 23.682,
+    "startMs": 23115,
+    "endMs": 23682,
+    "start_ms": 23115,
+    "end_ms": 23682,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "avant",
+    "start": 23.682,
+    "end": 24.165,
+    "startMs": 23682,
+    "endMs": 24165,
+    "start_ms": 23682,
+    "end_ms": 24165,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "la",
+    "start": 24.165,
+    "end": 24.648,
+    "startMs": 24165,
+    "endMs": 24648,
+    "start_ms": 24165,
+    "end_ms": 24648,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "sienne.",
+    "start": 24.648,
+    "end": 25.145,
+    "startMs": 24648,
+    "endMs": 25145,
+    "start_ms": 24648,
+    "end_ms": 25145,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Pour",
+    "start": 22.859,
+    "end": 23.215,
+    "startMs": 22859,
+    "endMs": 23215,
+    "start_ms": 22859,
+    "end_ms": 23215,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "cet",
+    "start": 23.215,
+    "end": 23.572,
+    "startMs": 23215,
+    "endMs": 23572,
+    "start_ms": 23215,
+    "end_ms": 23572,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "enfant,",
+    "start": 23.572,
+    "end": 24.126,
+    "startMs": 23572,
+    "endMs": 24126,
+    "start_ms": 23572,
+    "end_ms": 24126,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "il",
+    "start": 24.126,
+    "end": 24.483,
+    "startMs": 24126,
+    "endMs": 24483,
+    "start_ms": 24126,
+    "end_ms": 24483,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "n'est",
+    "start": 24.483,
+    "end": 24.879,
+    "startMs": 24483,
+    "endMs": 24879,
+    "start_ms": 24483,
+    "end_ms": 24879,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "pas",
+    "start": 24.879,
+    "end": 25.235,
+    "startMs": 24879,
+    "endMs": 25235,
+    "start_ms": 24879,
+    "end_ms": 25235,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "seulement",
+    "start": 25.235,
+    "end": 25.948,
+    "startMs": 25235,
+    "endMs": 25948,
+    "start_ms": 25235,
+    "end_ms": 25948,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "un",
+    "start": 25.948,
+    "end": 26.304,
+    "startMs": 25948,
+    "endMs": 26304,
+    "start_ms": 25948,
+    "end_ms": 26304,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "compagnon.",
+    "start": 26.304,
+    "end": 27.096,
+    "startMs": 26304,
+    "endMs": 27096,
+    "start_ms": 26304,
+    "end_ms": 27096,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Il",
+    "start": 26.423,
+    "end": 26.894,
+    "startMs": 26423,
+    "endMs": 26894,
+    "start_ms": 26423,
+    "end_ms": 26894,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "est",
+    "start": 26.894,
+    "end": 27.364,
+    "startMs": 26894,
+    "endMs": 27364,
+    "start_ms": 26894,
+    "end_ms": 27364,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "son",
+    "start": 27.364,
+    "end": 27.835,
+    "startMs": 27364,
+    "endMs": 27835,
+    "start_ms": 27364,
+    "end_ms": 27835,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "bouclier,",
+    "start": 27.835,
+    "end": 28.578,
+    "startMs": 27835,
+    "endMs": 28578,
+    "start_ms": 27835,
+    "end_ms": 28578,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "son",
+    "start": 28.578,
+    "end": 29.049,
+    "startMs": 28578,
+    "endMs": 29049,
+    "start_ms": 28578,
+    "end_ms": 29049,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "confident,",
+    "start": 29.049,
+    "end": 29.875,
+    "startMs": 29049,
+    "endMs": 29875,
+    "start_ms": 29049,
+    "end_ms": 29875,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 29.875,
+    "end": 30.346,
+    "startMs": 29875,
+    "endMs": 30346,
+    "start_ms": 29875,
+    "end_ms": 30346,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "son",
+    "start": 30.346,
+    "end": 30.816,
+    "startMs": 30346,
+    "endMs": 30816,
+    "start_ms": 30346,
+    "end_ms": 30816,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "plus",
+    "start": 30.816,
+    "end": 31.287,
+    "startMs": 30816,
+    "endMs": 31287,
+    "start_ms": 30816,
+    "end_ms": 31287,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "fidèle",
+    "start": 31.287,
+    "end": 31.783,
+    "startMs": 31287,
+    "endMs": 31783,
+    "start_ms": 31287,
+    "end_ms": 31783,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ange",
+    "start": 31.783,
+    "end": 32.253,
+    "startMs": 31783,
+    "endMs": 32253,
+    "start_ms": 31783,
+    "end_ms": 32253,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "gardien.",
+    "start": 32.253,
+    "end": 32.914,
+    "startMs": 32253,
+    "endMs": 32914,
+    "start_ms": 32253,
+    "end_ms": 32914,
+    "pageBreakAfter": true
+  }
+]

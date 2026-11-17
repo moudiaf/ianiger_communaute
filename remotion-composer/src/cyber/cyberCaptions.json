@@ -1,0 +1,427 @@
+[
+  {
+    "word": "Tu",
+    "start_ms": 200,
+    "end_ms": 514
+  },
+  {
+    "word": "viens",
+    "start_ms": 514,
+    "end_ms": 828
+  },
+  {
+    "word": "de",
+    "start_ms": 828,
+    "end_ms": 1142
+  },
+  {
+    "word": "recevoir",
+    "start_ms": 1142,
+    "end_ms": 1456
+  },
+  {
+    "word": "un",
+    "start_ms": 1456,
+    "end_ms": 1770
+  },
+  {
+    "word": "message",
+    "start_ms": 1770,
+    "end_ms": 2084
+  },
+  {
+    "word": "disant",
+    "start_ms": 2084,
+    "end_ms": 2398
+  },
+  {
+    "word": "que",
+    "start_ms": 2398,
+    "end_ms": 2712
+  },
+  {
+    "word": "tu",
+    "start_ms": 2712,
+    "end_ms": 3026
+  },
+  {
+    "word": "as",
+    "start_ms": 3026,
+    "end_ms": 3340
+  },
+  {
+    "word": "gagné",
+    "start_ms": 3340,
+    "end_ms": 3654
+  },
+  {
+    "word": "500",
+    "start_ms": 3654,
+    "end_ms": 3968
+  },
+  {
+    "word": "000",
+    "start_ms": 3968,
+    "end_ms": 4282
+  },
+  {
+    "word": "Francs",
+    "start_ms": 4282,
+    "end_ms": 4596
+  },
+  {
+    "word": "CFA",
+    "start_ms": 4596,
+    "end_ms": 4910
+  },
+  {
+    "word": "?",
+    "start_ms": 4910,
+    "end_ms": 5224
+  },
+  {
+    "word": "Stop",
+    "start_ms": 5224,
+    "end_ms": 5538
+  },
+  {
+    "word": "!",
+    "start_ms": 5538,
+    "end_ms": 5852
+  },
+  {
+    "word": "Ne",
+    "start_ms": 5852,
+    "end_ms": 6166
+  },
+  {
+    "word": "clique",
+    "start_ms": 6166,
+    "end_ms": 6480
+  },
+  {
+    "word": "pas.",
+    "start_ms": 6480,
+    "end_ms": 6794
+  },
+  {
+    "word": "Avant",
+    "start_ms": 5200,
+    "end_ms": 5587
+  },
+  {
+    "word": "toute",
+    "start_ms": 5587,
+    "end_ms": 5974
+  },
+  {
+    "word": "chose,",
+    "start_ms": 5974,
+    "end_ms": 6361
+  },
+  {
+    "word": "pose-toi",
+    "start_ms": 6361,
+    "end_ms": 6748
+  },
+  {
+    "word": "trois",
+    "start_ms": 6748,
+    "end_ms": 7135
+  },
+  {
+    "word": "questions",
+    "start_ms": 7135,
+    "end_ms": 7522
+  },
+  {
+    "word": "rapides",
+    "start_ms": 7522,
+    "end_ms": 7909
+  },
+  {
+    "word": ":",
+    "start_ms": 7909,
+    "end_ms": 8296
+  },
+  {
+    "word": "Qui",
+    "start_ms": 8296,
+    "end_ms": 8683
+  },
+  {
+    "word": "t'écrit",
+    "start_ms": 8683,
+    "end_ms": 9070
+  },
+  {
+    "word": "?",
+    "start_ms": 9070,
+    "end_ms": 9457
+  },
+  {
+    "word": "Pourquoi",
+    "start_ms": 9457,
+    "end_ms": 9844
+  },
+  {
+    "word": "cette",
+    "start_ms": 9844,
+    "end_ms": 10231
+  },
+  {
+    "word": "urgence",
+    "start_ms": 10231,
+    "end_ms": 10618
+  },
+  {
+    "word": "soudaine",
+    "start_ms": 10618,
+    "end_ms": 11005
+  },
+  {
+    "word": "?",
+    "start_ms": 11005,
+    "end_ms": 11392
+  },
+  {
+    "word": "Quelles",
+    "start_ms": 11392,
+    "end_ms": 11779
+  },
+  {
+    "word": "données",
+    "start_ms": 11779,
+    "end_ms": 12166
+  },
+  {
+    "word": "personnelles",
+    "start_ms": 12166,
+    "end_ms": 12553
+  },
+  {
+    "word": "vous",
+    "start_ms": 12553,
+    "end_ms": 12940
+  },
+  {
+    "word": "réclamez-t-on",
+    "start_ms": 12940,
+    "end_ms": 13327
+  },
+  {
+    "word": "?",
+    "start_ms": 13327,
+    "end_ms": 13714
+  },
+  {
+    "word": "Un",
+    "start_ms": 15200,
+    "end_ms": 15516
+  },
+  {
+    "word": "gain",
+    "start_ms": 15516,
+    "end_ms": 15832
+  },
+  {
+    "word": "tombé",
+    "start_ms": 15832,
+    "end_ms": 16148
+  },
+  {
+    "word": "du",
+    "start_ms": 16148,
+    "end_ms": 16464
+  },
+  {
+    "word": "ciel",
+    "start_ms": 16464,
+    "end_ms": 16780
+  },
+  {
+    "word": "cache",
+    "start_ms": 16780,
+    "end_ms": 17096
+  },
+  {
+    "word": "presque",
+    "start_ms": 17096,
+    "end_ms": 17412
+  },
+  {
+    "word": "toujours",
+    "start_ms": 17412,
+    "end_ms": 17728
+  },
+  {
+    "word": "un",
+    "start_ms": 17728,
+    "end_ms": 18044
+  },
+  {
+    "word": "piège.",
+    "start_ms": 18044,
+    "end_ms": 18360
+  },
+  {
+    "word": "Une",
+    "start_ms": 18360,
+    "end_ms": 18676
+  },
+  {
+    "word": "IA",
+    "start_ms": 18676,
+    "end_ms": 18992
+  },
+  {
+    "word": "comme",
+    "start_ms": 18992,
+    "end_ms": 19308
+  },
+  {
+    "word": "ChatGPT",
+    "start_ms": 19308,
+    "end_ms": 19624
+  },
+  {
+    "word": "peut",
+    "start_ms": 19624,
+    "end_ms": 19940
+  },
+  {
+    "word": "t'aider",
+    "start_ms": 19940,
+    "end_ms": 20256
+  },
+  {
+    "word": "à",
+    "start_ms": 20256,
+    "end_ms": 20572
+  },
+  {
+    "word": "repérer",
+    "start_ms": 20572,
+    "end_ms": 20888
+  },
+  {
+    "word": "les",
+    "start_ms": 20888,
+    "end_ms": 21204
+  },
+  {
+    "word": "indices",
+    "start_ms": 21204,
+    "end_ms": 21520
+  },
+  {
+    "word": "suspects,",
+    "start_ms": 21520,
+    "end_ms": 21836
+  },
+  {
+    "word": "mais",
+    "start_ms": 21836,
+    "end_ms": 22152
+  },
+  {
+    "word": "elle",
+    "start_ms": 22152,
+    "end_ms": 22468
+  },
+  {
+    "word": "ne",
+    "start_ms": 22468,
+    "end_ms": 22784
+  },
+  {
+    "word": "remplacera",
+    "start_ms": 22784,
+    "end_ms": 23100
+  },
+  {
+    "word": "jamais",
+    "start_ms": 23100,
+    "end_ms": 23416
+  },
+  {
+    "word": "votre",
+    "start_ms": 23416,
+    "end_ms": 23732
+  },
+  {
+    "word": "propre",
+    "start_ms": 23732,
+    "end_ms": 24048
+  },
+  {
+    "word": "vigilance.",
+    "start_ms": 24048,
+    "end_ms": 24364
+  },
+  {
+    "word": "Reste",
+    "start_ms": 23200,
+    "end_ms": 23698
+  },
+  {
+    "word": "vigilant,",
+    "start_ms": 23698,
+    "end_ms": 24196
+  },
+  {
+    "word": "protège",
+    "start_ms": 24196,
+    "end_ms": 24694
+  },
+  {
+    "word": "tes",
+    "start_ms": 24694,
+    "end_ms": 25192
+  },
+  {
+    "word": "données",
+    "start_ms": 25192,
+    "end_ms": 25690
+  },
+  {
+    "word": "!",
+    "start_ms": 25690,
+    "end_ms": 26188
+  },
+  {
+    "word": "IA",
+    "start_ms": 26188,
+    "end_ms": 26686
+  },
+  {
+    "word": "Niger",
+    "start_ms": 26686,
+    "end_ms": 27184
+  },
+  {
+    "word": "Communauté",
+    "start_ms": 27184,
+    "end_ms": 27682
+  },
+  {
+    "word": ":",
+    "start_ms": 27682,
+    "end_ms": 28180
+  },
+  {
+    "word": "Apprendre,",
+    "start_ms": 28180,
+    "end_ms": 28678
+  },
+  {
+    "word": "partager,",
+    "start_ms": 28678,
+    "end_ms": 29176
+  },
+  {
+    "word": "innover.",
+    "start_ms": 29176,
+    "end_ms": 29674
+  }
+]

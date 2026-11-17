@@ -10,20 +10,17 @@ import {
   useCurrentFrame,
   useVideoConfig,
 } from "remotion";
-import { z } from "zod";
 import { CaptionOverlay, WordCaption } from "./components/CaptionOverlay";
 import { resolveAsset } from "./lib/resolveAsset";
 import defaultDurations from "./geometrie_durations.json";
 import defaultCaptions from "./geometrie/captions.json";
 
-export const geometrieCM2Schema = z.object({
-  durations: z.record(z.string(), z.number()),
-  musicVolume: z.number().min(0).max(0.5).step(0.02),
-  narrationVolume: z.number().min(0).max(1.5).step(0.05),
-  showCaptions: z.boolean(),
-});
-
-export type GeometrieCM2Props = z.infer<typeof geometrieCM2Schema>;
+export interface GeometrieCM2Props {
+  durations?: Record<string, number>;
+  musicVolume?: number;
+  narrationVolume?: number;
+  showCaptions?: boolean;
+}
 
 const FPS = 30;
 const PAUSE_BEFORE = 15; // 0.5s

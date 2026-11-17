@@ -28,11 +28,10 @@ import { ZamVoyageAd } from "./ZamVoyageAd";
 import zamVoyageProps from "./zamVoyageProps.json";
 import { FantaParfumerieAd } from "./FantaParfumerieAd";
 import fantaProps from "./fantaProps.json";
-import { RentecPayRT100Ad, rentecPaySchema } from "./RentecPayRT100Ad";
+import { RentecPayRT100Ad } from "./RentecPayRT100Ad";
 import rentecPayProps from "./rentecPayProps.json";
 import {
   GeometrieCM2,
-  geometrieCM2Schema,
   calculateGeometrieMetadata,
 } from "./GeometrieCM2";
 import geometrieDurations from "./geometrie_durations.json";
@@ -161,7 +160,6 @@ export const Root: React.FC = () => {
       <Composition
         id="GeometrieCM2"
         component={GeometrieCM2}
-        schema={geometrieCM2Schema}
         calculateMetadata={calculateGeometrieMetadata}
         durationInFrames={30 * 98}
         fps={30}
@@ -186,7 +184,6 @@ export const Root: React.FC = () => {
       <Composition
         id="RentecPayRT100Ad"
         component={RentecPayRT100Ad}
-        schema={rentecPaySchema}
         durationInFrames={30 * 34}
         fps={30}
         width={1080}

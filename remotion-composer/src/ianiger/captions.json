@@ -1,0 +1,552 @@
+[
+  {
+    "word": "Quatre",
+    "start": 0.1,
+    "end": 0.45,
+    "startMs": 100,
+    "endMs": 450,
+    "start_ms": 100,
+    "end_ms": 450,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "styles",
+    "start": 0.46,
+    "end": 0.8,
+    "startMs": 460,
+    "endMs": 800,
+    "start_ms": 460,
+    "end_ms": 800,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "à",
+    "start": 0.81,
+    "end": 0.9,
+    "startMs": 810,
+    "endMs": 900,
+    "start_ms": 810,
+    "end_ms": 900,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "essayer",
+    "start": 0.92,
+    "end": 1.3,
+    "startMs": 920,
+    "endMs": 1300,
+    "start_ms": 920,
+    "end_ms": 1300,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "avec",
+    "start": 1.32,
+    "end": 1.55,
+    "startMs": 1320,
+    "endMs": 1550,
+    "start_ms": 1320,
+    "end_ms": 1550,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "l'IA",
+    "start": 1.58,
+    "end": 2.05,
+    "startMs": 1580,
+    "endMs": 2050,
+    "start_ms": 1580,
+    "end_ms": 2050,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "!",
+    "start": 2.06,
+    "end": 2.2,
+    "startMs": 2060,
+    "endMs": 2200,
+    "start_ms": 2060,
+    "end_ms": 2200,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "D'abord,",
+    "start": 2.25,
+    "end": 2.8,
+    "startMs": 2250,
+    "endMs": 2800,
+    "start_ms": 2250,
+    "end_ms": 2800,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Flat",
+    "start": 2.85,
+    "end": 3.2,
+    "startMs": 2850,
+    "endMs": 3200,
+    "start_ms": 2850,
+    "end_ms": 3200,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Lay",
+    "start": 3.22,
+    "end": 3.6,
+    "startMs": 3220,
+    "endMs": 3600,
+    "start_ms": 3220,
+    "end_ms": 3600,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 3.61,
+    "end": 3.7,
+    "startMs": 3610,
+    "endMs": 3700,
+    "start_ms": 3610,
+    "end_ms": 3700,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "photographiez",
+    "start": 3.75,
+    "end": 4.35,
+    "startMs": 3750,
+    "endMs": 4350,
+    "start_ms": 3750,
+    "end_ms": 4350,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "vos",
+    "start": 4.37,
+    "end": 4.55,
+    "startMs": 4370,
+    "endMs": 4550,
+    "start_ms": 4370,
+    "end_ms": 4550,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "produits",
+    "start": 4.57,
+    "end": 4.95,
+    "startMs": 4570,
+    "endMs": 4950,
+    "start_ms": 4570,
+    "end_ms": 4950,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "du",
+    "start": 4.97,
+    "end": 5.1,
+    "startMs": 4970,
+    "endMs": 5100,
+    "start_ms": 4970,
+    "end_ms": 5100,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "dessus.",
+    "start": 5.12,
+    "end": 5.6,
+    "startMs": 5120,
+    "endMs": 5600,
+    "start_ms": 5120,
+    "end_ms": 5600,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Lifestyle",
+    "start": 5.7,
+    "end": 6.3,
+    "startMs": 5700,
+    "endMs": 6300,
+    "start_ms": 5700,
+    "end_ms": 6300,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 6.31,
+    "end": 6.4,
+    "startMs": 6310,
+    "endMs": 6400,
+    "start_ms": 6310,
+    "end_ms": 6400,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "placez",
+    "start": 6.45,
+    "end": 6.85,
+    "startMs": 6450,
+    "endMs": 6850,
+    "start_ms": 6450,
+    "end_ms": 6850,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "votre",
+    "start": 6.87,
+    "end": 7.1,
+    "startMs": 6870,
+    "endMs": 7100,
+    "start_ms": 6870,
+    "end_ms": 7100,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "produit",
+    "start": 7.12,
+    "end": 7.55,
+    "startMs": 7120,
+    "endMs": 7550,
+    "start_ms": 7120,
+    "end_ms": 7550,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "dans",
+    "start": 7.57,
+    "end": 7.75,
+    "startMs": 7570,
+    "endMs": 7750,
+    "start_ms": 7570,
+    "end_ms": 7750,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "une",
+    "start": 7.77,
+    "end": 7.9,
+    "startMs": 7770,
+    "endMs": 7900,
+    "start_ms": 7770,
+    "end_ms": 7900,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "situation",
+    "start": 7.92,
+    "end": 8.45,
+    "startMs": 7920,
+    "endMs": 8450,
+    "start_ms": 7920,
+    "end_ms": 8450,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 8.47,
+    "end": 8.6,
+    "startMs": 8470,
+    "endMs": 8600,
+    "start_ms": 8470,
+    "end_ms": 8600,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "la",
+    "start": 8.62,
+    "end": 8.75,
+    "startMs": 8620,
+    "endMs": 8750,
+    "start_ms": 8620,
+    "end_ms": 8750,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "vie",
+    "start": 8.77,
+    "end": 9.05,
+    "startMs": 8770,
+    "endMs": 9050,
+    "start_ms": 8770,
+    "end_ms": 9050,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "quotidienne.",
+    "start": 9.1,
+    "end": 9.9,
+    "startMs": 9100,
+    "endMs": 9900,
+    "start_ms": 9100,
+    "end_ms": 9900,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Key",
+    "start": 10.1,
+    "end": 10.45,
+    "startMs": 10100,
+    "endMs": 10450,
+    "start_ms": 10100,
+    "end_ms": 10450,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Visual",
+    "start": 10.47,
+    "end": 10.95,
+    "startMs": 10470,
+    "endMs": 10950,
+    "start_ms": 10470,
+    "end_ms": 10950,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 10.96,
+    "end": 11.05,
+    "startMs": 10960,
+    "endMs": 11050,
+    "start_ms": 10960,
+    "end_ms": 11050,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "créez",
+    "start": 11.1,
+    "end": 11.5,
+    "startMs": 11100,
+    "endMs": 11500,
+    "start_ms": 11100,
+    "end_ms": 11500,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "l'image",
+    "start": 11.52,
+    "end": 11.95,
+    "startMs": 11520,
+    "endMs": 11950,
+    "start_ms": 11520,
+    "end_ms": 11950,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "principale",
+    "start": 12.0,
+    "end": 12.6,
+    "startMs": 12000,
+    "endMs": 12600,
+    "start_ms": 12000,
+    "end_ms": 12600,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 12.62,
+    "end": 12.75,
+    "startMs": 12620,
+    "endMs": 12750,
+    "start_ms": 12620,
+    "end_ms": 12750,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "votre",
+    "start": 12.77,
+    "end": 13.0,
+    "startMs": 12770,
+    "endMs": 13000,
+    "start_ms": 12770,
+    "end_ms": 13000,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "campagne",
+    "start": 13.02,
+    "end": 13.55,
+    "startMs": 13020,
+    "endMs": 13550,
+    "start_ms": 13020,
+    "end_ms": 13550,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "publicitaire.",
+    "start": 13.6,
+    "end": 14.5,
+    "startMs": 13600,
+    "endMs": 14500,
+    "start_ms": 13600,
+    "end_ms": 14500,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Storyboard",
+    "start": 14.7,
+    "end": 15.4,
+    "startMs": 14700,
+    "endMs": 15400,
+    "start_ms": 14700,
+    "end_ms": 15400,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 15.41,
+    "end": 15.5,
+    "startMs": 15410,
+    "endMs": 15500,
+    "start_ms": 15410,
+    "end_ms": 15500,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "préparez",
+    "start": 15.55,
+    "end": 16.05,
+    "startMs": 15550,
+    "endMs": 16050,
+    "start_ms": 15550,
+    "end_ms": 16050,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "votre",
+    "start": 16.07,
+    "end": 16.3,
+    "startMs": 16070,
+    "endMs": 16300,
+    "start_ms": 16070,
+    "end_ms": 16300,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "vidéo",
+    "start": 16.32,
+    "end": 16.75,
+    "startMs": 16320,
+    "endMs": 16750,
+    "start_ms": 16320,
+    "end_ms": 16750,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "en",
+    "start": 16.77,
+    "end": 16.95,
+    "startMs": 16770,
+    "endMs": 16950,
+    "start_ms": 16770,
+    "end_ms": 16950,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "images.",
+    "start": 17.0,
+    "end": 17.5,
+    "startMs": 17000,
+    "endMs": 17500,
+    "start_ms": 17000,
+    "end_ms": 17500,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Votre",
+    "start": 17.6,
+    "end": 18.0,
+    "startMs": 17600,
+    "endMs": 18000,
+    "start_ms": 17600,
+    "end_ms": 18000,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "préféré",
+    "start": 18.05,
+    "end": 18.6,
+    "startMs": 18050,
+    "endMs": 18600,
+    "start_ms": 18050,
+    "end_ms": 18600,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "?",
+    "start": 18.61,
+    "end": 18.75,
+    "startMs": 18610,
+    "endMs": 18750,
+    "start_ms": 18610,
+    "end_ms": 18750,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Commentez",
+    "start": 18.8,
+    "end": 19.3,
+    "startMs": 18800,
+    "endMs": 19300,
+    "start_ms": 18800,
+    "end_ms": 19300,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "1,",
+    "start": 19.32,
+    "end": 19.6,
+    "startMs": 19320,
+    "endMs": 19600,
+    "start_ms": 19320,
+    "end_ms": 19600,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "2,",
+    "start": 19.62,
+    "end": 19.9,
+    "startMs": 19620,
+    "endMs": 19900,
+    "start_ms": 19620,
+    "end_ms": 19900,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "3",
+    "start": 19.92,
+    "end": 20.2,
+    "startMs": 19920,
+    "endMs": 20200,
+    "start_ms": 19920,
+    "end_ms": 20200,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ou",
+    "start": 20.22,
+    "end": 20.4,
+    "startMs": 20220,
+    "endMs": 20400,
+    "start_ms": 20220,
+    "end_ms": 20400,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "4",
+    "start": 20.42,
+    "end": 20.75,
+    "startMs": 20420,
+    "endMs": 20750,
+    "start_ms": 20420,
+    "end_ms": 20750,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "!",
+    "start": 20.76,
+    "end": 20.9,
+    "startMs": 20760,
+    "endMs": 20900,
+    "start_ms": 20760,
+    "end_ms": 20900,
+    "pageBreakAfter": true
+  }
+]

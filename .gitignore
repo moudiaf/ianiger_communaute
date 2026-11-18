@@ -105,6 +105,13 @@ venv/
 # Local Wan / diffusers GPU environment
 .venv-wan/
 
+# Local test/scratch artifacts
+scratch_*
+temp_check.wav
+extracted.aac
+remotion-composer/out_*.png
+remotion-composer/test_*.png
+
 # npm cache (NPM_CONFIG_CACHE — see .env), keeps npx/HyperFrames writes in-tree
 .npm-cache/
 

@@ -28,15 +28,27 @@ import { ZamVoyageAd } from "./ZamVoyageAd";
 import zamVoyageProps from "./zamVoyageProps.json";
 import { FantaParfumerieAd } from "./FantaParfumerieAd";
 import fantaProps from "./fantaProps.json";
-import { RentecPayRT100Ad } from "./RentecPayRT100Ad";
+import { RentecPayRT100Ad, rentecPaySchema } from "./RentecPayRT100Ad";
 import rentecPayProps from "./rentecPayProps.json";
 import {
   GeometrieCM2,
+  geometrieCM2Schema,
   calculateGeometrieMetadata,
 } from "./GeometrieCM2";
 import geometrieDurations from "./geometrie_durations.json";
 import { EnergieTecAd } from "./EnergieTecAd";
 import energieTecProps from "./energieTecProps.json";
+import { IaNiger4PromptsAd } from "./IaNiger4PromptsAd";
+import iaNigerProps from "./iaNigerProps.json";
+import { ProductFlatLayLifestyle10s } from "./ProductFlatLayLifestyle10s";
+import { IaNigerEp2 } from "./IaNigerEp2";
+import { ProductRT100FlatLayLifestyle10s } from "./ProductRT100FlatLayLifestyle10s";
+import { EnergieTecGprsB2B } from "./EnergieTecGprsB2B";
+import { BilmaSelBlanc15s } from "./BilmaSelBlanc15s";
+import {
+  ProductShowcaseTemplate,
+  ProductShowcaseProps,
+} from "./templates/ProductShowcaseTemplate";
 
 // ---------------------------------------------------------------------------
 // Theme System — prevents every video from looking like dark fintech
@@ -158,8 +170,106 @@ export const Root: React.FC = () => {
   return (
     <>
       <Composition
+        id="ProductShowcaseTemplate"
+        component={ProductShowcaseTemplate as React.FC<any>}
+        durationInFrames={30 * 15}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          scenes: [
+            {
+              id: "s1",
+              imageSrc: "bilma/scene1_tenere.jpg",
+              durationInFrames: 120,
+              zoom: "in",
+              title: "Accroche Terroir",
+            },
+            {
+              id: "s2",
+              imageSrc: "bilma/scene2_grosplan.jpg",
+              durationInFrames: 150,
+              zoom: "out",
+              title: "Gros Plan Pur",
+            },
+            {
+              id: "s3",
+              imageSrc: "bilma/scene3_dattiers.jpg",
+              durationInFrames: 120,
+              pan: "left",
+              title: "Mise en Situation",
+            },
+            {
+              id: "s4",
+              imageSrc: "bilma/scene4_titre_final.jpg",
+              durationInFrames: 60,
+              zoom: "none",
+              title: "Signature",
+            },
+          ],
+          soundtrackSrc: "bilma/soundtrack.mp3",
+          brandBadge: "Terroir du Niger",
+          accentColor: "#d97706",
+        }}
+      />
+      <Composition
+        id="BilmaSelBlanc15s"
+        component={BilmaSelBlanc15s}
+        durationInFrames={30 * 15}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="EnergieTecGprsB2B"
+        component={EnergieTecGprsB2B}
+        durationInFrames={30 * 35}
+        fps={30}
+        width={1920}
+        height={1080}
+        defaultProps={{
+          narrationSrc: "narration_gprs_b2b.mp3",
+          soundtrackSrc: "soundtrack_gprs_b2b_ducked.mp3",
+          narrationVolume: 1.0,
+          musicVolume: 0.25,
+          showCaptions: true,
+        }}
+      />
+      <Composition
+        id="Rt100FlatLayLifestyle"
+        component={ProductRT100FlatLayLifestyle10s}
+        durationInFrames={30 * 10}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ProductFlatLayLifestyle10s"
+        component={ProductFlatLayLifestyle10s}
+        durationInFrames={30 * 10}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="IaNigerEp2"
+        component={IaNigerEp2}
+        durationInFrames={30 * 20}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          narrationSrc: "narration_ianiger_ep2.mp3",
+          soundtrackSrc: "soundtrack_ianiger_ep2_ducked.mp3",
+          narrationVolume: 1.0,
+          musicVolume: 0.25,
+          showCaptions: true,
+        }}
+      />
+      <Composition
         id="GeometrieCM2"
         component={GeometrieCM2}
+        schema={geometrieCM2Schema}
         calculateMetadata={calculateGeometrieMetadata}
         durationInFrames={30 * 98}
         fps={30}
@@ -184,6 +294,7 @@ export const Root: React.FC = () => {
       <Composition
         id="RentecPayRT100Ad"
         component={RentecPayRT100Ad}
+        schema={rentecPaySchema}
         durationInFrames={30 * 34}
         fps={30}
         width={1080}

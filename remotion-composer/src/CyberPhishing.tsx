@@ -17,9 +17,17 @@ export interface CyberPhishingProps {
   captions?: WordCaption[];
 }
 
+const defaultWordCaptions: WordCaption[] = (
+  defaultCaptions as unknown as Array<{ word: string; start_ms: number; end_ms: number }>
+).map((c) => ({
+  word: c.word,
+  startMs: c.start_ms,
+  endMs: c.end_ms,
+}));
+
 export const CyberPhishing: React.FC<CyberPhishingProps> = ({
   audioSrc = "narration_cyber.mp3",
-  captions = defaultCaptions as WordCaption[],
+  captions = defaultWordCaptions,
 }) => {
   const resolvedAudio = resolveAsset(audioSrc);
 

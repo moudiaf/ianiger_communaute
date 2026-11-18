@@ -1,5 +1,6 @@
 import React from "react";
 import { AbsoluteFill, Audio, Sequence } from "remotion";
+import { z } from "zod";
 import { Scene1Intro } from "./rentecpay/Scene1Intro";
 import { Scene2Meter } from "./rentecpay/Scene2Meter";
 import { Scene3App } from "./rentecpay/Scene3App";
@@ -9,23 +10,28 @@ import { CaptionOverlay, WordCaption } from "./components/CaptionOverlay";
 import { resolveAsset } from "./lib/resolveAsset";
 import defaultCaptions from "./rentecpay/captions.json";
 
-export interface RentecPayRT100AdProps {
-  narrationSrc?:
-    | "narration_rentecpay_remy.mp3"
-    | "narration_rentecpay_vivienne.mp3"
-    | "narration_rentecpay.mp3";
-  soundtrackSrc?:
-    | "soundtrack_rentecpay_ducked.mp3"
-    | "soundtrack_rentecpay.mp3"
-    | "soundtrack_rentecpay_soft.mp3";
-  narrationVolume?: number;
-  musicVolume?: number;
-  enableSfx?: boolean;
-  sfxVolume?: number;
-  showCaptions?: boolean;
-  captionHighlightColor?: "#38bdf8" | "#fbbf24" | "#22c55e" | "#ffffff";
+export const rentecPaySchema = z.object({
+  narrationSrc: z.enum([
+    "narration_rentecpay_remy.mp3",
+    "narration_rentecpay_vivienne.mp3",
+    "narration_rentecpay.mp3",
+  ]),
+  soundtrackSrc: z.enum([
+    "soundtrack_rentecpay_ducked.mp3",
+    "soundtrack_rentecpay.mp3",
+    "soundtrack_rentecpay_soft.mp3",
+  ]),
+  narrationVolume: z.number().min(0).max(1.5).step(0.05),
+  musicVolume: z.number().min(0).max(1).step(0.05),
+  enableSfx: z.boolean(),
+  sfxVolume: z.number().min(0).max(1).step(0.05),
+  showCaptions: z.boolean(),
+  captionHighlightColor: z.enum(["#38bdf8", "#fbbf24", "#22c55e", "#ffffff"]),
+});
+
+export type RentecPayRT100AdProps = z.infer<typeof rentecPaySchema> & {
   captions?: WordCaption[];
-}
+};
 
 export const RentecPayRT100Ad: React.FC<RentecPayRT100AdProps> = ({
   narrationSrc = "narration_rentecpay_remy.mp3",

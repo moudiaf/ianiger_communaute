@@ -1,0 +1,892 @@
+[
+  {
+    "word": "Améliorez",
+    "start": 0.05,
+    "end": 0.781,
+    "startMs": 50,
+    "endMs": 781,
+    "start_ms": 50,
+    "end_ms": 781,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "vos",
+    "start": 0.781,
+    "end": 1.025,
+    "startMs": 781,
+    "endMs": 1025,
+    "start_ms": 781,
+    "end_ms": 1025,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "projets",
+    "start": 1.025,
+    "end": 1.594,
+    "startMs": 1025,
+    "endMs": 1594,
+    "start_ms": 1025,
+    "end_ms": 1594,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 1.594,
+    "end": 1.756,
+    "startMs": 1594,
+    "endMs": 1756,
+    "start_ms": 1594,
+    "end_ms": 1756,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "comptage",
+    "start": 1.756,
+    "end": 2.406,
+    "startMs": 1756,
+    "endMs": 2406,
+    "start_ms": 1756,
+    "end_ms": 2406,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "électrique",
+    "start": 2.406,
+    "end": 3.218,
+    "startMs": 2406,
+    "endMs": 3218,
+    "start_ms": 2406,
+    "end_ms": 3218,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "en",
+    "start": 3.218,
+    "end": 3.381,
+    "startMs": 3218,
+    "endMs": 3381,
+    "start_ms": 3218,
+    "end_ms": 3381,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Afrique",
+    "start": 3.381,
+    "end": 3.95,
+    "startMs": 3381,
+    "endMs": 3950,
+    "start_ms": 3381,
+    "end_ms": 3950,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "avec",
+    "start": 3.95,
+    "end": 4.275,
+    "startMs": 3950,
+    "endMs": 4275,
+    "start_ms": 3950,
+    "end_ms": 4275,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "nos",
+    "start": 4.275,
+    "end": 4.518,
+    "startMs": 4275,
+    "endMs": 4518,
+    "start_ms": 4275,
+    "end_ms": 4518,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "compteurs",
+    "start": 4.518,
+    "end": 5.25,
+    "startMs": 4518,
+    "endMs": 5250,
+    "start_ms": 4518,
+    "end_ms": 5250,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "prépayés",
+    "start": 5.25,
+    "end": 5.899,
+    "startMs": 5250,
+    "endMs": 5899,
+    "start_ms": 5250,
+    "end_ms": 5899,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "intelligents",
+    "start": 5.899,
+    "end": 6.874,
+    "startMs": 5899,
+    "endMs": 6874,
+    "start_ms": 5899,
+    "end_ms": 6874,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "GPRS",
+    "start": 6.874,
+    "end": 7.199,
+    "startMs": 6874,
+    "endMs": 7199,
+    "start_ms": 6874,
+    "end_ms": 7199,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "2G",
+    "start": 7.199,
+    "end": 7.362,
+    "startMs": 7199,
+    "endMs": 7362,
+    "start_ms": 7199,
+    "end_ms": 7362,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 7.362,
+    "end": 7.524,
+    "startMs": 7362,
+    "endMs": 7524,
+    "start_ms": 7362,
+    "end_ms": 7524,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "4G",
+    "start": 7.524,
+    "end": 7.687,
+    "startMs": 7524,
+    "endMs": 7687,
+    "start_ms": 7524,
+    "end_ms": 7687,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 7.687,
+    "end": 7.768,
+    "startMs": 7687,
+    "endMs": 7768,
+    "start_ms": 7687,
+    "end_ms": 7768,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "STE18-G",
+    "start": 7.768,
+    "end": 8.337,
+    "startMs": 7768,
+    "endMs": 8337,
+    "start_ms": 7768,
+    "end_ms": 8337,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "monophasé",
+    "start": 8.337,
+    "end": 9.068,
+    "startMs": 8337,
+    "endMs": 9068,
+    "start_ms": 8337,
+    "end_ms": 9068,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 9.068,
+    "end": 9.23,
+    "startMs": 9068,
+    "endMs": 9230,
+    "start_ms": 9068,
+    "end_ms": 9230,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "STE38-G",
+    "start": 9.23,
+    "end": 9.799,
+    "startMs": 9230,
+    "endMs": 9799,
+    "start_ms": 9230,
+    "end_ms": 9799,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "triphasé",
+    "start": 9.799,
+    "end": 10.449,
+    "startMs": 9799,
+    "endMs": 10449,
+    "start_ms": 9799,
+    "end_ms": 10449,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "!",
+    "start": 10.449,
+    "end": 10.53,
+    "startMs": 10449,
+    "endMs": 10530,
+    "start_ms": 10449,
+    "end_ms": 10530,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Grâce",
+    "start": 10.53,
+    "end": 10.852,
+    "startMs": 10530,
+    "endMs": 10852,
+    "start_ms": 10530,
+    "end_ms": 10852,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "au",
+    "start": 10.852,
+    "end": 10.98,
+    "startMs": 10852,
+    "endMs": 10980,
+    "start_ms": 10852,
+    "end_ms": 10980,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "module",
+    "start": 10.98,
+    "end": 11.366,
+    "startMs": 10980,
+    "endMs": 11366,
+    "start_ms": 10980,
+    "end_ms": 11366,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "GPRS",
+    "start": 11.366,
+    "end": 11.623,
+    "startMs": 11366,
+    "endMs": 11623,
+    "start_ms": 11366,
+    "end_ms": 11623,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "intégré,",
+    "start": 11.623,
+    "end": 12.137,
+    "startMs": 11623,
+    "endMs": 12137,
+    "start_ms": 11623,
+    "end_ms": 12137,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "plus",
+    "start": 12.137,
+    "end": 12.394,
+    "startMs": 12137,
+    "endMs": 12394,
+    "start_ms": 12137,
+    "end_ms": 12394,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "besoin",
+    "start": 12.394,
+    "end": 12.78,
+    "startMs": 12394,
+    "endMs": 12780,
+    "start_ms": 12394,
+    "end_ms": 12780,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 12.78,
+    "end": 12.908,
+    "startMs": 12780,
+    "endMs": 12908,
+    "start_ms": 12780,
+    "end_ms": 12908,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "passerelle",
+    "start": 12.908,
+    "end": 13.551,
+    "startMs": 12908,
+    "endMs": 13551,
+    "start_ms": 12908,
+    "end_ms": 13551,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "DCU",
+    "start": 13.551,
+    "end": 13.744,
+    "startMs": 13551,
+    "endMs": 13744,
+    "start_ms": 13551,
+    "end_ms": 13744,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 13.744,
+    "end": 13.808,
+    "startMs": 13744,
+    "endMs": 13808,
+    "start_ms": 13744,
+    "end_ms": 13808,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "vous",
+    "start": 13.808,
+    "end": 14.065,
+    "startMs": 13808,
+    "endMs": 14065,
+    "start_ms": 13808,
+    "end_ms": 14065,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "réduisez",
+    "start": 14.065,
+    "end": 14.58,
+    "startMs": 14065,
+    "endMs": 14580,
+    "start_ms": 14065,
+    "end_ms": 14580,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "les",
+    "start": 14.58,
+    "end": 14.772,
+    "startMs": 14580,
+    "endMs": 14772,
+    "start_ms": 14580,
+    "end_ms": 14772,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "coûts",
+    "start": 14.772,
+    "end": 15.094,
+    "startMs": 14772,
+    "endMs": 15094,
+    "start_ms": 14772,
+    "end_ms": 15094,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "matériels,",
+    "start": 15.094,
+    "end": 15.736,
+    "startMs": 15094,
+    "endMs": 15736,
+    "start_ms": 15094,
+    "end_ms": 15736,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "sans",
+    "start": 15.736,
+    "end": 15.994,
+    "startMs": 15736,
+    "endMs": 15994,
+    "start_ms": 15736,
+    "end_ms": 15994,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "aucune",
+    "start": 15.994,
+    "end": 16.379,
+    "startMs": 15994,
+    "endMs": 16379,
+    "start_ms": 15994,
+    "end_ms": 16379,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "limite",
+    "start": 16.379,
+    "end": 16.765,
+    "startMs": 16379,
+    "endMs": 16765,
+    "start_ms": 16379,
+    "end_ms": 16765,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 16.765,
+    "end": 16.893,
+    "startMs": 16765,
+    "endMs": 16893,
+    "start_ms": 16765,
+    "end_ms": 16893,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "distance,",
+    "start": 16.893,
+    "end": 17.472,
+    "startMs": 16893,
+    "endMs": 17472,
+    "start_ms": 16893,
+    "end_ms": 17472,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "sur",
+    "start": 17.472,
+    "end": 17.665,
+    "startMs": 17472,
+    "endMs": 17665,
+    "start_ms": 17472,
+    "end_ms": 17665,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "tous",
+    "start": 17.665,
+    "end": 17.922,
+    "startMs": 17665,
+    "endMs": 17922,
+    "start_ms": 17665,
+    "end_ms": 17922,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "types",
+    "start": 17.922,
+    "end": 18.243,
+    "startMs": 17922,
+    "endMs": 18243,
+    "start_ms": 17922,
+    "end_ms": 18243,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 18.243,
+    "end": 18.372,
+    "startMs": 18243,
+    "endMs": 18372,
+    "start_ms": 18243,
+    "end_ms": 18372,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "bâtiments.",
+    "start": 18.372,
+    "end": 19.014,
+    "startMs": 18372,
+    "endMs": 19014,
+    "start_ms": 18372,
+    "end_ms": 19014,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Pilotez",
+    "start": 19.014,
+    "end": 19.466,
+    "startMs": 19014,
+    "endMs": 19466,
+    "start_ms": 19014,
+    "end_ms": 19466,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "l'ensemble",
+    "start": 19.466,
+    "end": 20.112,
+    "startMs": 19466,
+    "endMs": 20112,
+    "start_ms": 19466,
+    "end_ms": 20112,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "du",
+    "start": 20.112,
+    "end": 20.241,
+    "startMs": 20112,
+    "endMs": 20241,
+    "start_ms": 20112,
+    "end_ms": 20241,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "réseau",
+    "start": 20.241,
+    "end": 20.629,
+    "startMs": 20241,
+    "endMs": 20629,
+    "start_ms": 20241,
+    "end_ms": 20629,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "en",
+    "start": 20.629,
+    "end": 20.758,
+    "startMs": 20629,
+    "endMs": 20758,
+    "start_ms": 20629,
+    "end_ms": 20758,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "temps",
+    "start": 20.758,
+    "end": 21.081,
+    "startMs": 20758,
+    "endMs": 21081,
+    "start_ms": 20758,
+    "end_ms": 21081,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "réel",
+    "start": 21.081,
+    "end": 21.339,
+    "startMs": 21081,
+    "endMs": 21339,
+    "start_ms": 21081,
+    "end_ms": 21339,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "depuis",
+    "start": 21.339,
+    "end": 21.726,
+    "startMs": 21339,
+    "endMs": 21726,
+    "start_ms": 21339,
+    "end_ms": 21726,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "le",
+    "start": 21.726,
+    "end": 21.856,
+    "startMs": 21726,
+    "endMs": 21856,
+    "start_ms": 21726,
+    "end_ms": 21856,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "portail",
+    "start": 21.856,
+    "end": 22.308,
+    "startMs": 21856,
+    "endMs": 22308,
+    "start_ms": 21856,
+    "end_ms": 22308,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "e-EnergieTEC",
+    "start": 22.308,
+    "end": 23.082,
+    "startMs": 22308,
+    "endMs": 23082,
+    "start_ms": 22308,
+    "end_ms": 23082,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Smart",
+    "start": 23.082,
+    "end": 23.405,
+    "startMs": 23082,
+    "endMs": 23405,
+    "start_ms": 23082,
+    "end_ms": 23405,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Metering",
+    "start": 23.405,
+    "end": 23.922,
+    "startMs": 23405,
+    "endMs": 23922,
+    "start_ms": 23405,
+    "end_ms": 23922,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 23.922,
+    "end": 23.986,
+    "startMs": 23922,
+    "endMs": 23986,
+    "start_ms": 23922,
+    "end_ms": 23986,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "disponibilité,",
+    "start": 23.986,
+    "end": 24.891,
+    "startMs": 23986,
+    "endMs": 24891,
+    "start_ms": 23986,
+    "end_ms": 24891,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "pertes",
+    "start": 24.891,
+    "end": 25.278,
+    "startMs": 24891,
+    "endMs": 25278,
+    "start_ms": 24891,
+    "end_ms": 25278,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "réseau,",
+    "start": 25.278,
+    "end": 25.73,
+    "startMs": 25278,
+    "endMs": 25730,
+    "start_ms": 25278,
+    "end_ms": 25730,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ventes",
+    "start": 25.73,
+    "end": 26.117,
+    "startMs": 25730,
+    "endMs": 26117,
+    "start_ms": 25730,
+    "end_ms": 26117,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "STS",
+    "start": 26.117,
+    "end": 26.311,
+    "startMs": 26117,
+    "endMs": 26311,
+    "start_ms": 26117,
+    "end_ms": 26311,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 26.311,
+    "end": 26.44,
+    "startMs": 26311,
+    "endMs": 26440,
+    "start_ms": 26311,
+    "end_ms": 26440,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "alertes",
+    "start": 26.44,
+    "end": 26.892,
+    "startMs": 26440,
+    "endMs": 26892,
+    "start_ms": 26440,
+    "end_ms": 26892,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "critiques.",
+    "start": 26.892,
+    "end": 27.538,
+    "startMs": 26892,
+    "endMs": 27538,
+    "start_ms": 26892,
+    "end_ms": 27538,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "La",
+    "start": 27.538,
+    "end": 27.666,
+    "startMs": 27538,
+    "endMs": 27666,
+    "start_ms": 27538,
+    "end_ms": 27666,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "solution",
+    "start": 27.666,
+    "end": 28.176,
+    "startMs": 27666,
+    "endMs": 28176,
+    "start_ms": 27666,
+    "end_ms": 28176,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "idéale",
+    "start": 28.176,
+    "end": 28.559,
+    "startMs": 28176,
+    "endMs": 28559,
+    "start_ms": 28176,
+    "end_ms": 28559,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "pour",
+    "start": 28.559,
+    "end": 28.815,
+    "startMs": 28559,
+    "endMs": 28815,
+    "start_ms": 28559,
+    "end_ms": 28815,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "les",
+    "start": 28.815,
+    "end": 29.006,
+    "startMs": 28815,
+    "endMs": 29006,
+    "start_ms": 28815,
+    "end_ms": 29006,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "compagnies",
+    "start": 29.006,
+    "end": 29.644,
+    "startMs": 29006,
+    "endMs": 29644,
+    "start_ms": 29006,
+    "end_ms": 29644,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "de",
+    "start": 29.644,
+    "end": 29.772,
+    "startMs": 29644,
+    "endMs": 29772,
+    "start_ms": 29644,
+    "end_ms": 29772,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "services",
+    "start": 29.772,
+    "end": 30.283,
+    "startMs": 29772,
+    "endMs": 30283,
+    "start_ms": 29772,
+    "end_ms": 30283,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "publics.",
+    "start": 30.283,
+    "end": 30.793,
+    "startMs": 30283,
+    "endMs": 30793,
+    "start_ms": 30283,
+    "end_ms": 30793,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Contactez-nous",
+    "start": 30.793,
+    "end": 31.661,
+    "startMs": 30793,
+    "endMs": 31661,
+    "start_ms": 30793,
+    "end_ms": 31661,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "pour",
+    "start": 31.661,
+    "end": 31.909,
+    "startMs": 31661,
+    "endMs": 31909,
+    "start_ms": 31661,
+    "end_ms": 31909,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "votre",
+    "start": 31.909,
+    "end": 32.219,
+    "startMs": 31909,
+    "endMs": 32219,
+    "start_ms": 31909,
+    "end_ms": 32219,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "fiche",
+    "start": 32.219,
+    "end": 32.529,
+    "startMs": 32219,
+    "endMs": 32529,
+    "start_ms": 32219,
+    "end_ms": 32529,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "technique",
+    "start": 32.529,
+    "end": 33.087,
+    "startMs": 32529,
+    "endMs": 33087,
+    "start_ms": 32529,
+    "end_ms": 33087,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "et",
+    "start": 33.087,
+    "end": 33.211,
+    "startMs": 33087,
+    "endMs": 33211,
+    "start_ms": 33087,
+    "end_ms": 33211,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "devis",
+    "start": 33.211,
+    "end": 33.521,
+    "startMs": 33211,
+    "endMs": 33521,
+    "start_ms": 33211,
+    "end_ms": 33521,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "!",
+    "start": 33.521,
+    "end": 33.583,
+    "startMs": 33521,
+    "endMs": 33583,
+    "start_ms": 33521,
+    "end_ms": 33583,
+    "pageBreakAfter": true
+  }
+]

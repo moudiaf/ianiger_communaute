@@ -131,9 +131,43 @@ def duck_music_with_voice(
     subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 
+def check_providers() -> dict[str, str]:
+    """Vérifie la disponibilité des moteurs TTS/Audio (local et cloud)."""
+    import urllib.request
+    status: dict[str, str] = {}
+
+    try:
+        import edge_tts  # noqa: F401
+        status["edge_tts"] = "OK (gratuit, en ligne)"
+    except ImportError:
+        status["edge_tts"] = "NON INSTALLÉ"
+
+    fal_key = os.getenv("FAL_KEY", "").strip()
+    if not fal_key:
+        status["fal_ai"] = "NON CONFIGURÉ (FAL_KEY absent)"
+    else:
+        try:
+            req = urllib.request.Request(
+                "https://rest.alpha.fal.ai/storage/upload/initiate",
+                method="POST",
+                headers={"Authorization": f"Key {fal_key}", "Content-Type": "application/json"},
+                data=b'{"file_name":"ping.txt","content_type":"text/plain"}',
+            )
+            with urllib.request.urlopen(req, timeout=8) as resp:
+                status["fal_ai"] = f"OK (HTTP {resp.status})"
+        except Exception as exc:
+            status["fal_ai"] = f"ERREUR ({exc})"
+
+    el_key = os.getenv("ELEVENLABS_API_KEY", "").strip()
+    status["elevenlabs_direct"] = "CONFIGURÉ" if el_key else "NON CONFIGURÉ"
+    return status
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="OpenMontage Audio Studio")
     parser.add_argument("--list-options", action="store_true", help="Afficher les voix et préréglages disponibles")
+    parser.add_argument("--check-providers", action="store_true", help="Tester la disponibilité des moteurs TTS")
+    parser.add_argument("--preview", action="store_true", help="Générer uniquement un extrait court de 4 secondes")
     parser.add_argument("--text", type=str, help="Texte à synthétiser")
     parser.add_argument("--voice", type=str, default="remy_multilingual", choices=list(FRENCH_VOICES.keys()))
     parser.add_argument("--preset", type=str, default="broadcast", choices=list(MASTERING_PRESETS.keys()))
@@ -141,6 +175,12 @@ def main() -> None:
     parser.add_argument("--out", type=str, help="Chemin du fichier MP3 masterisé de sortie")
     parser.add_argument("--boundaries-out", type=str, help="Chemin JSON optionnel pour les bornes de phrases")
     args = parser.parse_args()
+
+    if args.check_providers:
+        print("=== ÉTAT DES MOTEURS AUDIO ===")
+        for k, v in check_providers().items():
+            print(f"  - {k}: {v}")
+        return
 
     if args.list_options:
         print("=== VOIX DISPONIBLES ===")
@@ -158,8 +198,19 @@ def main() -> None:
     raw_path = out_path.with_name(out_path.stem + "_raw.mp3")
     voice_cfg = FRENCH_VOICES[args.voice]
 
-    boundaries = asyncio.run(generate_edge_tts(args.text, voice_cfg["voice_id"], raw_path, rate=args.rate))
-    master_audio(raw_path, out_path, preset=args.preset)
+    text_to_speak = args.text[:140] if args.preview else args.text
+    boundaries = asyncio.run(generate_edge_tts(text_to_speak, voice_cfg["voice_id"], raw_path, rate=args.rate))
+    if args.preview:
+        trim_raw = out_path.with_name(out_path.stem + "_trim.mp3")
+        subprocess.run(
+            ["ffmpeg", "-y", "-i", str(raw_path), "-t", "4.0", str(trim_raw)],
+            check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+        )
+        master_audio(trim_raw, out_path, preset=args.preset)
+        if trim_raw.exists():
+            trim_raw.unlink()
+    else:
+        master_audio(raw_path, out_path, preset=args.preset)
     if raw_path.exists():
         raw_path.unlink()
 

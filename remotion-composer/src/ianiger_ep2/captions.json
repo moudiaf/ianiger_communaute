@@ -1,0 +1,482 @@
+[
+  {
+    "word": "Une",
+    "start": 0.05,
+    "end": 0.239,
+    "startMs": 50,
+    "endMs": 239,
+    "start_ms": 50,
+    "end_ms": 239,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "photo,",
+    "start": 0.239,
+    "end": 0.617,
+    "startMs": 239,
+    "endMs": 617,
+    "start_ms": 239,
+    "end_ms": 617,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "quatre",
+    "start": 0.617,
+    "end": 0.995,
+    "startMs": 617,
+    "endMs": 995,
+    "start_ms": 617,
+    "end_ms": 995,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "styles",
+    "start": 0.995,
+    "end": 1.373,
+    "startMs": 995,
+    "endMs": 1373,
+    "start_ms": 995,
+    "end_ms": 1373,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "à",
+    "start": 1.373,
+    "end": 1.436,
+    "startMs": 1373,
+    "endMs": 1436,
+    "start_ms": 1373,
+    "end_ms": 1436,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "découvrir",
+    "start": 1.436,
+    "end": 2.002,
+    "startMs": 1436,
+    "endMs": 2002,
+    "start_ms": 1436,
+    "end_ms": 2002,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "avec",
+    "start": 2.002,
+    "end": 2.254,
+    "startMs": 2002,
+    "endMs": 2254,
+    "start_ms": 2002,
+    "end_ms": 2254,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "l'intelligence",
+    "start": 2.254,
+    "end": 3.136,
+    "startMs": 2254,
+    "endMs": 3136,
+    "start_ms": 2254,
+    "end_ms": 3136,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "artificielle",
+    "start": 3.136,
+    "end": 3.892,
+    "startMs": 3136,
+    "endMs": 3892,
+    "start_ms": 3136,
+    "end_ms": 3892,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "!",
+    "start": 3.892,
+    "end": 3.955,
+    "startMs": 3892,
+    "endMs": 3955,
+    "start_ms": 3892,
+    "end_ms": 3955,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Flat",
+    "start": 3.955,
+    "end": 4.239,
+    "startMs": 3955,
+    "endMs": 4239,
+    "start_ms": 3955,
+    "end_ms": 4239,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Lay",
+    "start": 4.239,
+    "end": 4.452,
+    "startMs": 4239,
+    "endMs": 4452,
+    "start_ms": 4239,
+    "end_ms": 4452,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 4.452,
+    "end": 4.523,
+    "startMs": 4452,
+    "endMs": 4523,
+    "start_ms": 4452,
+    "end_ms": 4523,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "présentez",
+    "start": 4.523,
+    "end": 5.161,
+    "startMs": 4523,
+    "endMs": 5161,
+    "start_ms": 4523,
+    "end_ms": 5161,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "votre",
+    "start": 5.161,
+    "end": 5.516,
+    "startMs": 5161,
+    "endMs": 5516,
+    "start_ms": 5161,
+    "end_ms": 5516,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "produit",
+    "start": 5.516,
+    "end": 6.013,
+    "startMs": 5516,
+    "endMs": 6013,
+    "start_ms": 5516,
+    "end_ms": 6013,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "du",
+    "start": 6.013,
+    "end": 6.155,
+    "startMs": 6013,
+    "endMs": 6155,
+    "start_ms": 6013,
+    "end_ms": 6155,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "dessus.",
+    "start": 6.155,
+    "end": 6.652,
+    "startMs": 6155,
+    "endMs": 6652,
+    "start_ms": 6155,
+    "end_ms": 6652,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Lifestyle",
+    "start": 6.652,
+    "end": 7.355,
+    "startMs": 6652,
+    "endMs": 7355,
+    "start_ms": 6652,
+    "end_ms": 7355,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 7.355,
+    "end": 7.433,
+    "startMs": 7355,
+    "endMs": 7433,
+    "start_ms": 7355,
+    "end_ms": 7433,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "mettez-le",
+    "start": 7.433,
+    "end": 8.136,
+    "startMs": 7433,
+    "endMs": 8136,
+    "start_ms": 7433,
+    "end_ms": 8136,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "en",
+    "start": 8.136,
+    "end": 8.292,
+    "startMs": 8136,
+    "endMs": 8292,
+    "start_ms": 8136,
+    "end_ms": 8292,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "situation.",
+    "start": 8.292,
+    "end": 9.074,
+    "startMs": 8292,
+    "endMs": 9074,
+    "start_ms": 8292,
+    "end_ms": 9074,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Key",
+    "start": 9.074,
+    "end": 9.327,
+    "startMs": 9074,
+    "endMs": 9327,
+    "start_ms": 9074,
+    "end_ms": 9327,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "Visual",
+    "start": 9.327,
+    "end": 9.834,
+    "startMs": 9327,
+    "endMs": 9834,
+    "start_ms": 9327,
+    "end_ms": 9834,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 9.834,
+    "end": 9.918,
+    "startMs": 9834,
+    "endMs": 9918,
+    "start_ms": 9834,
+    "end_ms": 9918,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "créez",
+    "start": 9.918,
+    "end": 10.341,
+    "startMs": 9918,
+    "endMs": 10341,
+    "start_ms": 9918,
+    "end_ms": 10341,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "un",
+    "start": 10.341,
+    "end": 10.51,
+    "startMs": 10341,
+    "endMs": 10510,
+    "start_ms": 10341,
+    "end_ms": 10510,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "visuel",
+    "start": 10.51,
+    "end": 11.017,
+    "startMs": 10510,
+    "endMs": 11017,
+    "start_ms": 10510,
+    "end_ms": 11017,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "publicitaire.",
+    "start": 11.017,
+    "end": 12.115,
+    "startMs": 11017,
+    "endMs": 12115,
+    "start_ms": 11017,
+    "end_ms": 12115,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Storyboard",
+    "start": 12.115,
+    "end": 12.855,
+    "startMs": 12115,
+    "endMs": 12855,
+    "start_ms": 12115,
+    "end_ms": 12855,
+    "pageBreakAfter": false
+  },
+  {
+    "word": ":",
+    "start": 12.855,
+    "end": 12.929,
+    "startMs": 12855,
+    "endMs": 12929,
+    "start_ms": 12855,
+    "end_ms": 12929,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "préparez",
+    "start": 12.929,
+    "end": 13.52,
+    "startMs": 12929,
+    "endMs": 13520,
+    "start_ms": 12929,
+    "end_ms": 13520,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "votre",
+    "start": 13.52,
+    "end": 13.89,
+    "startMs": 13520,
+    "endMs": 13890,
+    "start_ms": 13520,
+    "end_ms": 13890,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "prochaine",
+    "start": 13.89,
+    "end": 14.556,
+    "startMs": 13890,
+    "endMs": 14556,
+    "start_ms": 13890,
+    "end_ms": 14556,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "vidéo.",
+    "start": 14.556,
+    "end": 15.0,
+    "startMs": 14556,
+    "endMs": 15000,
+    "start_ms": 14556,
+    "end_ms": 15000,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Lequel",
+    "start": 15.0,
+    "end": 15.439,
+    "startMs": 15000,
+    "endMs": 15439,
+    "start_ms": 15000,
+    "end_ms": 15439,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "préférez-vous",
+    "start": 15.439,
+    "end": 16.389,
+    "startMs": 15439,
+    "endMs": 16389,
+    "start_ms": 15439,
+    "end_ms": 16389,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "?",
+    "start": 16.389,
+    "end": 16.462,
+    "startMs": 16389,
+    "endMs": 16462,
+    "start_ms": 16389,
+    "end_ms": 16462,
+    "pageBreakAfter": true
+  },
+  {
+    "word": "Écrivez",
+    "start": 16.462,
+    "end": 17.219,
+    "startMs": 16462,
+    "endMs": 17219,
+    "start_ms": 16462,
+    "end_ms": 17219,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "1,",
+    "start": 17.219,
+    "end": 17.435,
+    "startMs": 17219,
+    "endMs": 17435,
+    "start_ms": 17219,
+    "end_ms": 17435,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "2,",
+    "start": 17.435,
+    "end": 17.652,
+    "startMs": 17435,
+    "endMs": 17652,
+    "start_ms": 17435,
+    "end_ms": 17652,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "3",
+    "start": 17.652,
+    "end": 17.76,
+    "startMs": 17652,
+    "endMs": 17760,
+    "start_ms": 17652,
+    "end_ms": 17760,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "ou",
+    "start": 17.76,
+    "end": 17.976,
+    "startMs": 17760,
+    "endMs": 17976,
+    "start_ms": 17760,
+    "end_ms": 17976,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "4",
+    "start": 17.976,
+    "end": 18.084,
+    "startMs": 17976,
+    "endMs": 18084,
+    "start_ms": 17976,
+    "end_ms": 18084,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "en",
+    "start": 18.084,
+    "end": 18.3,
+    "startMs": 18084,
+    "endMs": 18300,
+    "start_ms": 18084,
+    "end_ms": 18300,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "commentaire",
+    "start": 18.3,
+    "end": 19.49,
+    "startMs": 18300,
+    "endMs": 19490,
+    "start_ms": 18300,
+    "end_ms": 19490,
+    "pageBreakAfter": false
+  },
+  {
+    "word": "!",
+    "start": 19.49,
+    "end": 19.598,
+    "startMs": 19490,
+    "endMs": 19598,
+    "start_ms": 19490,
+    "end_ms": 19598,
+    "pageBreakAfter": true
+  }
+]
